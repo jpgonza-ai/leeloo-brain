@@ -11,6 +11,7 @@
 - `memory/AAAA-MM-DD.md` — logs diarios.
   - `memory/2026-07-02.md` — renacimiento v2, migración v1→v2, grupo Telegram Mario+Patti, tarea reseñas Fran, cron matutino.
   - `memory/2026-07-03.md` — ejecución del brief matutino de newsletters (en texto, sin TTS).
+- `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a JP.
 
 ## Archivo histórico v1
 - `v1/` — histórico curado de OpenClaw (17 bitácoras, 22 sesiones, main.sqlite, notas, media, identidad v1 de referencia). Ver `v1/README.md`.
