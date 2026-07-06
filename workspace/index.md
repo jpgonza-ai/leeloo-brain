@@ -12,6 +12,7 @@
   - `memory/2026-07-02.md` — renacimiento v2, migración v1→v2, grupo Telegram Mario+Patti, tarea reseñas Fran, cron matutino.
   - `memory/2026-07-03.md` — ejecución del brief matutino de newsletters (en texto, sin TTS).
   - `memory/2026-07-04.md` — creación proyecto Kaizen ⚡ en Asana + 1er brain dump (6 ideas).
+  - `memory/2026-07-05.md` — resumen Morning Brew (edición aniversario 250) + archivado; evento "Dubs 🎾" en calendario.
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a JP.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
 - `memory/project_kaizen_asana.md` — proyecto Kaizen ⚡: GIDs, secciones, backlog de 6 ideas y decisiones.

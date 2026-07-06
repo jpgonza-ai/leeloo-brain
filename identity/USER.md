@@ -33,7 +33,7 @@
 - **Fran Papapietro:** realtor (Sereno / Christie's, especializada en relocation) que los apoyó en la mudanza a Sunnyvale (revisión de lease, guía SSN/DMV). 2026-07-02 JP y Fer le dejaron reseñas en Google/Zillow/Yelp a petición de ella.
 - **No** es fan de los SF Giants; solo consultó el calendario de próximos juegos (interés puntual, no fandom).
 - Viajes de interés: **Lake Tahoe** (planeó viaje ~mayo 2026, budget hotel ~$300/noche), **Madrid** y **Barcelona**.
-- Aficiones/tareas recurrentes: edición de contenido (reels de Instagram en CapCut), interés en **Obsidian**.
+- Aficiones/tareas recurrentes: edición de contenido (reels de Instagram en CapCut), interés en **Obsidian**. Juega **tenis dobles** ("Dubs" 🎾) en **Bayclub Courtside**.
 - Consumidor de newsletters financieras: **Morning Brew** y **CFO Brew** (pide resúmenes en audio).
 
 ## Flujos que le gustan (establecidos en v1)
