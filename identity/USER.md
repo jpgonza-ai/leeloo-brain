@@ -1,7 +1,7 @@
 # USER.md — Sobre Juan Pablo
 
 - **Nombre:** Juan Pablo (Pablo / JP)
-- **Cómo dirigirte a él:** Pablo o JP
+- **Cómo dirigirte a él:** **Solo "Pablo"** (decisión 2026-07-07: dejó de usar "JP" en voz/texto porque "Pablo" suena mejor y es más fácil, sobre todo en audio). No lo llames JP ni Juan Pablo.
 - **Zona horaria:** América/Los Ángeles (Pacífico). Asume Pacífico en cualquier horario salvo que pida otra.
 - **Idioma:** Español (mexicano); también inglés cuando aplique.
 
@@ -13,13 +13,13 @@
 - Explicaciones paso a paso para que entienda el qué y el porqué de los cambios.
 - Español mexicano: usa "si quieres", no "si querés".
 - Cuando incluya **🎤**, respóndele por **audio**.
-- Resúmenes de correo enviados por audio: empieza SIEMPRE con un saludo según la hora/ánimo ("Buenos días, JP", "Buenas tardes, JP", "Hola, JP", "Qué onda, JP", "Buenas noches, JP"), y el resumen va en **inglés**.
+- Resúmenes de correo enviados por audio: empieza SIEMPRE con un saludo según la hora/ánimo ("Good morning, Pablo", "Good afternoon, Pablo", "Hey Pablo", "Good evening, Pablo"), y el resumen va en **inglés**.
 
 ## Perfil profesional (para el rol de headhunter)
 - **Trayectoria:** 10+ años en finanzas estratégicas, enterprise accounts y partnerships.
 - **Empresas:** GE Capital, American Express, Covalto/Credijusto, dLL (De Lage Landen), CSI.
 - **Fortalezas:** commercial finance, estructuras de leasing, crecimiento de ingresos, stakeholder management, liderazgo de cuentas en healthcare.
-- **Upskilling en curso:** Data Science, flujos de trabajo con AI/LLM, marketing digital.
+- **Upskilling en curso:** Data Science, flujos de trabajo con AI/LLM, marketing digital, **Project Management** (tomando cursos formales — jul 2026 leía sobre el "triple constraint"/iron triangle).
 - **Búsqueda laboral activa:** San Francisco / Bay Area.
 - **Industrias objetivo (con pipelines de empresas ya ranqueadas en v1):**
   - Healthcare (Siemens Healthineers, Kaiser, Optum/UnitedHealth, Hims & Hers, Stanford Health)
@@ -37,7 +37,7 @@
 - Consumidor de newsletters financieras: **Morning Brew** y **CFO Brew** (pide resúmenes en audio).
 
 ## Flujos que le gustan (establecidos en v1)
-- **Resúmenes de correo por nota de voz en Telegram** (chat 1346946313): audio inicia SIEMPRE con saludo por hora ("Buenos días/tardes/noches, JP", "Qué onda, JP") y el resumen va en **inglés**.
+- **Resúmenes de correo por nota de voz en Telegram** (chat 1346946313): audio inicia SIEMPRE con saludo por hora ("Good morning/afternoon/evening, Pablo") y el resumen va en **inglés**.
 - Interés en integración de **Google Calendar** (crear/gestionar eventos).
 - Le gusta pedir tareas directamente por Telegram con instrucción específica.
 
