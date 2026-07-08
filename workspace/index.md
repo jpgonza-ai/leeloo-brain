@@ -20,6 +20,7 @@
 - `memory/project_kaizen_asana.md` — proyecto Kaizen ⚡: GIDs, secciones, backlog de 6 ideas y decisiones.
 - `memory/project_ny_trip.md` — viaje a NY (40 de Fer, 12–19 jul 2026): agenda de museos final + PDF entregado.
 - `memory/project_support_agent_merlin.md` — iniciativa Kaizen: agente de soporte de redes ("Merlín") que reporta a Leeloo.
+- `memory/project_newsletter_marruecos.md` — newsletter semanal de lujo sobre Marruecos (imagen PNG/JPG para Mailchimp, estilo Unframed); script `newsletter_morocco.py`.
 
 ## Archivo histórico v1
 - `v1/` — histórico curado de OpenClaw (17 bitácoras, 22 sesiones, main.sqlite, notas, media, identidad v1 de referencia). Ver `v1/README.md`.
