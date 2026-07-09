@@ -24,5 +24,8 @@ JP y su esposa **Fernanda "Fer" Kobeh** vuelan a **Nueva York**: llegan **dom 12
 - **Cumpleaños de Fer = miércoles 15-jul-2026.** Pendiente ofrecido a JP: investigar opciones de cena cerca de Central Park (si lo pide).
 - Tip dado a JP: comprar **timed tickets** anticipados para Frick, MET, Guggenheim (verano lleno).
 
+## Vuelos — en Google Calendar (2026-07-08)
+Pablo pidió crear los eventos de vuelo (ida y vuelta) desde el correo de **Fernanda con la info de Southwest** en su bandeja. Creados en su calendario con la info relevante del vuelo; Pablo confirmó "Así está perfecto". **Fuente autoritativa de horarios/números de vuelo = los eventos en Google Calendar** (consultarlos ahí, no memorizados aquí).
+
 ## Pendiente de JP
-- **Qué día exacto cae el cumpleaños de Fer** → para reservar algo especial ese día (MET o cena top). Se lo pregunté; quedó de avisar.
+- **Qué día exacto cae el cumpleaños de Fer** → para reservar algo especial ese día (MET o cena top). Se lo pregunté; quedó de avisar. (Nota: en la ruta entregada se asumió mié 15-jul.)

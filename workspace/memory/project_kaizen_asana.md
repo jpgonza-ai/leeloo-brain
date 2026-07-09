@@ -66,3 +66,6 @@ Todas en 🧠 Backlog. (Ver orden/fases arriba.)
 
 ## Backlog — 2º ingreso (2026-07-06)
 7. **🤖 Agente de soporte (Merlín)** (GID `1216328208091783`) — sub-agente que produce contenido de redes y lo revisa con Leeloo antes de publicar; reporta a Leeloo. Reutilizar el "alma" de Merlín (agente que JP creó en claude.ai). Detalle en `project_support_agent_merlin.md`. Depende del puente (#2) para publicar.
+
+## Backlog — 3er ingreso (2026-07-08)
+8. **📧 Correo propio de Leeloo (envío de mails con CC a Pablo)** (GID `1216408680019470`) — cuenta Gmail dedicada para que Leeloo ENVÍE correos autónomamente copiando siempre a Pablo. Vía preferida: SMTP + app-password (script tipo say.py), no depende del conector de Gmail ni del navegador. Pasos: Pablo crea cuenta → app-password → llave en `.secrets` (requiere config) → Leeloo arma script. Confirmar antes de enviar salvo libertades. Detalle también en MEMORY.md. Se conecta con el puente pero puede habilitarse aparte. En 🧠 Backlog, asignado a Pablo.
