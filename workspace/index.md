@@ -16,6 +16,7 @@
   - `memory/2026-07-07.md` — fechas Fase 0 Kaizen; cursos PM de JP (triple constraint); inicio F0·1 (definir voz TTS), entorno sin motor de voz.
   - `memory/2026-07-08.md` — rutina diaria de briefs por audio (5:30 AM Morning Brew+eventos, 5:00 PM CFO/Brew Markets, con archivado); hallazgo cron session-only; prueba de generación de imágenes (Nano Banana) → retrato RF final.
   - `memory/2026-07-09.md` — rutina matutina; Kaizen F0·2 cerrada (checklist loops 8 pts + medición A+B+C); llamada Seguridata; newsletter Unframed variante B + **brief para Tavo entregado en PDF y Word** (logo lazos verdes).
+  - `memory/2026-07-10.md` — **nueva capacidad STT** (entiendo notas de voz vía ElevenLabs Scribe); logos oficiales de Unframed recibidos; **newsletter variante B2 reordenada** (valor WAMT arriba) + feedback de Tavo fijado.
 - `memory/feedback_naming.md` — trato: SIEMPRE "Pablo", nunca "JP"/"Yeipi" (texto y audio).
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
@@ -38,10 +39,11 @@
 - `gen_image.py` — generación/edición de imágenes por IA (Google Gemini "Nano Banana"); ver capacidad en MEMORY.md.
 - `newsletter_morocco.py` — newsletter Marruecos, opción A (columna corta estilo Unframed, fotos Rabat).
 - `newsletter_morocco_b.py` — newsletter Marruecos, **opción B** (revista/itinerario, canvas marfil, 5 destinos, banda WAMT). Variante elegida por Pablo.
+- `newsletter_morocco_b2.py` — **variante B REORDENADA** (2026-07-10): oferta de valor WAMT como hero arriba, destinos al cuerpo, recap+CTA al cierre, emblema oficial verde en el pie. Render en `media/newsletter_morocco_b2.png/.jpg`.
 - `brief_pdf.py` — genera el brief de estado Unframed×WAMT en **PDF** (1 pág, PIL, logo arriba-derecha).
 - `brief_docx.py` — genera el mismo brief en **Word editable** (.docx, python-docx) para que Tavo comente/edite.
 - `newsletter_assets/` — fotos de contactos y recursos del newsletter. Incluye `unframed_ig_profile.jpg` (captura de referencia de la cuenta), `unframed_logo.png` (logo recortado del IG) y `unframed_logo_green.png` (lazos verdes, fondo transparente — el que se usa en el brief).
-- `media/` — imágenes definitivas guardadas. `media/pablo_retrato_RF_final.jpg` = retrato RF de Pablo elegido como definitivo (2026-07-08). `media/newsletter_morocco_b.png/.jpg` = render variante B. `media/Brief_Unframed_WAMT.pdf/.docx` = brief para Tavo (PDF + Word editable).
+- `media/` — imágenes definitivas guardadas. `media/pablo_retrato_RF_final.jpg` = retrato RF de Pablo elegido como definitivo (2026-07-08). `media/newsletter_morocco_b.png/.jpg` = render variante B. `media/newsletter_morocco_b2_A.*` y `_C.*` = variante B REORDENADA, tratamientos de hero A (tarjeta) y C (manifiesto). `media/Newsletter_Marruecos_A.pdf` y `_C.pdf` = las dos opciones enviadas a Tavo (2026-07-10). `media/Brief_Unframed_WAMT.pdf/.docx` = brief para Tavo (PDF + Word editable).
 
 ## Archivo histórico v1
 - `v1/` — histórico curado de OpenClaw (17 bitácoras, 22 sesiones, main.sqlite, notas, media, identidad v1 de referencia). Ver `v1/README.md`.

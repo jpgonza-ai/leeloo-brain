@@ -75,3 +75,26 @@ Pablo abrió el newsletter en su correo y se veía **pixeleado/ilegible**. Causa
 **Automatización futura (depende del "puente"/accesos, Kaizen idea #2):** Pablo preguntó si yo podría crear el newsletter directo en **Mailchimp** y dejarlo listo. Sí: (1) vía puente de navegador logueado, o (2) vía **API de Mailchimp** (más limpio, requiere API key). En ambos casos dejarlo como **BORRADOR**; el "Send" final lo aprueba Pablo (acción externa).
 
 **Nota de diseño honesta que le di:** un email de una sola imagen se ve premium pero tiene peros (bloqueo de imágenes, links no clicables/rastreables). Para la prueba va imagen completa como su referencia; si algún día quiere botones de reserva, conviene versión híbrida imagen+texto.
+
+## Feedback de Tavo al brief + VARIANTE B2 reordenada (2026-07-10)
+Tavo devolvió el brief (.docx) con comentarios (llegó por correo; el conector de Gmail NO baja adjuntos → Pablo lo reenvió por Telegram, ahí sí con `download_attachment`). Decisiones que quedaron FIJAS con su feedback:
+- **Audiencia = SIEMPRE travel advisors / agencias (trade).** Una sola versión, no desdoble cliente-final vs partners. El tono debe "enamorar" al advisor: fresco y conciso pero aspiracional.
+- **Se divide por TIPO de newsletter, no por audiencia:** (a) **informativo mensual** (la variante B de 5 destinos encaja aquí); (b) **promo / last-minute** ad-hoc (plantilla aparte, pendiente de bocetar).
+- **Idioma: siempre español.**
+- **Sin botones de reservar/cotizar:** Mailchimp ya rastrea clics; no hace falta versión híbrida imagen+texto por ese motivo.
+- **Logo oficial recibido** (Pablo lo mandó como fotos 2026-07-10): emblema de 8 lazos entrelazados + wordmark "Unframed consulting". Vienen comprimidas por Telegram → pedí el PNG/SVG original para el arte final. Ya tenía `newsletter_assets/unframed_logo_green.png` (recolor verde, transparente) que uso mientras llega el oficial.
+
+### VARIANTE B2 (reorden) — entregada 2026-07-10
+Pablo pidió (por nota de voz) subir la oferta de valor de WAMT del cierre al **inicio**. Mi recomendación (aceptada): NO moverla en bloque, sino **capas** = hero de valor arriba + destinos como cuerpo + detalle/CTA al cierre.
+- Script nuevo: `workspace/newsletter_morocco_b2.py` (clon de `_b` reordenado). El original `_b` se conserva.
+- Estructura B2: masthead → título/intro → **banda salvia HERO "El viaje, a tu medida" con eyebrow "POR QUÉ WE ARE MOROCCO TRAVEL" + los 4 diferenciadores** → puente "El itinerario, escenario por escenario" → 5 destinos → cierre ligero (recap itinerario 8–10 noches + CTA "¿Diseñamos tu próximo viaje?" + contactos Tavo/Faby) → pie con **emblema oficial verde** (ya no el octágono sintético).
+- Render: `workspace/media/newsletter_morocco_b2.png` (+ .jpg). Enviado a Pablo, esperando si ajusta el peso del hero (más corto/largo).
+- **Pendiente:** bocetar la plantilla de **promos / last-minute** (el 2º tipo de newsletter).
+
+## Contacto + vínculos clicables + correo a Tavo (2026-07-10)
+- **Responsable de seguimiento de Marruecos = Tavo (Octavio) Horcasitas.** Correo: `octavio@unframedconsult.com`. WhatsApp: **+52 55 7929 8458** (para `wa.me` uso `525579298458`, formato sin el "1"; fallback con "1" = `5215579298458`).
+- **Cómo se hacen clicables:** la imagen plana NO lleva links; el vínculo va como BOTÓN real en Mailchimp (vía A acordada = híbrido imagen + botones). Mailchimp rastrea los clics.
+  - mailto (correo pre-dirigido a Tavo con asunto+cuerpo): `mailto:octavio@unframedconsult.com?subject=...&body=...`
+  - wa.me (abre chat con mensaje listo): `https://wa.me/525579298458?text=...`
+- **Borrador en Gmail de Pablo** (a Octavio) creado 2026-07-10 con: (1) opciones A y C + argumento de valor-al-inicio + nota anti-pixel (abrir PDF, no preview); (2) explicación de los 2 botones de contacto; (3) paso a paso de Mailchimp para pegar los links. **La API de Gmail NO adjunta archivos a borradores** → Pablo arrastra los 2 PDF (`media/Newsletter_Marruecos_A.pdf` y `_C.pdf`) antes de enviar. Pablo lo revisó ("muy bien"), adjuntó los PDF y **YA LO ENVIÓ a Tavo (2026-07-10)**. **Esperando que Tavo elija A vs C** para fijar la plantilla estándar. Pendiente lado nuestro: bocetar botón CTA sobre C (ofrecido) y la plantilla de promos/last-minute.
+- **Plantillas PDF entregadas:** `media/Newsletter_Marruecos_A.pdf` (tarjeta con borde) y `_C.pdf` (manifiesto editorial, recomendada). Renders PNG/JPG en `media/newsletter_morocco_b2_A.*` y `_C.*`.
