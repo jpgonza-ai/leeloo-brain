@@ -18,10 +18,17 @@ Empresa mexicana de confianza digital/certificación, fundada 1996 (25+ años). 
 ## Casos de uso que interesan a Alberto
 Cotizador automático · análisis de licitaciones · revisión de documentos + extracción de info de valor · generación de código para procesos internos · generación de contenido para redes.
 
+## Enfoque del demo: ÁREA DE VENTAS (decisión Pablo, 2026-07-13)
+Pablo decidió aterrizar el primer demo sobre el **área de ventas** de Seguridata (no sobre una lista genérica de casos). Le pediremos a Beto el **flujo de ventas de 0 a 100** para cerrar una operación, paso por paso (ej.: 1) contactar al cliente, 2) cotizar, 3) recabar info para el "due diligence", … hasta el cierre). Con ese mapa, se elige el paso de mayor impacto y se prepara una demo real sobre su propio proceso.
+- **Why:** ventas da valor rápido y medible (cotización, seguimiento, preparación de info) y el impacto se ve de inmediato.
+- **How to apply:** cuando Beto mande el flujo, mapear el paso #1 de mayor impacto y construir ahí la demostración.
+- Correo de seguimiento a Beto **GUARDADO como BORRADOR en Gmail de Pablo (2026-07-13)** — tono informal (Beto es amigo cercano); pide (1) flujo de ventas 0→100 paso por paso, (2) plataformas/herramientas por fase, (3) otras áreas involucradas; avisa que el miércoles 2026-07-15 no hay llamada (cumple de Fer + Pablo en NY). Pablo lo envía él mismo.
+
 ## Próximos pasos
-1. **(Pendiente, lado Beto)** Alberto comparte su lista de tareas **priorizadas**. Pablo me mantiene al tanto.
-2. 2ª llamada: entender flujo de procesos + mostrar una prueba/demo.
-3. Pablo + Leeloo preparan la prueba sobre el caso #1.
+1. **(Pendiente, lado Pablo)** Enviar el borrador de Gmail a Beto (ya redactado y guardado; Pablo lo manda cuando quiera).
+2. **(Pendiente, lado Beto)** Beto comparte el flujo del área de ventas paso por paso.
+3. 2ª llamada: entender el flujo + mostrar una prueba/demo sobre el paso de ventas de mayor impacto.
+4. Pablo + Leeloo preparan la demo sobre ese paso.
 
 ## Artefactos
 - Minuta completa: `minutas/2026-07-09_seguridata_alberto-yarza.md`.
