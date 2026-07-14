@@ -98,3 +98,13 @@ Pablo pidió (por nota de voz) subir la oferta de valor de WAMT del cierre al **
   - wa.me (abre chat con mensaje listo): `https://wa.me/525579298458?text=...`
 - **Borrador en Gmail de Pablo** (a Octavio) creado 2026-07-10 con: (1) opciones A y C + argumento de valor-al-inicio + nota anti-pixel (abrir PDF, no preview); (2) explicación de los 2 botones de contacto; (3) paso a paso de Mailchimp para pegar los links. **La API de Gmail NO adjunta archivos a borradores** → Pablo arrastra los 2 PDF (`media/Newsletter_Marruecos_A.pdf` y `_C.pdf`) antes de enviar. Pablo lo revisó ("muy bien"), adjuntó los PDF y **YA LO ENVIÓ a Tavo (2026-07-10)**. **Esperando que Tavo elija A vs C** para fijar la plantilla estándar. Pendiente lado nuestro: bocetar botón CTA sobre C (ofrecido) y la plantilla de promos/last-minute.
 - **Plantillas PDF entregadas:** `media/Newsletter_Marruecos_A.pdf` (tarjeta con borde) y `_C.pdf` (manifiesto editorial, recomendada). Renders PNG/JPG en `media/newsletter_morocco_b2_A.*` y `_C.*`.
+
+## Tavo ELIGIÓ la C + su feedback (nota de voz, 2026-07-14)
+Tavo respondió por nota de voz (Pablo la reenvió; transcrita con Scribe). **Dijo "opción B" pero es nuestra C** (solo se enviaron A y C; descartó la A → es la C, el manifiesto editorial). Plantilla estándar del "informativo mensual" = **variante C**.
+- **Cambios que pide sobre la C:**
+  1. **Quitar el badge de "noches" de cada imagen.** Ese dato va como recomendación DENTRO del texto de la ciudad, no sobre la foto.
+  2. **Descripción de cada ciudad = gancho aspiracional y romántico (sin ser meloso), 2-3 líneas** que digan POR QUÉ visitar el lugar; NO listar experiencias en esa parte. **Tavo redactará esas descripciones.** Marrakech = la más rica; Valle de Dades = más corta; Merzouga = enfatizar el Sahara; Fes = historia/peso cultural (ej. la primera universidad, Al-Qarawiyyin, mención opcional); Casablanca análogo.
+  3. **Consistencia: cada ciudad con 3 sub-secciones fijas → (a) Descripción (gancho) · (b) Hoteles · (c) Experiencias.**
+  4. "Por lo demás, lo veo todo bien."
+- **Tavo dijo "ya te mandé las imágenes"** → mandó fotos (¿reales?) para reemplazar las de prueba (IA). Pendiente: que Pablo las reenvíe por Telegram para incrustarlas.
+- **Pendiente Leeloo:** reestructurar `newsletter_morocco_b2.py` (hero C) a la estructura de 3 bloques por ciudad + quitar badge de noches (moverlo al texto). Esperar copy aspiracional de Tavo (o borrador de muestra mientras). Sigue pendiente: plantilla de promos/last-minute.

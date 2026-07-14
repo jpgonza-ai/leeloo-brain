@@ -27,6 +27,7 @@
 - `memory/project_newsletter_marruecos.md` — newsletter semanal de lujo sobre Marruecos (imagen PNG/JPG para Mailchimp, estilo Unframed); script `newsletter_morocco.py`.
 - `memory/project_seguridata_agentes.md` — oportunidad: agentes de IA para Seguridata (Alberto Yarza, Director General); minuta y próximos pasos.
 - `memory/project_salesforce_job.md` — proceso de reclutamiento de Pablo con Salesforce (rol Financial Services Account Executive); reclutadora Michelle Tobey; hitos y seguimiento.
+- `memory/project_infra_caja_voz.md` — aviso Patti/Mario (2026-07-14): retiran motor de voz local (~4.2GB) el 24-jul (no afecta mi voz, uso ElevenLabs nube); oferta caja dedicada $240/año, decisión pendiente de Pablo.
 
 ## Minutas
 - `minutas/2026-07-09_seguridata_alberto-yarza.md` — 1ª llamada Seguridata (casos de uso de agentes, próximos pasos).
