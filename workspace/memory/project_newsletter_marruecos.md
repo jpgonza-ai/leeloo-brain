@@ -106,5 +106,16 @@ Tavo respondió por nota de voz (Pablo la reenvió; transcrita con Scribe). **Di
   2. **Descripción de cada ciudad = gancho aspiracional y romántico (sin ser meloso), 2-3 líneas** que digan POR QUÉ visitar el lugar; NO listar experiencias en esa parte. **Tavo redactará esas descripciones.** Marrakech = la más rica; Valle de Dades = más corta; Merzouga = enfatizar el Sahara; Fes = historia/peso cultural (ej. la primera universidad, Al-Qarawiyyin, mención opcional); Casablanca análogo.
   3. **Consistencia: cada ciudad con 3 sub-secciones fijas → (a) Descripción (gancho) · (b) Hoteles · (c) Experiencias.**
   4. "Por lo demás, lo veo todo bien."
-- **Tavo dijo "ya te mandé las imágenes"** → mandó fotos (¿reales?) para reemplazar las de prueba (IA). Pendiente: que Pablo las reenvíe por Telegram para incrustarlas.
-- **Pendiente Leeloo:** reestructurar `newsletter_morocco_b2.py` (hero C) a la estructura de 3 bloques por ciudad + quitar badge de noches (moverlo al texto). Esperar copy aspiracional de Tavo (o borrador de muestra mientras). Sigue pendiente: plantilla de promos/last-minute.
+- **Tavo dijo "ya te mandé las imágenes"** → mandó 5 fotos REALES. Pablo las reenvió por Telegram 2026-07-14; identifiqué cada una por sus landmarks: Mezquita Hassan II=Casablanca, Koutoubia=Marrakesh, dunas Erg Chebbi=Merzouga, curvas de Tissadrine=Valle de Dades, azotea de la medina=Fes. Guardadas en `workspace/newsletter_assets/morocco_real/{marrakesh,dades,merzouga,fes,casablanca}.jpg`.
+
+### ✅ REESTRUCTURA C COMPLETADA (2026-07-14)
+`newsletter_morocco_b2.py` (modo `editorial`) ya reestructurado a lo que pidió Tavo:
+- Fuente de imágenes = `newsletter_assets/morocco_real/` (fotos reales, ya no IA).
+- **Quitado el badge de noches sobre la foto**; la estancia va como línea de texto "ESTANCIA SUGERIDA".
+- **Estructura fija de 3 bloques por ciudad: DESCRIPCIÓN · HOTELES · EXPERIENCIAS.**
+- Descripciones aspiracionales de MUESTRA (marcadas "COPY DE MUESTRA — Tavo las reemplaza").
+- Render `/tmp/newsletter_morocco_b2_C.png/.jpg` (1080×6740), verificado visualmente. **Entregado a Pablo como PDF** (`/tmp/Newsletter_Marruecos_C_v2.pdf`) por la regla anti-pixelación.
+- **Mensaje de WhatsApp para Tavo redactado** (Leeloo dirigiéndose a él), listo para reenviar: explica los 3 cambios + que va por PDF por resolución + que el copy es de muestra + que para el envío final por Mailchimp se necesitan las fotos en resolución original.
+- **⚠️ Caveat de resolución:** las 5 fotos llegaron comprimidas por Telegram (~640px). Para el envío final en alta calidad por Mailchimp hay que pedirle a Tavo los ORIGINALES en mejor resolución (ya se lo avisé en el mensaje de WhatsApp).
+
+**Pendientes vivos:** (1) copy aspiracional DEFINITIVO de Tavo (ahora hay muestra); (2) fotos originales en alta resolución para Mailchimp; (3) bocetar plantilla de promos/last-minute (2º tipo de newsletter).

@@ -44,7 +44,7 @@
 - `newsletter_morocco_b2.py` — **variante B REORDENADA** (2026-07-10): oferta de valor WAMT como hero arriba, destinos al cuerpo, recap+CTA al cierre, emblema oficial verde en el pie. Render en `media/newsletter_morocco_b2.png/.jpg`.
 - `brief_pdf.py` — genera el brief de estado Unframed×WAMT en **PDF** (1 pág, PIL, logo arriba-derecha).
 - `brief_docx.py` — genera el mismo brief en **Word editable** (.docx, python-docx) para que Tavo comente/edite.
-- `newsletter_assets/` — fotos de contactos y recursos del newsletter. Incluye `unframed_ig_profile.jpg` (captura de referencia de la cuenta), `unframed_logo.png` (logo recortado del IG) y `unframed_logo_green.png` (lazos verdes, fondo transparente — el que se usa en el brief).
+- `newsletter_assets/` — fotos de contactos y recursos del newsletter. Incluye `unframed_ig_profile.jpg` (captura de referencia de la cuenta), `unframed_logo.png` (logo recortado del IG), `unframed_logo_green.png` (lazos verdes, fondo transparente — el que se usa en el brief) y `morocco_real/` (5 fotos REALES de Tavo: marrakesh, dades, merzouga, fes, casablanca — comprimidas ~640px por Telegram; para Mailchimp final faltan los originales en alta resolución).
 - `media/` — imágenes definitivas guardadas. `media/pablo_retrato_RF_final.jpg` = retrato RF de Pablo elegido como definitivo (2026-07-08). `media/newsletter_morocco_b.png/.jpg` = render variante B. `media/newsletter_morocco_b2_A.*` y `_C.*` = variante B REORDENADA, tratamientos de hero A (tarjeta) y C (manifiesto). `media/Newsletter_Marruecos_A.pdf` y `_C.pdf` = las dos opciones enviadas a Tavo (2026-07-10). `media/Brief_Unframed_WAMT.pdf/.docx` = brief para Tavo (PDF + Word editable).
 
 ## Archivo histórico v1
