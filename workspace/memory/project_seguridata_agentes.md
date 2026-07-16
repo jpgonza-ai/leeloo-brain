@@ -24,11 +24,18 @@ Pablo decidió aterrizar el primer demo sobre el **área de ventas** de Segurida
 - **How to apply:** cuando Beto mande el flujo, mapear el paso #1 de mayor impacto y construir ahí la demostración.
 - Correo de seguimiento a Beto **GUARDADO como BORRADOR en Gmail de Pablo (2026-07-13)** — tono informal (Beto es amigo cercano); pide (1) flujo de ventas 0→100 paso por paso, (2) plataformas/herramientas por fase, (3) otras áreas involucradas; avisa que el miércoles 2026-07-15 no hay llamada (cumple de Fer + Pablo en NY). Pablo lo envía él mismo.
 
+## ✅ Beto RESPONDIÓ (2026-07-15, hilo "Agentes para Seguridata")
+- Beto pidió a **Olga García Garduño** (`ogarcia@seguridata.com`, **Subdirección de Control de Calidad y servicios**) que le exporte y comparta a Pablo el **proceso de ventas completo en PDF** ("lo que normalmente hemos venido viendo contigo").
+- **Stack tecnológico de Seguridata (dato clave para diseñar los agentes):** **CRM = HubSpot · ERP = SAP · gestión de tareas fuera de HubSpot = Monday.**
+- **Olga García ya compartió** "el proceso de ventas y **renovaciones**" (correo 2026-07-16, con adjunto probablemente PDF). → Olga es la dueña/documentadora del proceso de ventas; las renovaciones también entran al alcance.
+- **Pendiente Leeloo:** cuando Pablo reenvíe el PDF por Telegram (el conector de Gmail no baja adjuntos), leer el proceso, mapear el paso de mayor impacto y proponer la demo. El stack HubSpot/SAP/Monday define dónde/cómo se integraría un agente.
+
 ## Próximos pasos
-1. **(Pendiente, lado Pablo)** Enviar el borrador de Gmail a Beto (ya redactado y guardado; Pablo lo manda cuando quiera).
-2. **(Pendiente, lado Beto)** Beto comparte el flujo del área de ventas paso por paso.
-3. 2ª llamada: entender el flujo + mostrar una prueba/demo sobre el paso de ventas de mayor impacto.
-4. Pablo + Leeloo preparan la demo sobre ese paso.
+1. ✅ Correo de seguimiento a Beto — ENVIADO (Pablo, 2026-07-14).
+2. ✅ Beto respondió + Olga compartió el proceso de ventas y renovaciones (2026-07-15/16).
+3. **(Pendiente, lado Pablo)** Reenviar a Leeloo por Telegram el PDF del proceso de ventas de Olga para analizarlo.
+4. 2ª llamada: entender el flujo + mostrar una prueba/demo sobre el paso de ventas de mayor impacto (considerando HubSpot/SAP/Monday).
+5. Pablo + Leeloo preparan la demo sobre ese paso.
 
 ## Artefactos
 - Minuta completa: `minutas/2026-07-09_seguridata_alberto-yarza.md`.
