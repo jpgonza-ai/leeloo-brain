@@ -41,7 +41,7 @@
 - `gen_image.py` — generación/edición de imágenes por IA (Google Gemini "Nano Banana"); ver capacidad en MEMORY.md.
 - `newsletter_morocco.py` — newsletter Marruecos, opción A (columna corta estilo Unframed, fotos Rabat).
 - `newsletter_morocco_b.py` — newsletter Marruecos, **opción B** (revista/itinerario, canvas marfil, 5 destinos, banda WAMT). Variante elegida por Pablo.
-- `newsletter_morocco_b2.py` — **variante B REORDENADA** (2026-07-10): oferta de valor WAMT como hero arriba, destinos al cuerpo, recap+CTA al cierre, emblema oficial verde en el pie. Render en `media/newsletter_morocco_b2.png/.jpg`.
+- `newsletter_morocco_b2.py` — **variante B REORDENADA** (2026-07-10): oferta de valor WAMT como hero arriba, destinos al cuerpo, recap+CTA al cierre, emblema oficial verde en el pie. **Uso: `python3 newsletter_morocco_b2.py editorial A|B`** — modo `editorial` = variante C elegida por Tavo; 2º arg = opción de copy A ("editorial de precisión") o B ("editorial de revista"), definidas en el dict `COPY` (2026-07-18). Render en `/tmp/newsletter_morocco_b2_C_A.jpg` y `_C_B.jpg`.
 - `brief_pdf.py` — genera el brief de estado Unframed×WAMT en **PDF** (1 pág, PIL, logo arriba-derecha).
 - `brief_docx.py` — genera el mismo brief en **Word editable** (.docx, python-docx) para que Tavo comente/edite.
 - `newsletter_assets/` — fotos de contactos y recursos del newsletter. Incluye `unframed_ig_profile.jpg` (captura de referencia de la cuenta), `unframed_logo.png` (logo recortado del IG), `unframed_logo_green.png` (lazos verdes, fondo transparente — el que se usa en el brief) y `morocco_real/` (5 fotos REALES de Tavo: marrakesh, dades, merzouga, fes, casablanca — comprimidas ~640px por Telegram; para Mailchimp final faltan los originales en alta resolución).

@@ -118,4 +118,25 @@ Tavo respondió por nota de voz (Pablo la reenvió; transcrita con Scribe). **Di
 - **Mensaje de WhatsApp para Tavo redactado** (Leeloo dirigiéndose a él), listo para reenviar: explica los 3 cambios + que va por PDF por resolución + que el copy es de muestra + que para el envío final por Mailchimp se necesitan las fotos en resolución original.
 - **⚠️ Caveat de resolución:** las 5 fotos llegaron comprimidas por Telegram (~640px). Para el envío final en alta calidad por Mailchimp hay que pedirle a Tavo los ORIGINALES en mejor resolución (ya se lo avisé en el mensaje de WhatsApp).
 
-**Pendientes vivos:** (1) copy aspiracional DEFINITIVO de Tavo (ahora hay muestra); (2) fotos originales en alta resolución para Mailchimp; (3) bocetar plantilla de promos/last-minute (2º tipo de newsletter).
+### ✅ Tavo pide que Leeloo redacte el COPY (audio 2026-07-18, reenviado por Pablo)
+Tavo mandó nota de voz (la transcribí con Scribe): pide que hagamos con el TEXTO el mismo ejercicio "both ways" que con las fotos — **Leeloo entrega una propuesta de copy para cada sección del newsletter, ya integrada, y Tavo la "maquilla"/mejora a su voz** y a lo que quieren comunicar. Dice explícito que **el contenido es lo que más trabajo le cuesta**; la dinámica de fotos le encantó porque le da la idea y él solo ejecuta/busca.
+- **Why:** cierra el pendiente #1 (copy definitivo) y le quita a Tavo su mayor fricción; juega a las fuerzas de Leeloo.
+- **How to apply:** preparar una **primera propuesta COMPLETA de copy** para la variante C (editorial): (a) editorial de portada/manifiesto del mes, (b) las 5 ciudades con sus 3 bloques DESCRIPCIÓN·HOTELES·EXPERIENCIAS, (c) cierre con oferta de valor WAMT. Español, tono trade/advisors, estilo Unframed. **Entregar primero a Pablo en TEXTO para revisión; solo con su visto bueno pasa a Tavo.**
+- **Regla de tono (Pablo 2026-07-18, citando otro audio de Tavo): aspiracional SIN ser meloso/cursi.** Evitar clichés tipo "te posee", "la noche más estrellada de tu vida", "el silencio tiene textura". Evocar con detalle concreto, no con declaraciones emocionales.
+
+### ✅ 2 opciones de copy REDACTADAS y enviadas a Pablo (2026-07-18, msgs 868-869)
+Pablo pidió **2 opciones distintas** para que Tavo compare. Entregadas en TEXTO por Telegram:
+- **OPCIÓN A — "Editorial de precisión":** sobria, confiada, evocativa por el detalle concreto. Menos riesgo de sonar meloso.
+- **OPCIÓN B — "Editorial de revista":** más cálida y narrativa, con ritmo, sin caer en lo cursi.
+- Ambas: editorial de portada + 5 ciudades (solo la DESCRIPCIÓN varía entre A/B) + cierre WAMT. HOTELES y EXPERIENCIAS son datos del itinerario e IGUALES en las dos (sacados de `newsletter_morocco_b2.py`).
+- **Recomendación de Leeloo a Pablo:** A = editorial de lujo sobria; B = revista de viajes con más emoción.
+
+### ✅ Ambas versiones RENDERIZADAS en JPG (2026-07-18, msgs 871-872)
+Pablo pidió (msg 870) armar las 2 versiones **NO en PDF sino en JPG compatible con Mailchimp**, cuidando la definición para que no se pixelee.
+- El script `newsletter_morocco_b2.py` ahora acepta 2º argumento **OPTION (A|B)**: `python3 newsletter_morocco_b2.py editorial A` y `... editorial B`. El copy definitivo de A y B vive dentro del script en el dict `COPY` (intro editorial + hero_intro WAMT + 5 descripciones; HOTELES/EXPERIENCIAS son datos iguales en ambas).
+- Salida: `/tmp/newsletter_morocco_b2_C_A.jpg` y `_C_B.jpg`, **1080×6818 px, JPG calidad 95**.
+- **Entregado a Pablo como ZIP** (`/tmp/Newsletter_Marruecos_JPG.zip` con `Newsletter_Marruecos_OpcionA.jpg` y `_OpcionB.jpg`) — regla anti-pixelación: JPG suelto por Telegram se comprime; el ZIP llega como archivo sin compresión, listo para subir a Mailchimp.
+- **Pendiente (lado Pablo):** que él/Tavo elijan A o B (o pidan ajustes). Pablo aún NO confirma si se los reenvío yo a Tavo o lo hace él.
+- **Caveat de fotos SIGUE VIGENTE:** las 5 fotos van a ~640px (comprimidas por Telegram). Para el envío final en Mailchimp faltan los ORIGINALES en alta resolución de Tavo.
+
+**Pendientes vivos:** (1) ✅ HECHO — 2 opciones de copy redactadas y en revisión de Pablo/Tavo (2026-07-18); (2) fotos originales en alta resolución para Mailchimp; (3) bocetar plantilla de promos/last-minute (2º tipo de newsletter).
