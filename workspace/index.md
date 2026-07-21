@@ -17,6 +17,7 @@
   - `memory/2026-07-08.md` — rutina diaria de briefs por audio (5:30 AM Morning Brew+eventos, 5:00 PM CFO/Brew Markets, con archivado); hallazgo cron session-only; prueba de generación de imágenes (Nano Banana) → retrato RF final.
   - `memory/2026-07-09.md` — rutina matutina; Kaizen F0·2 cerrada (checklist loops 8 pts + medición A+B+C); llamada Seguridata; newsletter Unframed variante B + **brief para Tavo entregado en PDF y Word** (logo lazos verdes).
   - `memory/2026-07-10.md` — **nueva capacidad STT** (entiendo notas de voz vía ElevenLabs Scribe); logos oficiales de Unframed recibidos; **newsletter variante B2 reordenada** (valor WAMT arriba) + feedback de Tavo fijado.
+  - `memory/2026-07-20.md` — **hito: correo propio de Leeloo (SMTP)** `leeloo.asistenteai@gmail.com` operando vía `send_email.py` (puerto 587); decisión de bajar Obsidian del foco; brief vespertino.
 - `memory/feedback_naming.md` — trato: SIEMPRE "Pablo", nunca "JP"/"Yeipi" (texto y audio).
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
@@ -38,6 +39,7 @@
 
 ## Scripts y assets
 - `say.py` — TTS voz oficial (ElevenLabs "Dani") → nota de voz OGG/Opus para Telegram.
+- `send_email.py` — **correo propio de Leeloo** (SMTP Gmail). Cuenta `leeloo.asistenteai@gmail.com`; app-password cifrada en `../.secrets/leeloo_gmail_apppw.key`. Envía por **puerto 587 STARTTLS** (el 465 está bloqueado en esta caja). Regla: SIEMPRE copia (CC) a Pablo salvo `--no-cc-pablo`. Uso: `python3 send_email.py --to x@y.com --subject "..." --body "..."` (o `--body-file`, `--attach`, `--cc`).
 - `gen_image.py` — generación/edición de imágenes por IA (Google Gemini "Nano Banana"); ver capacidad en MEMORY.md.
 - `newsletter_morocco.py` — newsletter Marruecos, opción A (columna corta estilo Unframed, fotos Rabat).
 - `newsletter_morocco_b.py` — newsletter Marruecos, **opción B** (revista/itinerario, canvas marfil, 5 destinos, banda WAMT). Variante elegida por Pablo.

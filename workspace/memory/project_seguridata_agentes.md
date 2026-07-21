@@ -46,6 +46,23 @@ Pablo reenvió los 2 PDFs por Telegram; los leí completos. Resumen durable (los
 
 **Pendiente Pablo (msg 839):** decidir cuál agente construyo primero (mi voto: agente de reunión) y si quiere que arme un one-pager PDF del mapa para mostrarle a Beto.
 
+## ✅ Pablo aterrizó su propio desglose sobre el PDF 1 (VENTAS) — 2026-07-20
+Pablo decidió **enfocar el trabajo en el proceso de VENTAS** (PDF 1) y propuso 9 puntos donde un agente puede intervenir. También pidió un **agente de Marketing** (inbound/outbound) pero lo dejó para OTRO momento. Su observación clave: en el diagrama NO ve etapas (responsabilidad de Seguridata) que tarden días o generen cuello de botella → confirmar tiempos reales por "ola" en la llamada.
+
+**Los 9 puntos de Pablo:** (1) etapa 1 detección de leads de Marketing; (2) contacto por mail/WhatsApp con links personalizados; (3) confirmar/ejecutar tasks del BDM y mover etapas manuales en Sales Hub; (4) documentación etapa 5 + acompañamiento BDM; (5) asignación de arquitecto; (6) etapas 10-11 cotizador automático (quote) + envío + update HubSpot; (7) etapa 15 documentación en Sales Hub; (8) por confirmar: fianza y contrato (machotes con campos variables); (9) etapa 19 subir docs legales (actas, poderes, propuesta) para revisión de Legal.
+
+**Mi assessment (enviado msg 892) por zonas:**
+- 🟢 VERDE (bajo riesgo, alto valor, demostrable ya, NO toca dinero/SAP): (3) mover etapas SOLO vía API HubSpot y en modo "propongo→BDM confirma" al inicio; (4)+(7) documentación de etapas = encaja con el AGENTE DE REUNIÓN (mi candidato #1); (5) asignación de arquitecto (fácil si es por reglas).
+- 🟡 AMARILLA (alto valor, necesita integración/insumo): (2) mail inmediato, WhatsApp requiere WhatsApp Business API; (6) cotizador = necesito su archivo/lógica + validar tabla de descuentos pág. 7 (toca precios, sensibilidad media); (1) HubSpot YA asigna leads nativo → el valor del agente es CALIFICAR/enriquecer/scorear + redactar 1er contacto, no "detectar"; outbound se liga al agente de Marketing (después).
+- 🟠 NARANJA (revisión humana obligatoria): (8) fianza/contrato = generación por plantilla PERO pasa por Jurídico (Carlos Jiménez); (9) ruteo/organización de docs legales a Legal.
+- **Sobre el cuello de botella:** coincido con Pablo — el flujo ya está muy automatizado por HubSpot; el ROI del agente NO es destrabar días sino (a) quitar trabajo manual al BDM, (b) acelerar 1er contacto/seguimientos, (c) consistencia (playbook siempre lleno), (d) liberar tiempo del BDM para vender.
+- **Dependencias técnicas que anoté:** API de HubSpot (private app token), WhatsApp Business API, archivo/lógica del cotizador, plantillas de fianza/contrato.
+
+**Pendiente Pablo (msg 892):** dijo que sí/no a que arme un **one-pager que mapee los 9 puntos sobre el diagrama** (3 zonas + qué se necesita para cada uno) para llevar a la llamada con Beto.
+
+## ✅ Correo de agradecimiento a Olga+Beto ENVIADO por Pablo (2026-07-20)
+Leeloo redactó (en voz de Pablo) un correo de respuesta al hilo "Agentes para Seguridata" dirigido a Olga (`ogarcia@seguridata.com`) y Beto (`ayarza@seguridata.com`): agradece los 2 PDFs, confirma que ya revisamos el proceso (demuestra lectura: HubSpot columna vertebral, SAP al final, Monday en renovaciones, automatización nativa), adelanta que ya hay varias sugerencias concretas a tratar en la reunión, y pide validar en la llamada los tiempos reales por etapa. **Pablo lo envió él mismo (msg 895).** Siguiente hito natural = agendar la 2ª reunión donde se presentan las sugerencias (los 9 puntos por zonas).
+
 ## Próximos pasos
 1. ✅ Correo de seguimiento a Beto — ENVIADO (Pablo, 2026-07-14).
 2. ✅ Beto respondió + Olga compartió el proceso de ventas y renovaciones (2026-07-15/16).
