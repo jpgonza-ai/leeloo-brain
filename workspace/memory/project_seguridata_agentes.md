@@ -63,6 +63,12 @@ Pablo decidió **enfocar el trabajo en el proceso de VENTAS** (PDF 1) y propuso 
 ## ✅ Correo de agradecimiento a Olga+Beto ENVIADO por Pablo (2026-07-20)
 Leeloo redactó (en voz de Pablo) un correo de respuesta al hilo "Agentes para Seguridata" dirigido a Olga (`ogarcia@seguridata.com`) y Beto (`ayarza@seguridata.com`): agradece los 2 PDFs, confirma que ya revisamos el proceso (demuestra lectura: HubSpot columna vertebral, SAP al final, Monday en renovaciones, automatización nativa), adelanta que ya hay varias sugerencias concretas a tratar en la reunión, y pide validar en la llamada los tiempos reales por etapa. **Pablo lo envió él mismo (msg 895).** Siguiente hito natural = agendar la 2ª reunión donde se presentan las sugerencias (los 9 puntos por zonas).
 
+## ✅ Brief enviado a Mario + Patti por correo (2026-07-21) — llamada conjunta
+Pablo pidió briefar a **Mario y Patti** antes de la **llamada conjunta** con Seguridata. Leeloo envió el brief **desde su correo propio** (`leeloo.asistenteai@gmail.com`) a **mario@venturecapital.game** y **patti@hotlumpowell.com** (CC a Pablo). Asunto: "Brief Seguridata — previo a nuestra llamada conjunta".
+- Incluyó **solo los puntos 1–5** (oportunidad, qué es Seguridata, recorrido de reuniones, lo aprendido, zonas de intervención de agentes por riesgo 🟢🟡🟠). Pablo pidió **excluir por ahora** los puntos 6 (recomendación agente de reunión), 7 (dependencias técnicas) y 8 (estado actual).
+- **Horarios tentativos propuestos (hora CDMX):** Jueves 23-jul — 10:00, 11:00 o 12:00 · Viernes 24-jul — 9:00.
+- **Pendiente:** que Mario/Patti confirmen fecha/hora → agendar la 2ª reunión (conjunta: Pablo + Mario + Patti + Seguridata).
+
 ## Próximos pasos
 1. ✅ Correo de seguimiento a Beto — ENVIADO (Pablo, 2026-07-14).
 2. ✅ Beto respondió + Olga compartió el proceso de ventas y renovaciones (2026-07-15/16).

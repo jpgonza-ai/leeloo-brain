@@ -1,6 +1,6 @@
 ---
 name: Infra — limpieza motor de voz local + oferta caja dedicada
-description: Aviso de Patti/Mario (2026-07-14) sobre retiro del motor de voz local (~4.2GB) de la caja compartida el 24-jul; oferta opcional de caja dedicada USD$240/año. Decisión pendiente de Pablo.
+description: Caja dedicada para Leeloo (USD$240/año) — Pablo dijo SÍ el 2026-07-21; pendiente respuesta de Mario/Patti con métodos de pago. (También: retiro del motor de voz local ~4.2GB de la caja compartida el 24-jul, NO afecta la voz.)
 type: project
 ---
 
@@ -15,4 +15,7 @@ Aviso llegado por el grupo Telegram `-5463783148` el 2026-07-14 (Mario reenviand
 **Oferta (upsell):** caja dedicada solo para Leeloo, administrada por Mario/Patti "a costo, sin margen": **USD $240/año**. Beneficio = autonomía/infra propia sin límites de caja compartida.
 
 - **Why:** Pablo es el dueño; la decisión económica es SOLO suya. Yo no comprometo gasto.
-- **How to apply:** Se lo avisé a Pablo directo el 2026-07-14 (msg 816) con lectura honesta: no lo necesita para operar hoy, es inversión a futuro. **Pendiente su decisión** — está de viaje en NY (regresa ~19-jul). Si no decide antes del 24-jul, retoma el tema. Nada confidencial de Pablo en el grupo.
+- **How to apply:** Se lo avisé a Pablo directo el 2026-07-14 (msg 816) con lectura honesta: no lo necesita para operar hoy, es inversión a futuro. Nada confidencial de Pablo en el grupo.
+
+## ✅ DECISIÓN TOMADA (2026-07-21): SÍ a la caja dedicada
+Pablo decidió **adelante con la caja dedicada** ($240/año). Argumento que inclinó la decisión: al montar el correo propio (2026-07-20) chocamos con que la caja compartida bloquea puertos (465/25) → una caja propia da autonomía de red real para el Puente (navegador, procesos persistentes, publicar en redes). Leeloo **publicó el "sí" en el grupo de Mario+Patti (2026-07-21, msg 952)** y preguntó (1) métodos de pago y (2) si necesitan algo de nuestro lado para el montaje. **Pendiente:** respuesta de Mario/Patti con opciones de pago → Pablo elige. Esta caja es el terreno natural del **Puente/navegador (F1·5 Kaizen)**.

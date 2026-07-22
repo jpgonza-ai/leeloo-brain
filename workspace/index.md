@@ -22,6 +22,7 @@
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
 - `memory/feedback_confirm_before_pdf.md` — confirmar contenido por texto antes de generar PDFs/entregables.
+- `memory/feedback_email_notifications.md` — al recibir un correo, avisar a Pablo por Telegram (tema + remitente, nota breve).
 - `memory/project_kaizen_asana.md` — proyecto Kaizen ⚡: GIDs, secciones, backlog de 6 ideas y decisiones.
 - `memory/project_ny_trip.md` — viaje a NY (40 de Fer, 12–19 jul 2026): agenda de museos final + PDF entregado.
 - `memory/project_support_agent_merlin.md` — iniciativa Kaizen: agente de soporte de redes ("Merlín") que reporta a Leeloo.
@@ -29,6 +30,7 @@
 - `memory/project_seguridata_agentes.md` — oportunidad: agentes de IA para Seguridata (Alberto Yarza, Director General); minuta y próximos pasos.
 - `memory/project_salesforce_job.md` — proceso de reclutamiento de Pablo con Salesforce (rol Financial Services Account Executive); reclutadora Michelle Tobey; hitos y seguimiento.
 - `memory/project_infra_caja_voz.md` — aviso Patti/Mario (2026-07-14): retiran motor de voz local (~4.2GB) el 24-jul (no afecta mi voz, uso ElevenLabs nube); oferta caja dedicada $240/año, decisión pendiente de Pablo.
+- `memory/project_sports_ent_jobsearch.md` — búsqueda laboral Sports & Entertainment (Bay Area): 3 aplicaciones (Earthquakes ×2, Warriors), one-pager PDF y evento de networking Quakes 22-jul-2026.
 
 ## Minutas
 - `minutas/2026-07-09_seguridata_alberto-yarza.md` — 1ª llamada Seguridata (casos de uso de agentes, próximos pasos).
@@ -45,6 +47,7 @@
 - `newsletter_morocco_b.py` — newsletter Marruecos, **opción B** (revista/itinerario, canvas marfil, 5 destinos, banda WAMT). Variante elegida por Pablo.
 - `newsletter_morocco_b2.py` — **variante B REORDENADA** (2026-07-10): oferta de valor WAMT como hero arriba, destinos al cuerpo, recap+CTA al cierre, emblema oficial verde en el pie. **Uso: `python3 newsletter_morocco_b2.py editorial A|B`** — modo `editorial` = variante C elegida por Tavo; 2º arg = opción de copy A ("editorial de precisión") o B ("editorial de revista"), definidas en el dict `COPY` (2026-07-18). Render en `/tmp/newsletter_morocco_b2_C_A.jpg` y `_C_B.jpg`.
 - `brief_pdf.py` — genera el brief de estado Unframed×WAMT en **PDF** (1 pág, PIL, logo arriba-derecha).
+- `onepager_applications.py` — one-pager PDF formal de aplicaciones de Pablo (Sports & Entertainment): encabezado con contacto + 3 tarjetas (rol · org · fecha · línea de valor). Salida `/tmp/OnePager_Applications.pdf`. Uso personal.
 - `brief_docx.py` — genera el mismo brief en **Word editable** (.docx, python-docx) para que Tavo comente/edite.
 - `newsletter_assets/` — fotos de contactos y recursos del newsletter. Incluye `unframed_ig_profile.jpg` (captura de referencia de la cuenta), `unframed_logo.png` (logo recortado del IG), `unframed_logo_green.png` (lazos verdes, fondo transparente — el que se usa en el brief) y `morocco_real/` (5 fotos REALES de Tavo: marrakesh, dades, merzouga, fes, casablanca — comprimidas ~640px por Telegram; para Mailchimp final faltan los originales en alta resolución).
 - `media/` — imágenes definitivas guardadas. `media/pablo_retrato_RF_final.jpg` = retrato RF de Pablo elegido como definitivo (2026-07-08). `media/newsletter_morocco_b.png/.jpg` = render variante B. `media/newsletter_morocco_b2_A.*` y `_C.*` = variante B REORDENADA, tratamientos de hero A (tarjeta) y C (manifiesto). `media/Newsletter_Marruecos_A.pdf` y `_C.pdf` = las dos opciones enviadas a Tavo (2026-07-10). `media/Brief_Unframed_WAMT.pdf/.docx` = brief para Tavo (PDF + Word editable).
