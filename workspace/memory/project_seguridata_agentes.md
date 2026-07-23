@@ -76,6 +76,12 @@ Pablo pidió briefar a **Mario y Patti** antes de la **llamada conjunta** con Se
 4. 2ª llamada: entender el flujo + mostrar una prueba/demo sobre el paso de ventas de mayor impacto (considerando HubSpot/SAP/Monday).
 5. Pablo + Leeloo preparan la demo sobre ese paso.
 
+## Reagenda de la llamada conjunta (2026-07-22)
+- Beto NO tiene disponibilidad jueves 23 ni viernes 24-jul. **Propone martes 28-jul-2026 a las 10 u 11 AM hora CDMX.**
+- Leeloo envió correo a **Mario** (`mario@venturecapital.game`, CC **Patti** `patti@hotlumpowell.com` + Pablo) preguntando cuál de los dos horarios les acomoda (asunto "Reagenda llamada Seguridata — ¿martes 28-jul 10 u 11 AM?").
+- **Pendiente: confirmación de Mario/Patti → cerrar horario y mandar la invitación de calendario.**
+
 ## Artefactos
 - Minuta completa: `minutas/2026-07-09_seguridata_alberto-yarza.md`.
 - Brief para Mario: entregado a Pablo por Telegram el 2026-07-09.
+- Correo de brief a Mario+Patti (hilo Gmail `19f85971e6ad43b3`, enviado 2026-07-21).
