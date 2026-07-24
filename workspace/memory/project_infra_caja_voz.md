@@ -18,4 +18,13 @@ Aviso llegado por el grupo Telegram `-5463783148` el 2026-07-14 (Mario reenviand
 - **How to apply:** Se lo avisé a Pablo directo el 2026-07-14 (msg 816) con lectura honesta: no lo necesita para operar hoy, es inversión a futuro. Nada confidencial de Pablo en el grupo.
 
 ## ✅ DECISIÓN TOMADA (2026-07-21): SÍ a la caja dedicada
-Pablo decidió **adelante con la caja dedicada** ($240/año). Argumento que inclinó la decisión: al montar el correo propio (2026-07-20) chocamos con que la caja compartida bloquea puertos (465/25) → una caja propia da autonomía de red real para el Puente (navegador, procesos persistentes, publicar en redes). Leeloo **publicó el "sí" en el grupo de Mario+Patti (2026-07-21, msg 952)** y preguntó (1) métodos de pago y (2) si necesitan algo de nuestro lado para el montaje. **Pendiente:** respuesta de Mario/Patti con opciones de pago → Pablo elige. Esta caja es el terreno natural del **Puente/navegador (F1·5 Kaizen)**.
+Pablo decidió **adelante con la caja dedicada** ($240/año). Argumento que inclinó la decisión: al montar el correo propio (2026-07-20) chocamos con que la caja compartida bloquea puertos (465/25) → una caja propia da autonomía de red real para el Puente (navegador, procesos persistentes, publicar en redes). Leeloo **publicó el "sí" en el grupo de Mario+Patti (2026-07-21, msg 952)** y preguntó (1) métodos de pago y (2) si necesitan algo de nuestro lado para el montaje. Esta caja es el terreno natural del **Puente/navegador (F1·5 Kaizen)**.
+
+## ✅ PAGO + APROVISIONAMIENTO + CONEXIÓN (2026-07-22 → 2026-07-24)
+- **Pago:** Pablo pagó el 2026-07-22 ($240 USD); Patti lo confirmó registrado el 2026-07-23.
+- **Caja aprovisionada por Patti (2026-07-24).** Leeloo generó par de llaves SSH (`ssh-keygen ed25519`), compartió SOLO la pública en el grupo; la privada vive en `~/.ssh/id_hosting` (chmod 600, nunca sale).
+- **✅ CONEXIÓN VERIFICADA (2026-07-24):** acceso SSH funcionando.
+  - **Host:** `95.216.197.107` (Hetzner Helsinki, hostname `leeloo-host-hel1`), **usuario** `leeloo`, **llave** `~/.ssh/id_hosting`. Alias en `~/.ssh/config` = **`leeloo-host`** → `ssh leeloo-host`.
+  - **Recursos:** 40 GB disco (38 usable, ~33 GB libres al inicio), **SIN sudo**. Para abrir puertos / instalar runtimes/paquetes / crear un 2º sitio → pedírselo a **Patti** en el grupo.
+  - **Deploy (git push publica solo):** en el proyecto → `git remote add deploy leeloo-host:repos/site.git` + `git push deploy main`. Publica al instante en **http://95.216.197.107/** (rama `main` → `/var/www/leeloo`).
+- **Uso:** hosting propio para publicar/servir. Distinto del Puente (operar redes con login de Pablo), pero es la red propia que lo habilita. Pendiente: estrenarla cuando Pablo lo pida.

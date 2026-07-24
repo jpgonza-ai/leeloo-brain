@@ -23,13 +23,14 @@
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
 - `memory/feedback_confirm_before_pdf.md` — confirmar contenido por texto antes de generar PDFs/entregables.
 - `memory/feedback_email_notifications.md` — al recibir un correo, avisar a Pablo por Telegram (tema + remitente, nota breve).
+- `memory/feedback_no_em_dashes.md` — nunca usar guiones medios (—) en textos que redacte para Pablo (delatan IA).
 - `memory/project_kaizen_asana.md` — proyecto Kaizen ⚡: GIDs, secciones, backlog de 6 ideas y decisiones.
 - `memory/project_ny_trip.md` — viaje a NY (40 de Fer, 12–19 jul 2026): agenda de museos final + PDF entregado.
 - `memory/project_support_agent_merlin.md` — iniciativa Kaizen: agente de soporte de redes ("Merlín") que reporta a Leeloo.
 - `memory/project_newsletter_marruecos.md` — newsletter semanal de lujo sobre Marruecos (imagen PNG/JPG para Mailchimp, estilo Unframed); script `newsletter_morocco.py`.
 - `memory/project_seguridata_agentes.md` — oportunidad: agentes de IA para Seguridata (Alberto Yarza, Director General); minuta y próximos pasos.
 - `memory/project_salesforce_job.md` — proceso de reclutamiento de Pablo con Salesforce (rol Financial Services Account Executive); reclutadora Michelle Tobey; hitos y seguimiento.
-- `memory/project_infra_caja_voz.md` — aviso Patti/Mario (2026-07-14): retiran motor de voz local (~4.2GB) el 24-jul (no afecta mi voz, uso ElevenLabs nube); oferta caja dedicada $240/año, decisión pendiente de Pablo.
+- `memory/project_infra_caja_voz.md` — caja dedicada de Leeloo ($240/año): PAGADA, aprovisionada y CONECTADA (SSH `leeloo-host` = 95.216.197.107, Helsinki); hosting propio con deploy vía git push → http://95.216.197.107/. (También: retiro motor de voz local 24-jul, no afecta la voz de nube.)
 - `memory/project_sports_ent_jobsearch.md` — búsqueda laboral Sports & Entertainment (Bay Area): 3 aplicaciones (Earthquakes ×2, Warriors), one-pager PDF y evento de networking Quakes 22-jul-2026.
 
 ## Minutas
