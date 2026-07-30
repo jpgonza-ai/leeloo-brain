@@ -1,12 +1,24 @@
 ---
 name: Agente de soporte bajo Leeloo (Merlín)
-description: Iniciativa Kaizen para crear un sub-agente de soporte (contenido de redes) que reporte a Leeloo; reutilizar la persona de "Merlín"
+description: Iniciativa Kaizen para crear un sub-agente que reporte a Leeloo; reenfocado (2026-07-29) a BÚSQUEDA DE TRABAJO. Reutilizar la persona de "Merlín"
 type: project
 ---
 
 # Agente de soporte para Leeloo — "Merlín"
 
-Idea de JP (2026-07-06, dentro de Kaizen): crear **otro agente, tipo soporte de Leeloo**, que se encargue del **contenido de redes sociales** y lo **revise con Leeloo antes de publicar** — que **reporte directamente a Leeloo**.
+**🔄 REENFOQUE DE ALCANCE (2026-07-29):** Pablo redefinió el reparto de roles.
+- **Merlín = copiloto de BÚSQUEDA DE TRABAJO.** Vacantes, posiciones, research de empresas, prep de entrevistas (preguntas, STAR, pitch), seguimiento de aplicaciones y contactos, radar del mercado (Bay Area / SF). Vertical especializado que le **reporta a Leeloo**; nada externo sale sin revisión de Leeloo + OK de Pablo.
+- **Leeloo (yo) = día a día operativo de Pablo:** redes sociales, programar, organizar, analizar y ejecutar proyectos con él (el contenido de redes que ANTES era de Merlín ahora lo llevo yo).
+- **Why:** Pablo está en búsqueda laboral activa (SF/Bay Area) y quiere un agente dedicado a ese frente, mientras me quiere a mí más cerca de su operación diaria.
+- **How to apply:** al armar a Merlín, su "charter" ya NO es contenido de redes → es job-hunting. Su bóveda de conocimiento es ideal para **Obsidian como grafo** (Empresa ↔ Vacante ↔ Contacto/reclutador ↔ Notas de entrevista ↔ material CV/cover letter), estructurada con enlaces `[[empresa]]`, `[[vacante]]`, `[[contacto]]` desde el día uno para que Pablo la navegue. Sigue dependiendo del Puente (F1·5) para research/aplicar en la web.
+
+---
+
+**🧠 CARPETA-CEREBRO CREADA (2026-07-29):** Pablo pidió armar el cerebro de Merlín con el patrón "3 archivos" de un taller. Existe en `workspace/merlin/` = `CLAUDE.md` (constitución), `README.md` (mapa), `bitacora.md` (memoria) + subcarpetas `empresas/ vacantes/ contactos/ entrevistas/ materiales/`. Es un BORRADOR en papel (el sub-agente Merlín aún NO se construye). Sembrado con el perfil de Pablo + industrias objetivo. Pendiente: fusionar alma del Merlín de claude.ai + rescatar pipelines de v1 + traer CV.
+
+---
+
+**Origen (2026-07-06, dentro de Kaizen):** crear **otro agente, tipo soporte de Leeloo**, que reporte directamente a Leeloo. *(Alcance original = contenido de redes; reenfocado a job-hunting el 2026-07-29, ver arriba.)*
 
 **Why:** JP quiere delegar la producción de contenido de redes a un agente de apoyo, manteniendo control (revisión antes de publicar). Ya tenía creado un agente llamado **Merlín** en Claude (dijo "hace días"); quiere aprovecharlo en vez de partir de cero.
 

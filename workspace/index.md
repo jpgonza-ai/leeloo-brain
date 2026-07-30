@@ -18,6 +18,8 @@
   - `memory/2026-07-09.md` — rutina matutina; Kaizen F0·2 cerrada (checklist loops 8 pts + medición A+B+C); llamada Seguridata; newsletter Unframed variante B + **brief para Tavo entregado en PDF y Word** (logo lazos verdes).
   - `memory/2026-07-10.md` — **nueva capacidad STT** (entiendo notas de voz vía ElevenLabs Scribe); logos oficiales de Unframed recibidos; **newsletter variante B2 reordenada** (valor WAMT arriba) + feedback de Tavo fijado.
   - `memory/2026-07-20.md` — **hito: correo propio de Leeloo (SMTP)** `leeloo.asistenteai@gmail.com` operando vía `send_email.py` (puerto 587); decisión de bajar Obsidian del foco; brief vespertino.
+  - `memory/2026-07-28.md` — Puente: Pablo eligió Opción B (navegador aislado); invite Seguridata confirmado (jue 30-jul 9 AM PT); limpieza de OpenClaw v1 en su Windows.
+  - `memory/2026-07-29.md` — **hito: Puente Fase 1+2 completas** (Playwright+Chromium probado en caja de Helsinki); reenfoque de Merlín a job-hunting + carpeta-cerebro creada y ajustada; respaldo GitHub aclarado.
 - `memory/feedback_naming.md` — trato: SIEMPRE "Pablo", nunca "JP"/"Yeipi" (texto y audio).
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
@@ -26,12 +28,18 @@
 - `memory/feedback_no_em_dashes.md` — nunca usar guiones medios (—) en textos que redacte para Pablo (delatan IA).
 - `memory/project_kaizen_asana.md` — proyecto Kaizen ⚡: GIDs, secciones, backlog de 6 ideas y decisiones.
 - `memory/project_ny_trip.md` — viaje a NY (40 de Fer, 12–19 jul 2026): agenda de museos final + PDF entregado.
-- `memory/project_support_agent_merlin.md` — iniciativa Kaizen: agente de soporte de redes ("Merlín") que reporta a Leeloo.
+- `memory/project_support_agent_merlin.md` — iniciativa Kaizen: sub-agente "Merlín" que reporta a Leeloo; REENFOCADO (2026-07-29) a BÚSQUEDA DE TRABAJO (vacantes, empresas, entrevistas, seguimiento).
 - `memory/project_newsletter_marruecos.md` — newsletter semanal de lujo sobre Marruecos (imagen PNG/JPG para Mailchimp, estilo Unframed); script `newsletter_morocco.py`.
 - `memory/project_seguridata_agentes.md` — oportunidad: agentes de IA para Seguridata (Alberto Yarza, Director General); minuta y próximos pasos.
 - `memory/project_salesforce_job.md` — proceso de reclutamiento de Pablo con Salesforce (rol Financial Services Account Executive); reclutadora Michelle Tobey; hitos y seguimiento.
 - `memory/project_infra_caja_voz.md` — caja dedicada de Leeloo ($240/año): PAGADA, aprovisionada y CONECTADA (SSH `leeloo-host` = 95.216.197.107, Helsinki); hosting propio con deploy vía git push → http://95.216.197.107/. (También: retiro motor de voz local 24-jul, no afecta la voz de nube.)
 - `memory/project_sports_ent_jobsearch.md` — búsqueda laboral Sports & Entertainment (Bay Area): 3 aplicaciones (Earthquakes ×2, Warriors), one-pager PDF y evento de networking Quakes 22-jul-2026.
+
+## Cerebro de Merlín (borrador, 2026-07-29)
+- `merlin/CLAUDE.md` — constitución de Merlín (copiloto de búsqueda de trabajo): quién es, objetivos, cómo trabaja, qué nunca hace, perfil de Pablo, industrias objetivo. Ajustado con notas de Pablo (regla de 3 fuentes, decks ejecutivos, pipeline en Asana).
+- `merlin/README.md` — mapa de la carpeta-cerebro (aprobado por Pablo).
+- `merlin/bitacora.md` — memoria de Merlín (cronológico inverso) + pendientes + decisión de control de versiones de CV.
+- `merlin/{empresas,vacantes,contactos,entrevistas,materiales}/` — subcarpetas del "cuerpo" (una nota por ítem, enlazadas con `[[wikilinks]]` para grafo en Obsidian). Vacías por ahora.
 
 ## Minutas
 - `minutas/2026-07-09_seguridata_alberto-yarza.md` — 1ª llamada Seguridata (casos de uso de agentes, próximos pasos).
