@@ -12,6 +12,12 @@ Pablo explora con **Seguridata** llevar agentes de IA a las tareas de la empresa
 
 **How to apply:** Cuando Beto comparta su lista de tareas priorizadas, aterrizar una **prueba/demo concreta sobre su caso #1**. Varios de sus casos son demostrables de inmediato con las capacidades de Leeloo (extracción de docs, generación de código, contenido de redes).
 
+## Documentos fuente oficiales (recibidos de Pablo 2026-07-30, guardados en /tmp y reenviados al grupo)
+- **SD-COMERCIAL-02 Proceso de Ventas V3** (49 pasos, elaborado 29-jun-2026): lead → cobrado. HubSpot (sales hub) es la columna vertebral con etapas por % (MQL 1% → SQL 5% → Arquitectura 10% → Propuesta 30% → Negociación 50% → Aceptación verbal 70% → Contrato firmado 90% → Prefactura/Facturación 95% → Cobrado 100%). SAP entra solo en prefactura/facturación (pasos 34-39). Roles: BDM, Arquitecto (Bernardo), Jurídico (Carlos Jiménez), Admin/Finanzas (Jesús). Muchos pasos ya son automatizaciones de Hub (notificaciones, reasignación de leads a los 15 días, disparo de solicitud de fianza/contrato).
+- **Tabla de descuentos (última hoja del doc de Ventas)** — dato clave para el cotizador/caso: 0-5% autoriza Ejecutivo Comercial; 6-15% y 16-25% Dirección Comercial (con justificación); +25% Dirección General (caso de negocio). Reglas: ningún descuento automático, todo descuento exige contraprestación (renovación multianual, más licencias, pago anticipado, etc.). Es lógica de validación clara y automatizable → munición para hablar del agente cotizador.
+- **SD-COMERCIAL-05 Proceso de Renovaciones v2** (14 pasos, apoyado en Monday).
+- Nota: estos 2 PDFs son los que Mario pidió en el grupo el 30-jul (creyó que venían en un correo mío; en realidad los tenía Pablo). Reenviados al grupo para que los 3 asistentes (Pablo, Mario, Patti) vayan con el mismo mapa a la junta.
+
 ## Seguridata (perfil, verificado en seguridata.com)
 Empresa mexicana de confianza digital/certificación, fundada 1996 (25+ años). Suite SeguriData Trust: Identidad Digital (incl. "activos de IA"), Firma Electrónica, Certeza de Tiempo/Contenido (sellado de tiempo, NOM-151), Procesos Digitales Seguros, Entrega/Notificación Segura. Acreditada PSC ante la Secretaría de Economía. Clientes: SCJN, IMSS, INE, CFE, Qualitas, ITAM. +5M transacciones de firma/año.
 

@@ -141,6 +141,14 @@ Pablo pidió (msg 870) armar las 2 versiones **NO en PDF sino en JPG compatible 
 
 **Pendientes vivos:** (1) ✅ HECHO — 2 opciones de copy redactadas y en revisión de Pablo/Tavo (2026-07-18); (2) fotos originales en alta resolución para Mailchimp; (3) bocetar plantilla de promos/last-minute (2º tipo de newsletter).
 
+### 🆕 COMPROMISO RECURRENTE: post semanal de Instagram para WAMT (Tavo, correo 2026-07-27; Pablo confirmó 2026-07-30)
+Tavo pidió por correo (hilo "Re: Comentarios al test del newsletter — We Are Morocco Travel", msg id `19fa95210d169168`): **"necesitamos hacer de manera semanal un post de Instagram para We Are Morocco Travel. Siempre desde una perspectiva de lujo y mostrando las características representativas de los lugares más icónicos de Marruecos. Te pido que cada viernes a las 11:00am me mandes una sugerencia de post con sus hashtags para la cuenta de Marruecos. Sugiere las imágenes y el texto y yo complementaré."**
+- **Cadencia FIJA:** cada **VIERNES 11:00am hora México = 10:00am PT (California)**. Leeloo manda la sugerencia; Tavo la complementa/publica.
+- **Formato del post (Pablo 2026-07-30):** solo Instagram; perspectiva de lujo; lugares icónicos de Marruecos; imagen(es) claras; caption corto y aspiracional con hashtags; que despierte curiosidad. Tono aspiracional SIN meloso/cursi. Sin guiones medios (—).
+- **Imágenes:** FOTOS REALES (no IA). Fallback = 5 icónicas del newsletter (`newsletter_assets/morocco_real/{marrakesh,dades,merzouga,fes,casablanca}.jpg`). Pablo las reenvió (`Fwd: Imágenes Newsletter Marruecos`, thread `19fb50e1cc6da835`). Cada viernes: primero pedir a Tavo su foto; si no responde a tiempo, usar fallback.
+- **Envío:** vía `workspace/send_email.py` desde `leeloo.asistenteai@gmail.com`, respondiendo sobre el hilo de Tavo, **CC Pablo** (script ya copia a Pablo por default).
+- **1er post = viernes 2026-07-31.** Pablo juega 9-10:30am PT ese día → aprueba contenido la noche antes; Leeloo envía sola a las 10am PT (cron).
+
 ### Tavo envió su 1er TEST por Mailchimp (2026-07-21) + comentarios de Leeloo a Tavo
 Tavo mandó un envío de prueba real desde Mailchimp: asunto "[Test] Un Viaje de Lujo para recorrer Marruecos con We Are Morocco Travel", from `octavio@unframedconsult.com`. Pablo lo reenvió a `leeloo.asistenteai@gmail.com` y pidió opinión.
 - **Es nuestra variante C** aterrizada por Tavo: masthead WAMT, bloque "PORQUE WE ARE MOROCCO TRAVEL / El viaje, a tu medida", 5 destinos (Marrakech, Valle de Dades, Merzouga, Fes, Casablanca) con Hoteles+Experiencias, itinerario resumido, cierre "¿Te ayudamos a diseñar tu próximo viaje?" + contactos Faby+Tavo + logo. Diseño y contenido = muy buenos.

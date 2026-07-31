@@ -14,6 +14,14 @@ type: project
 
 ---
 
+**🧭 DECISIÓN DE ARQUITECTURA (2026-07-30):** Pablo eligió **NO** construir a Merlín como sub-agente de Leeloo. Merlín se queda **viviendo en su proyecto de claude.ai** (app de Claude), donde Pablo le habla directo, en un **chat dedicado solo a Merlín** para no mezclar la búsqueda de trabajo con los demás temas del chat de Telegram con Leeloo.
+- **Rol de Leeloo:** mantener el **cerebro** (`workspace/merlin/`: CLAUDE.md, bitácora, CV maestro, criterios) como fuente de verdad, y entregarle a Pablo **artefactos listos para pegar** en el proyecto de claude.ai (Custom Instructions + subir el CV como conocimiento del proyecto).
+- **Why:** Pablo quiere un solo hilo limpio con Merlín y a Leeloo enfocada en su operación diaria. La app (web/desktop/móvil) es el mismo proyecto sincronizado; descargar la desktop es solo comodidad, no requisito.
+- **How to apply:** cuando cambien criterios/tono/CV, actualizar el cerebro Y darle a Pablo el texto nuevo para re-pegar en claude.ai. Si algún día quiere integración total (Puente + Asana + memoria en un lugar), se migra a sub-agente; por ahora NO.
+- **Estado del cerebro (completo 2026-07-30):** constitución con quién es + objetivos + tono/voz + qué nunca hace + perfil + industrias; **criterios de selección** (≤20 días desde consulta, match 80%+, full-time, pref. Bay Area, abierto a remoto); **plataformas** (LinkedIn + GreenHouse + TeamWork Online + BuiltIn + Jobright + careers); **reglas de CV** (7 candados + libertad de diseño) y **CV maestro** en `materiales/`; pipeline = proyecto Asana **"Job Search"** (gid `1216466305816539`), NO crear otro.
+
+---
+
 **🧠 CARPETA-CEREBRO CREADA (2026-07-29):** Pablo pidió armar el cerebro de Merlín con el patrón "3 archivos" de un taller. Existe en `workspace/merlin/` = `CLAUDE.md` (constitución), `README.md` (mapa), `bitacora.md` (memoria) + subcarpetas `empresas/ vacantes/ contactos/ entrevistas/ materiales/`. Es un BORRADOR en papel (el sub-agente Merlín aún NO se construye). Sembrado con el perfil de Pablo + industrias objetivo. Pendiente: fusionar alma del Merlín de claude.ai + rescatar pipelines de v1 + traer CV.
 
 ---
