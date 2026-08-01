@@ -24,3 +24,5 @@ JP aprobó sin cambios ("Quedó excelente así!") un post de LinkedIn con este e
 - **Golden hour:** responder comentarios al instante los primeros 20-30 min + interactuar con posts de otros.
 - **Reciprocidad:** comentar 3-5 posts de otros al día (no lo hace Leeloo, es hábito de Pablo, pero recordárselo).
 **How to apply:** de aquí en adelante, cada borrador de post se entrega con (1) cuerpo sin link, (2) texto del 1er comentario con el link, (3) pregunta de cierre afinada, (4) sugerencia de hora de publicación. Ver task pendiente "Estrategia para subir engagement".
+
+**✅ VALIDADO EN VIVO (2026-07-31):** primer post con el método completo de palancas = noticia FIFA/Infantino (venta de participación, Kushner/UEFA/AFC). Entregado con cuerpo sin link + comentario con link + pregunta de cierre + hora sugerida. **Pablo lo publicó sin cambios ("Listo! posteado").** El formato de palancas quedó confirmado como el estándar a repetir.
