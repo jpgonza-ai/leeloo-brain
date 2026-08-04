@@ -18,6 +18,21 @@
 
 ## Bitácora
 
+### 2026-08-03 — Ronda LinkedIn: 6 vacantes revisadas + materiales para 3
+- Origen: recomendaciones del feed de LinkedIn de Pablo (leídas vía el Puente). LinkedIn nativo quedó bloqueado por IP de datacenter, así que las descripciones completas se jalaron de fuentes públicas (careers, Built In, Greenhouse, Teal, bebee).
+- **Análisis de match** de las 6 en `vacantes/2026-08-03_ronda-linkedin-6.md`:
+  - Plaid — AI Partner Development, GTM Pod → **88%** ✅ (TOP)
+  - Gartner — Sr. Account Executive, LE, GTS → **82%** ✅
+  - Ten-X (LoopNet/CoStar) — Sr. Sales Executive, N. California → **80%** ✅ (borde; base salarial baja, 50% viaje)
+  - Antora Energy — Sr. Business Development Analyst → **79%** ⚠️ borde (ubicación ideal San Jose; título "Analyst" e industria energía = flags). A criterio de Pablo.
+  - The Trade Desk — FP&A Product Finance → **70%** ❌ (FP&A puro + piden SQL)
+  - Justworks — Sr. AE In-Territory → **70%** ❌ (venta PEO tipo hunter/cold-call)
+- **Materiales generados** (inglés, keywords ATS, reglas de formato respetadas) para las 3 que pasan umbral:
+  - Plaid: `CV_JP_Plaid_AIPartnerDev_2026-08-03.md` + `CoverLetter_JP_Plaid_AIPartnerDev_2026-08-03.md`
+  - Gartner: `CV_JP_Gartner_SrAE_LE_GTS_2026-08-03.md` + `CoverLetter_JP_Gartner_SrAE_LE_GTS_2026-08-03.md`
+  - Ten-X: `CV_JP_TenX_SrSalesExec_2026-08-03.md` + `CoverLetter_JP_TenX_SrSalesExec_2026-08-03.md`
+- **Pendiente:** decisión de Pablo sobre incluir Antora (#4) y si quiere materiales para las <80% (#5, #6). Luego crear tarjeta por vacante en Asana "Job Search" → "🎯 To Apply" (gid `1216466204069163`) con match % + liga + apuntador a materiales.
+
 ### 2026-07-30 — Plantilla de Cover Letter recibida
 - Pablo compartió su molde de cover letter (`materiales/CoverLetter_JP_template_2026-07-30.pdf`; estructurado en `materiales/CoverLetter_JP_template.md`). Ejemplo real: Anthropic - Strategic Account Executive, Healthcare.
 - **Reglas de formato (no romper):** nunca más largo que el molde (1 página); máximo 2 o 3 párrafos; **sin guiones medios (—)**, usar comas u otra puntuación; siempre en inglés; adaptar empresa/rol/experiencia al job description sin inventar.

@@ -22,12 +22,15 @@
   - `memory/2026-07-29.md` — **hito: Puente Fase 1+2 completas** (Playwright+Chromium probado en caja de Helsinki); reenfoque de Merlín a job-hunting + carpeta-cerebro creada y ajustada; respaldo GitHub aclarado.
   - `memory/2026-07-30.md` — Seguridata primer intro (munición + one-pager entregados); plan de respaldo Helsinki cerrado por Patti (pelota en Pablo); Merlín cerebro completo (cover letters, criterios, plataformas, Asana "Job Search"); **1er post de IG WAMT preparado y programado** (cron `bb5b18a0`, viernes 31-jul 10 AM PT, 3 posts con fotos Unsplash); briefs matutino y vespertino.
   - `memory/2026-07-31.md` — briefs matutino/vespertino; **formato de posts IG DEFINIDO por Tavo** (español, caption corto/aspiracional, Leeloo sugiere imagen/Tavo pone final, tags obligatorios, sin CTA); **bug de cron corregido** (server=CDMX=CST=UTC-6, PT=server-1h); **1er envío semanal WAMT a Tavo hecho** (~10:58 CDMX); **post LinkedIn FIFA/Infantino publicado sin cambios** (1a aplicación en vivo del método de engagement).
+  - `memory/2026-08-03.md` — **hito: el Puente lee LinkedIn Jobs** (1a tarea útil de lectura → 6 vacantes recomendadas entregadas); **cookie li_at invalidada** por LinkedIn (esperando re-exportación de Pablo); **flujo acordado Puente→Merlín→Asana** (match% + CV/CL → tarjetas en "To Apply"); correos Seguridata (30 docs en ZIP, pendiente reenvío); evento de seguridad del token validado; twist de estilo LinkedIn (más corto + hook).
 - `memory/feedback_naming.md` — trato: SIEMPRE "Pablo", nunca "JP"/"Yeipi" (texto y audio).
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
 - `memory/feedback_confirm_before_pdf.md` — confirmar contenido por texto antes de generar PDFs/entregables.
 - `memory/feedback_email_notifications.md` — al recibir un correo, avisar a Pablo por Telegram (tema + remitente, nota breve).
 - `memory/feedback_no_em_dashes.md` — nunca usar guiones medios (—) en textos que redacte para Pablo (delatan IA).
+- `memory/feedback_security_caution.md` — ser cuidadosa con credenciales/tokens/OTP y patrones de estafa; avisar a Pablo en privado antes de actuar (validado 2026-08-03).
+- `memory/feedback_bridge_job_search_pacing.md` — espaciar las búsquedas de vacantes con el Puente, sin prisa, para evitar el anti-bot de LinkedIn (directiva de Pablo, 2026-08-03).
 - `memory/project_kaizen_asana.md` — proyecto Kaizen ⚡: GIDs, secciones, backlog de 6 ideas y decisiones.
 - `memory/project_ny_trip.md` — viaje a NY (40 de Fer, 12–19 jul 2026): agenda de museos final + PDF entregado.
 - `memory/project_support_agent_merlin.md` — iniciativa Kaizen: sub-agente "Merlín" que reporta a Leeloo; REENFOCADO (2026-07-29) a BÚSQUEDA DE TRABAJO (vacantes, empresas, entrevistas, seguimiento).
