@@ -23,6 +23,8 @@
   - `memory/2026-07-30.md` — Seguridata primer intro (munición + one-pager entregados); plan de respaldo Helsinki cerrado por Patti (pelota en Pablo); Merlín cerebro completo (cover letters, criterios, plataformas, Asana "Job Search"); **1er post de IG WAMT preparado y programado** (cron `bb5b18a0`, viernes 31-jul 10 AM PT, 3 posts con fotos Unsplash); briefs matutino y vespertino.
   - `memory/2026-07-31.md` — briefs matutino/vespertino; **formato de posts IG DEFINIDO por Tavo** (español, caption corto/aspiracional, Leeloo sugiere imagen/Tavo pone final, tags obligatorios, sin CTA); **bug de cron corregido** (server=CDMX=CST=UTC-6, PT=server-1h); **1er envío semanal WAMT a Tavo hecho** (~10:58 CDMX); **post LinkedIn FIFA/Infantino publicado sin cambios** (1a aplicación en vivo del método de engagement).
   - `memory/2026-08-03.md` — **hito: el Puente lee LinkedIn Jobs** (1a tarea útil de lectura → 6 vacantes recomendadas entregadas); **cookie li_at invalidada** por LinkedIn (esperando re-exportación de Pablo); **flujo acordado Puente→Merlín→Asana** (match% + CV/CL → tarjetas en "To Apply"); correos Seguridata (30 docs en ZIP, pendiente reenvío); evento de seguridad del token validado; twist de estilo LinkedIn (más corto + hook).
+  - `memory/2026-08-04.md` — rutina matutina; explicación Japón/Treasuries; **Constancia fiscal Banorte** analizada + 6 preguntas del preparador US contestadas (cuenta mancomunada 50/50); **Seguridata: peloteamos el resumen + ONE-PAGER entregado** (filosofía copiloto, starter pack de 5 agentes); feedback español natural.
+  - `memory/2026-08-05.md` — briefs matutino/vespertino (cron vespertino se disparó solo); **nuevo proyecto: Radar de acciones de Pablo** (portafolio de 9 emisoras, actualización semanal los lunes por audio); post LinkedIn AI winners/losers propuesto; convocatoria de Beto para llamada de seguimiento (jue 6-ago).
 - `memory/feedback_naming.md` — trato: SIEMPRE "Pablo", nunca "JP"/"Yeipi" (texto y audio).
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
@@ -31,6 +33,8 @@
 - `memory/feedback_no_em_dashes.md` — nunca usar guiones medios (—) en textos que redacte para Pablo (delatan IA).
 - `memory/feedback_security_caution.md` — ser cuidadosa con credenciales/tokens/OTP y patrones de estafa; avisar a Pablo en privado antes de actuar (validado 2026-08-03).
 - `memory/feedback_bridge_job_search_pacing.md` — espaciar las búsquedas de vacantes con el Puente, sin prisa, para evitar el anti-bot de LinkedIn (directiva de Pablo, 2026-08-03).
+- `memory/feedback_cv_cl_los_genera_merlin.md` — en el flujo de empleo, los CV/Cover Letters los genera Merlín, no Leeloo (acuerdo A, 2026-08-04).
+- `memory/feedback_espanol_natural.md` — cuidar conjugación/acentos; evitar frases telegráficas forzadas (2026-08-04, "cavernícola").
 - `memory/project_kaizen_asana.md` — proyecto Kaizen ⚡: GIDs, secciones, backlog de 6 ideas y decisiones.
 - `memory/project_ny_trip.md` — viaje a NY (40 de Fer, 12–19 jul 2026): agenda de museos final + PDF entregado.
 - `memory/project_support_agent_merlin.md` — iniciativa Kaizen: sub-agente "Merlín" que reporta a Leeloo; REENFOCADO (2026-07-29) a BÚSQUEDA DE TRABAJO (vacantes, empresas, entrevistas, seguimiento).
@@ -39,6 +43,10 @@
 - `memory/project_salesforce_job.md` — proceso de reclutamiento de Pablo con Salesforce (rol Financial Services Account Executive); reclutadora Michelle Tobey; hitos y seguimiento.
 - `memory/project_infra_caja_voz.md` — caja dedicada de Leeloo ($240/año): PAGADA, aprovisionada y CONECTADA (SSH `leeloo-host` = 95.216.197.107, Helsinki); hosting propio con deploy vía git push → http://95.216.197.107/. (También: retiro motor de voz local 24-jul, no afecta la voz de nube.)
 - `memory/project_sports_ent_jobsearch.md` — búsqueda laboral Sports & Entertainment (Bay Area): 3 aplicaciones (Earthquakes ×2, Warriors), one-pager PDF y evento de networking Quakes 22-jul-2026.
+- `memory/project_radar_acciones.md` — radar del portafolio de acciones de Pablo (9 emisoras): actualizar cada lunes a apertura de mercado (precio USD + TC) y entregar SOLO un audio con el rendimiento % por emisora. Datos en `portfolio/radar_acciones.md`.
+
+## Portfolio (radar de acciones)
+- `portfolio/radar_acciones.md` — tabla del radar: datos fijos (costo unitario MXN, títulos, costo total) + historial fechado de actualizaciones (precio mercado USD, TC, plusvalía/minusvalía). Baseline 2026-08-05 con TC $17.2354.
 
 ## Cerebro de Merlín (borrador, 2026-07-29)
 - `merlin/CLAUDE.md` — constitución de Merlín (copiloto de búsqueda de trabajo): quién es, objetivos, cómo trabaja, qué nunca hace, perfil de Pablo, industrias objetivo. Ajustado con notas de Pablo (regla de 3 fuentes, decks ejecutivos, pipeline en Asana).
@@ -63,6 +71,9 @@
 - `brief_pdf.py` — genera el brief de estado Unframed×WAMT en **PDF** (1 pág, PIL, logo arriba-derecha).
 - `onepager_applications.py` — one-pager PDF formal de aplicaciones de Pablo (Sports & Entertainment): encabezado con contacto + 3 tarjetas (rol · org · fecha · línea de valor). Salida `/tmp/OnePager_Applications.pdf`. Uso personal.
 - `onepager_seguridata.py` — one-pager PDF formal (estilo azul pizarra) para el primer intro con Seguridata: objetivo, encaje narrativo, demo recomendado (Agente de Reunión), mapa de riesgo. Salida `/tmp/OnePager_Seguridata.pdf`.
+- `seguridata/md2pdf.py` — conversor markdown→PDF con reportlab (headings, tablas zebra, listas, bold/italic). Env var `MD2PDF_SCALE` escala tipografía/espaciado para forzar caber en N páginas. Uso: `python3 md2pdf.py IN.md OUT.pdf`.
+- `seguridata/RESUMEN_EJECUTIVO_SGC.md` (+PDF) — entregable maestro del análisis de los 30 procesos del SGC de Seguridata (hallazgos, mapa de sistemas, Top 8 oportunidades, POC). `seguridata/areas/` = resúmenes por área; `seguridata/procesos_zip/` = los 30 PDFs originales.
+- `seguridata/ONEPAGER_PITCH_SEGURIDATA.md` (+PDF 1 pág) — pitch informal para lluvia de ideas con Mario y Patti: tesis, 3 anclas, filosofía copiloto, starter pack de 5 agentes, preguntas para definir.
 - `brief_docx.py` — genera el mismo brief en **Word editable** (.docx, python-docx) para que Tavo comente/edite.
 - `newsletter_assets/` — fotos de contactos y recursos del newsletter. Incluye `unframed_ig_profile.jpg` (captura de referencia de la cuenta), `unframed_logo.png` (logo recortado del IG), `unframed_logo_green.png` (lazos verdes, fondo transparente — el que se usa en el brief) y `morocco_real/` (5 fotos REALES de Tavo: marrakesh, dades, merzouga, fes, casablanca — comprimidas ~640px por Telegram; para Mailchimp final faltan los originales en alta resolución). `ig_posts/` = posts semanales de Instagram para WAMT (fotos Unsplash de libre uso `post{1,2,3}_*.jpg` + cuerpo del correo a Tavo `tavo_email_AAAAMMDD.txt`).
 - `media/` — imágenes definitivas guardadas. `media/pablo_retrato_RF_final.jpg` = retrato RF de Pablo elegido como definitivo (2026-07-08). `media/newsletter_morocco_b.png/.jpg` = render variante B. `media/newsletter_morocco_b2_A.*` y `_C.*` = variante B REORDENADA, tratamientos de hero A (tarjeta) y C (manifiesto). `media/Newsletter_Marruecos_A.pdf` y `_C.pdf` = las dos opciones enviadas a Tavo (2026-07-10). `media/Brief_Unframed_WAMT.pdf/.docx` = brief para Tavo (PDF + Word editable).
