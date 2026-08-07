@@ -25,6 +25,7 @@
   - `memory/2026-08-03.md` — **hito: el Puente lee LinkedIn Jobs** (1a tarea útil de lectura → 6 vacantes recomendadas entregadas); **cookie li_at invalidada** por LinkedIn (esperando re-exportación de Pablo); **flujo acordado Puente→Merlín→Asana** (match% + CV/CL → tarjetas en "To Apply"); correos Seguridata (30 docs en ZIP, pendiente reenvío); evento de seguridad del token validado; twist de estilo LinkedIn (más corto + hook).
   - `memory/2026-08-04.md` — rutina matutina; explicación Japón/Treasuries; **Constancia fiscal Banorte** analizada + 6 preguntas del preparador US contestadas (cuenta mancomunada 50/50); **Seguridata: peloteamos el resumen + ONE-PAGER entregado** (filosofía copiloto, starter pack de 5 agentes); feedback español natural.
   - `memory/2026-08-05.md` — briefs matutino/vespertino (cron vespertino se disparó solo); **nuevo proyecto: Radar de acciones de Pablo** (portafolio de 9 emisoras, actualización semanal los lunes por audio); post LinkedIn AI winners/losers propuesto; convocatoria de Beto para llamada de seguimiento (jue 6-ago).
+  - `memory/2026-08-06.md` — briefs matutino/vespertino; **CV de Fer entregado** (3 diseños en PDF+Word, `portfolio/fer/`); Merlín sin Skills (decisión de Pablo); **deck del SIE en inglés** (38 diapositivas didácticas para su búsqueda laboral); **post LinkedIn Disney×TikTok** redactado (regla de cero guiones medios reforzada); llamada de seguimiento Seguridata.
 - `memory/feedback_naming.md` — trato: SIEMPRE "Pablo", nunca "JP"/"Yeipi" (texto y audio).
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
@@ -47,6 +48,11 @@
 
 ## Portfolio (radar de acciones)
 - `portfolio/radar_acciones.md` — tabla del radar: datos fijos (costo unitario MXN, títulos, costo total) + historial fechado de actualizaciones (precio mercado USD, TC, plusvalía/minusvalía). Baseline 2026-08-05 con TC $17.2354.
+
+## Portfolio de Fer (`portfolio/fer/`)
+- `portfolio/fer/designs.py` — CV de Fer (Fernanda Kobeh) en inglés, ATS-limpio, con datos como estructura reutilizable; genera **3 diseños PDF** (reportlab): A ejecutivo teal dos columnas, B editorial serif vino, C moderno/tech azul. Ranking de Pablo: B>A>C. Salidas `cv_fer_design{A,B,C}_*.pdf`.
+- `portfolio/fer/build_docx_all.py` — genera los **3 CV en Word editable** (python-docx) con bandas de color best-effort vía tablas. Salidas `cv_fer_design{A,B,C}_*.docx`. (Tip para Fer, que usa Canva: PDF→Canva Uploads/Import conserva el diseño.) `build_docx.py` = versión editorial B suelta; `md2pdf_cv.py` = tema azul para el CV en markdown.
+- `portfolio/fer/sie_deck.py` — **deck educativo del SIE** (Securities Industry Essentials, examen intro de FINRA) en inglés, 38 diapositivas didácticas (paleta navy+gold): qué es, mapa de las 4 áreas con pesos, recorrido con definiciones/ejemplos/casos, glosario de 2 págs, tips de estudio, y cierre "por qué suma a tu búsqueda laboral". Salida `SIE_Study_Guide_EN.pdf`. Creado para Pablo (campo nuevo, fintech/pagos/wealth).
 
 ## Cerebro de Merlín (borrador, 2026-07-29)
 - `merlin/CLAUDE.md` — constitución de Merlín (copiloto de búsqueda de trabajo): quién es, objetivos, cómo trabaja, qué nunca hace, perfil de Pablo, industrias objetivo. Ajustado con notas de Pablo (regla de 3 fuentes, decks ejecutivos, pipeline en Asana).

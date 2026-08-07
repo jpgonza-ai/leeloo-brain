@@ -22,6 +22,11 @@ type: project
 
 ---
 
+**🧩 DECISIÓN SOBRE SKILLS (2026-08-06):** Pablo preguntó si hacía falta crear **Skills** (feature de la app de Claude, Settings→Skills) para fortalecer a Merlín. Le aclaré que **NO es necesario**: su fuerza ya está en el proyecto de claude.ai (Custom Instructions = constitución + criterios + reglas de cover letter) + CV maestro subido como conocimiento. Ofrecí, como nice-to-have, armar 2 skills puntuales (Cover Letter con los 7 candados + molde; Job Match Scoring con los criterios ≤20 días/80%+/full-time/Bay Area-remoto). **Pablo decidió dejarlo así, sin skills.**
+- **How to apply:** no construir skills para Merlín por ahora. Si más adelante quiere afilarlo, se generan desde el cerebro `workspace/merlin/`. Las skills "morning" y "skill-creator" que Pablo ve en su app son de Anthropic (default), no de Merlín.
+
+---
+
 **🧠 CARPETA-CEREBRO CREADA (2026-07-29):** Pablo pidió armar el cerebro de Merlín con el patrón "3 archivos" de un taller. Existe en `workspace/merlin/` = `CLAUDE.md` (constitución), `README.md` (mapa), `bitacora.md` (memoria) + subcarpetas `empresas/ vacantes/ contactos/ entrevistas/ materiales/`. Es un BORRADOR en papel (el sub-agente Merlín aún NO se construye). Sembrado con el perfil de Pablo + industrias objetivo. Pendiente: fusionar alma del Merlín de claude.ai + rescatar pipelines de v1 + traer CV.
 
 ---
