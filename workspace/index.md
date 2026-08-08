@@ -26,6 +26,8 @@
   - `memory/2026-08-04.md` — rutina matutina; explicación Japón/Treasuries; **Constancia fiscal Banorte** analizada + 6 preguntas del preparador US contestadas (cuenta mancomunada 50/50); **Seguridata: peloteamos el resumen + ONE-PAGER entregado** (filosofía copiloto, starter pack de 5 agentes); feedback español natural.
   - `memory/2026-08-05.md` — briefs matutino/vespertino (cron vespertino se disparó solo); **nuevo proyecto: Radar de acciones de Pablo** (portafolio de 9 emisoras, actualización semanal los lunes por audio); post LinkedIn AI winners/losers propuesto; convocatoria de Beto para llamada de seguimiento (jue 6-ago).
   - `memory/2026-08-06.md` — briefs matutino/vespertino; **CV de Fer entregado** (3 diseños en PDF+Word, `portfolio/fer/`); Merlín sin Skills (decisión de Pablo); **deck del SIE en inglés** (38 diapositivas didácticas para su búsqueda laboral); **post LinkedIn Disney×TikTok** redactado (regla de cero guiones medios reforzada); llamada de seguimiento Seguridata.
+  - `memory/2026-08-07.md` — rutina matutina; **post semanal WAMT enviado a Tavo** (Fez/Essaouira/Aït Ben Haddou, fotos Wikimedia); **hito: publicar en X ONLINE** (app dev + `x_post.py` OAuth1 stdlib, cuenta @jpablo11g, bloqueado por créditos HTTP 402); **posts LinkedIn AI-labor y Disney PUBLICADOS** + respuestas a comentarios (Diana McLean, Alexander Benz/Mato); evening brew; lección: aplicar reglas guardadas antes de redactar.
+  - `memory/2026-08-08.md` — rutina matutina de sábado (Morning Brew: reporte de empleo bomba -23k, IA "Evo" crea 16 virus; agenda: solo Outside Lands, día libre).
 - `memory/feedback_naming.md` — trato: SIEMPRE "Pablo", nunca "JP"/"Yeipi" (texto y audio).
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
@@ -36,6 +38,7 @@
 - `memory/feedback_bridge_job_search_pacing.md` — espaciar las búsquedas de vacantes con el Puente, sin prisa, para evitar el anti-bot de LinkedIn (directiva de Pablo, 2026-08-03).
 - `memory/feedback_cv_cl_los_genera_merlin.md` — en el flujo de empleo, los CV/Cover Letters los genera Merlín, no Leeloo (acuerdo A, 2026-08-04).
 - `memory/feedback_espanol_natural.md` — cuidar conjugación/acentos; evitar frases telegráficas forzadas (2026-08-04, "cavernícola").
+- `memory/feedback_x_tone.md` — tono de los tweets de Pablo (@jpablo11g): siempre español, suelto/ácido/sarcástico/burlón sobre noticias del día (contraste con LinkedIn).
 - `memory/project_kaizen_asana.md` — proyecto Kaizen ⚡: GIDs, secciones, backlog de 6 ideas y decisiones.
 - `memory/project_ny_trip.md` — viaje a NY (40 de Fer, 12–19 jul 2026): agenda de museos final + PDF entregado.
 - `memory/project_support_agent_merlin.md` — iniciativa Kaizen: sub-agente "Merlín" que reporta a Leeloo; REENFOCADO (2026-07-29) a BÚSQUEDA DE TRABAJO (vacantes, empresas, entrevistas, seguimiento).
@@ -45,6 +48,7 @@
 - `memory/project_infra_caja_voz.md` — caja dedicada de Leeloo ($240/año): PAGADA, aprovisionada y CONECTADA (SSH `leeloo-host` = 95.216.197.107, Helsinki); hosting propio con deploy vía git push → http://95.216.197.107/. (También: retiro motor de voz local 24-jul, no afecta la voz de nube.)
 - `memory/project_sports_ent_jobsearch.md` — búsqueda laboral Sports & Entertainment (Bay Area): 3 aplicaciones (Earthquakes ×2, Warriors), one-pager PDF y evento de networking Quakes 22-jul-2026.
 - `memory/project_radar_acciones.md` — radar del portafolio de acciones de Pablo (9 emisoras): actualizar cada lunes a apertura de mercado (precio USD + TC) y entregar SOLO un audio con el rendimiento % por emisora. Datos en `portfolio/radar_acciones.md`.
+- `memory/project_x_posting.md` — publicar en X a nombre de Pablo (@jpablo11g) vía API v2 + OAuth 1.0a; script `scripts/x_post.py`, llaves en `.secrets/x_api.json`; bloqueo actual por créditos (X pago por uso desde feb-2026); tono/cadencia y reglas.
 
 ## Portfolio (radar de acciones)
 - `portfolio/radar_acciones.md` — tabla del radar: datos fijos (costo unitario MXN, títulos, costo total) + historial fechado de actualizaciones (precio mercado USD, TC, plusvalía/minusvalía). Baseline 2026-08-05 con TC $17.2354.
@@ -71,6 +75,7 @@
 - `say.py` — TTS voz oficial (ElevenLabs "Dani") → nota de voz OGG/Opus para Telegram.
 - `send_email.py` — **correo propio de Leeloo** (SMTP Gmail). Cuenta `leeloo.asistenteai@gmail.com`; app-password cifrada en `../.secrets/leeloo_gmail_apppw.key`. Envía por **puerto 587 STARTTLS** (el 465 está bloqueado en esta caja). Regla: SIEMPRE copia (CC) a Pablo salvo `--no-cc-pablo`. Uso: `python3 send_email.py --to x@y.com --subject "..." --body "..."` (o `--body-file`, `--attach`, `--cc`).
 - `gen_image.py` — generación/edición de imágenes por IA (Google Gemini "Nano Banana"); ver capacidad en MEMORY.md.
+- `scripts/x_post.py` — **publicar en X (Twitter)** a nombre de Pablo (@jpablo11g). API v2 + OAuth 1.0a, SOLO stdlib. `--verify` (comprueba credenciales, no publica), `--text`/`--text-file` (POST /2/tweets). Llaves cifradas en `../.secrets/x_api.json`. Requiere saldo de créditos en el developer portal de X.
 - `newsletter_morocco.py` — newsletter Marruecos, opción A (columna corta estilo Unframed, fotos Rabat).
 - `newsletter_morocco_b.py` — newsletter Marruecos, **opción B** (revista/itinerario, canvas marfil, 5 destinos, banda WAMT). Variante elegida por Pablo.
 - `newsletter_morocco_b2.py` — **variante B REORDENADA** (2026-07-10): oferta de valor WAMT como hero arriba, destinos al cuerpo, recap+CTA al cierre, emblema oficial verde en el pie. **Uso: `python3 newsletter_morocco_b2.py editorial A|B`** — modo `editorial` = variante C elegida por Tavo; 2º arg = opción de copy A ("editorial de precisión") o B ("editorial de revista"), definidas en el dict `COPY` (2026-07-18). Render en `/tmp/newsletter_morocco_b2_C_A.jpg` y `_C_B.jpg`.

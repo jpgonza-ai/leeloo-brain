@@ -148,6 +148,7 @@ Tavo pidió por correo (hilo "Re: Comentarios al test del newsletter — We Are 
 - **Imágenes:** FOTOS REALES (no IA). Fallback = 5 icónicas del newsletter (`newsletter_assets/morocco_real/{marrakesh,dades,merzouga,fes,casablanca}.jpg`). Pablo las reenvió (`Fwd: Imágenes Newsletter Marruecos`, thread `19fb50e1cc6da835`). Cada viernes: primero pedir a Tavo su foto; si no responde a tiempo, usar fallback.
 - **Envío:** vía `workspace/send_email.py` desde `leeloo.asistenteai@gmail.com`, respondiendo sobre el hilo de Tavo, **CC Pablo** (script ya copia a Pablo por default).
 - **1er post = viernes 2026-07-31.** Pablo juega 9-10:30am PT ese día → aprueba contenido la noche antes; Leeloo envía sola a las 10am PT (cron).
+- **⏰ ENVÍO FIJO A LAS 10:00 AM PT EN PUNTO, NO ANTES (Pablo, 2026-08-07 msg 1737).** El 2026-08-07 lo mandé ~9:32am (tras cerrar la selección de fotos con Pablo) y me pidió que quede fijo a las 10am. **Cómo aplicar:** preparar las sugerencias y conseguir el OK de Pablo ANTES (el cron dispara temprano), pero disparar el `send_email.py` a las 10:00am PT exactas. Cron re-armado a las 9:15am PT (server `15 10 * * 5`) para dar margen a la aprobación y luego enviar a las 10am.
 
 ### Tavo envió su 1er TEST por Mailchimp (2026-07-21) + comentarios de Leeloo a Tavo
 Tavo mandó un envío de prueba real desde Mailchimp: asunto "[Test] Un Viaje de Lujo para recorrer Marruecos con We Are Morocco Travel", from `octavio@unframedconsult.com`. Pablo lo reenvió a `leeloo.asistenteai@gmail.com` y pidió opinión.
