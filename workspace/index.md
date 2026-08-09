@@ -28,6 +28,7 @@
   - `memory/2026-08-06.md` — briefs matutino/vespertino; **CV de Fer entregado** (3 diseños en PDF+Word, `portfolio/fer/`); Merlín sin Skills (decisión de Pablo); **deck del SIE en inglés** (38 diapositivas didácticas para su búsqueda laboral); **post LinkedIn Disney×TikTok** redactado (regla de cero guiones medios reforzada); llamada de seguimiento Seguridata.
   - `memory/2026-08-07.md` — rutina matutina; **post semanal WAMT enviado a Tavo** (Fez/Essaouira/Aït Ben Haddou, fotos Wikimedia); **hito: publicar en X ONLINE** (app dev + `x_post.py` OAuth1 stdlib, cuenta @jpablo11g, bloqueado por créditos HTTP 402); **posts LinkedIn AI-labor y Disney PUBLICADOS** + respuestas a comentarios (Diana McLean, Alexander Benz/Mato); evening brew; lección: aplicar reglas guardadas antes de redactar.
   - `memory/2026-08-08.md` — rutina matutina de sábado (Morning Brew: reporte de empleo bomba -23k, IA "Evo" crea 16 virus; agenda: solo Outside Lands, día libre).
+  - `memory/2026-08-09.md` — rutina matutina de domingo (Morning Brew edición especial "Parenting Brew", sin mercados; agenda: último día de Outside Lands).
 - `memory/feedback_naming.md` — trato: SIEMPRE "Pablo", nunca "JP"/"Yeipi" (texto y audio).
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
