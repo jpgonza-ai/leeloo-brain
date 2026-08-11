@@ -29,7 +29,8 @@
   - `memory/2026-08-07.md` — rutina matutina; **post semanal WAMT enviado a Tavo** (Fez/Essaouira/Aït Ben Haddou, fotos Wikimedia); **hito: publicar en X ONLINE** (app dev + `x_post.py` OAuth1 stdlib, cuenta @jpablo11g, bloqueado por créditos HTTP 402); **posts LinkedIn AI-labor y Disney PUBLICADOS** + respuestas a comentarios (Diana McLean, Alexander Benz/Mato); evening brew; lección: aplicar reglas guardadas antes de redactar.
   - `memory/2026-08-08.md` — rutina matutina de sábado (Morning Brew: reporte de empleo bomba -23k, IA "Evo" crea 16 virus; agenda: solo Outside Lands, día libre).
   - `memory/2026-08-09.md` — rutina matutina de domingo (Morning Brew edición especial "Parenting Brew", sin mercados; agenda: último día de Outside Lands).
-  - `memory/2026-08-10.md` — rutina matutina de lunes (Morning Brew: Buc-ee's/trademarks, Berkshire gasta cash; **entrevista Adyen HOY 12:30 PM** — Enterprise Account Manager).
+  - `memory/2026-08-10.md` — rutina matutina de lunes (Morning Brew: Buc-ee's/trademarks, Berkshire gasta cash; **entrevista Adyen 12:30 PM** — Enterprise Account Manager); radar acciones; evening brew (manifiesto IA Zuckerberg, crédito privado).
+  - `memory/2026-08-11.md` — rutina matutina de martes (Morning Brew: cámaras Flock/vigilancia, terremoto Colombia, IA Zuckerberg; agenda: clases + **concierto Interpol 8 PM con Fer**).
 - `memory/feedback_naming.md` — trato: SIEMPRE "Pablo", nunca "JP"/"Yeipi" (texto y audio).
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.

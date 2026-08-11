@@ -29,6 +29,19 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-08-10 (lunes, apertura) — TC 17.16
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET | 191.89 | 36,221.16 | 9,883.09 | 37.52% |
+| AVGO | 428.78 | 66,220.78 | 15,040.75 | 29.39% |
+| BABA | 128.73 | 26,508.08 | 2,880.32 | 12.19% |
+| MELI | 1,843.00 | 63,251.76 | 4,126.56 | 6.98% |
+| META | 597.42 | 51,258.64 | -3,601.36 | -6.56% |
+| MSFT | 507.87 | 113,295.64 | 24,218.21 | 27.19% |
+| MU | 880.88 | 30,231.80 | -615.28 | -1.99% |
+| SPOT | 510.44 | 17,518.30 | 631.86 | 3.74% |
+| WMT | 111.45 | 21,037.30 | 80.10 | 0.38% |
+
 ### 2026-08-05 (baseline, capturado de la foto de Pablo) — TC 17.2354
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|
