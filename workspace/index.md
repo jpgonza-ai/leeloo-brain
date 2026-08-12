@@ -31,6 +31,7 @@
   - `memory/2026-08-09.md` — rutina matutina de domingo (Morning Brew edición especial "Parenting Brew", sin mercados; agenda: último día de Outside Lands).
   - `memory/2026-08-10.md` — rutina matutina de lunes (Morning Brew: Buc-ee's/trademarks, Berkshire gasta cash; **entrevista Adyen 12:30 PM** — Enterprise Account Manager); radar acciones; evening brew (manifiesto IA Zuckerberg, crédito privado).
   - `memory/2026-08-11.md` — rutina matutina de martes (Morning Brew: cámaras Flock/vigilancia, terremoto Colombia, IA Zuckerberg; agenda: clases + **concierto Interpol 8 PM con Fer**).
+  - `memory/2026-08-12.md` — rutina matutina de miércoles (Morning Brew: eclipse solar sobre Europa/España, **Anthropic marcará con watermark lo que crea Claude** por reglas UE, Intel $20B; agenda: **10 AM biométricos USCIS San José** + Kaizen/masaje/content creator; **entrevista mañana jueves 13**).
 - `memory/feedback_naming.md` — trato: SIEMPRE "Pablo", nunca "JP"/"Yeipi" (texto y audio).
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
