@@ -57,6 +57,7 @@
 - **Posts de X (Twitter, tono validado 2026-08-07):** SIEMPRE en **español**, tono **suelto/informal, bromista, ácido, sarcástico y burlón** sobre noticias/temas del día. Contraste deliberado con LinkedIn (serio/inglés). Corto (<280), sin em dashes, borrador + OK de Pablo. Detalle en `memory/feedback_x_tone.md`.
 - **Búsqueda de vacantes con el Puente (pacing):** espaciar las cargas/consultas, sin prisa, para evitar el soft-block anti-bot de LinkedIn (IP datacenter). Directiva explícita de Pablo (2026-08-03). Detalle en `memory/feedback_bridge_job_search_pacing.md`.
 - **CV y Cover Letters los genera Merlín, no Leeloo (acuerdo A, 2026-08-04):** en el flujo de empleo, Leeloo prepara análisis de match + tarjetas en Asana "To Apply"; los documentos CV/CL los produce Merlín. Detalle en `memory/feedback_cv_cl_los_genera_merlin.md`.
+- **División de trabajo Merlín vs Leeloo (2026-08-12):** Pablo prefiere que **Merlín se ocupe de las vacantes** (operando DENTRO de su Chrome vía la extensión Claude for Chrome, que esquiva los candados de LinkedIn al correr en su propia máquina/sesión), y que Leeloo lleve lo estratégico/fuera del navegador (research, cover letters, prep, Asana, briefs, posts). Detalle en `memory/project_division_merlin_leeloo.md`.
 
 ## Notas
 - **📛 Nombre (decisión 2026-07-07): llamarlo SOLO "Pablo".** Ya no usar "JP", "jota pe" ni "yei pi" — él pidió el cambio "para que suene mejor y más fácil". Ya reflejado en SOUL.md y USER.md.
