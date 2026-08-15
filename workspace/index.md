@@ -33,6 +33,7 @@
   - `memory/2026-08-11.md` — rutina matutina de martes (Morning Brew: cámaras Flock/vigilancia, terremoto Colombia, IA Zuckerberg; agenda: clases + **concierto Interpol 8 PM con Fer**).
   - `memory/2026-08-12.md` — rutina matutina de miércoles (Morning Brew: eclipse solar sobre Europa/España, **Anthropic marcará con watermark lo que crea Claude** por reglas UE, Intel $20B; agenda: **10 AM biométricos USCIS San José** + Kaizen/masaje/content creator; **entrevista mañana jueves 13**); evening brew (neoclouds CoreWeave/Nebius, CFO time bomb); explicación correo Google (Gemini API Postpay→Prepay, recordatorio 28-sep); Claude for Chrome para Merlín; división de trabajo Merlín(vacantes)/Leeloo(estratégico).
   - `memory/2026-08-13.md` — rutina matutina de jueves (Morning Brew: **Lakers vendidos récord $12.5B** a Iger+Kushner, CPI julio manso 3.4%, Pixel 11 IA); **🎯 entrevista = MERCURY, recruiter screen 10:30 AM con Arshveer Rai, rol Senior Financial Partnerships Manager – Lending**.
+  - `memory/2026-08-14.md` — viernes: **crons de brews son session-only y `durable:true` NO persiste en este entorno** (no escribe scheduled_tasks.json); rutinas re-armadas 5:32 AM y 5:03 PM L-V; fallback "brief"/"brew"; arreglo de fechas de Merlín cerrado.
 - `memory/feedback_naming.md` — trato: SIEMPRE "Pablo", nunca "JP"/"Yeipi" (texto y audio).
 - `memory/feedback_linkedin_posts.md` — estilo validado de posts de LinkedIn que le gustan a Pablo.
 - `memory/feedback_verification_loops.md` — cultura de verificación / double checks (loops), bidireccional.
