@@ -26,14 +26,18 @@ Capacidad montada dentro de Kaizen (F1·5 el Puente / permisos de redes). Sustit
 - Pablo creó la app dev en el portal de X. Aprendizajes del alta: para guardar "User authentication settings" el **Callback URI es obligatorio** (puse `https://localhost/`, no se usa); type de app = Web App/Automated App (Confidential client); el OAuth 2.0 Client ID/Secret que ofrece NO se usa (usamos OAuth 1.0a). Si el permiso Read+Write se pone DESPUÉS de generar el Access Token, hay que **regenerar** el Access Token para que tome escritura.
 - Verificado con `--verify`: conectada a @jpablo11g con escritura.
 
-## ⚠️ BLOQUEO ACTUAL: X quiere saldo (modelo de créditos, feb-2026)
-- **El primer POST /2/tweets devolvió HTTP 402 "credits depleted / Payment Required"** (2026-08-07). La LECTURA (--verify) sí funciona; la ESCRITURA está topada por saldo $0.
-- **Causa:** en **febrero 2026 X eliminó el tier gratis** y pasó a **pago por uso con créditos**. Ya NO es la suscripción cara (Basic ~$100-200/mes); ahora se carga saldo y descuentan por acción: **publicar ~$0.015 USD/tweet**, leer ~$0.005. Postear 1/día ≈ **~$0.45/mes (~$5-6/año)**, baratísimo.
-- **Remedio:** Pablo debe **cargar saldo (con tarjeta) en el developer portal → billing/credits**. Con $5-10 alcanza para mucho tiempo. Cuando cargue, reintentar el tweet.
-- Tono/estilo de X = definido: español, ácido/sarcástico (ver `feedback_x_tone.md`). Cadencia ~1/día o cada 2 días.
-- Primer borrador acordado (Pablo eligió opción 1, msg 1773): "Bank of America gasta 250 millones de dólares al año en Ozempic para sus empleados. Hace 5 años: cero. Nada dice 'te valoramos' como pagarte la dieta mientras te niegan el aumento. 💉📉" — **pendiente de publicar en cuanto haya saldo.**
+## ✅ BLOQUEO RESUELTO: saldo cargado + 1er post publicado (2026-08-17)
+- **El 402 histórico quedó atrás.** Pablo cargó **$15 USD de créditos prepagados** (modo **personal**, NO business) en el developer portal → Billing/Credits. El balance en USD 0.00 era la causa exacta del 402.
+- **Detalle de UI (para futuras cargas):** la tarjeta NO se registra en pantalla suelta; se captura dentro del flujo de **"Purchase credits"** (botón negro arriba-der en la pantalla Credits), o completando primero **"Billing information"**. El aviso "Auto Recharge unavailable — add at least 1 payment method" confirma que sin tarjeta no deja cargar.
+- **Costo por acción (histórico feb-2026):** publicar **~$0.015 USD/tweet**, leer ~$0.005. Con $15 hay saldo para AÑOS a cadencia de 1/día. (Nota: no lo tenía de memoria en la conversación y fui cauta; el dato vive aquí.)
+- **PRIMER TWEET REAL PUBLICADO (2026-08-17):** nota de McDonald's (expediente de 515 págs), tono ácido/sarcástico, con link de Morning Brew. Pablo eligió la versión "ALT". Tweet id **2089537157706739787** → https://x.com/jpablo11g/status/2089537157706739787
+- El borrador viejo de Bank of America/Ozempic (opción 1, msg 1773) quedó SUPERADO por este primer post; ya no aplica.
+
+## Cadencia acordada (2026-08-17 noche)
+- Pablo confirmó **cadencia DIARIA** (1 post/día). Flujo: Leeloo propone borrador con tono ácido/sarcástico → Pablo da OK → se sube. Le confirmé que no hay riesgo de bloqueo: a $0.015/tweet, 1/día ≈ $0.45/mes → los $15 rinden AÑOS; los límites de la API sobran (30/mes es mínimo).
+- **Cuidados que le señalé:** (1) no repetir texto idéntico muchas veces (X lo marca spam); (2) si pone Spend Cap, no dejarlo muy bajo para que no corte a media racha ($5-10/mes sobra a este ritmo).
 
 ## Pendientes
-- **Que Pablo cargue saldo de créditos en el portal** (o decidir seguir con "yo redacto, tú pegas" para X sin tarjeta).
-- Publicar el primer tweet (opción 1, ya aprobada) al haber saldo.
-- Más adelante: ¿Pablo otorga "libertades" para publicar sin confirmar cada vez? Por ahora, borrador + OK siempre.
+- **Confirmar/poner el Spend Cap mensual** en el portal (~$5-10 USD basta) para topar gasto (opcional, consumo mínimo).
+- Más adelante: ¿Pablo otorga "libertades" para publicar sin confirmar cada vez? Por ahora, **borrador + OK siempre**.
+- Definir de dónde saldrá el tema diario (¿del Morning/Evening Brew?, ¿temas que dé Pablo?) y a qué hora subir.
