@@ -29,6 +29,21 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-08-24 (lunes, apertura) — TC 16.96
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET | 188.14 | 35,099.40 | 8,761.33 | 33.27% |
+| AVGO | 361.82 | 55,228.20 | 4,048.17 | 7.91% |
+| BABA | 119.23 | 24,265.69 | 637.93 | 2.70% |
+| MELI | 1,984.93 | 67,328.83 | 8,203.63 | 13.88% |
+| META | 555.26 | 47,086.05 | -7,773.95 | -14.17% |
+| MSFT | 488.81 | 107,772.83 | 18,695.40 | 20.99% |
+| MU | 899.24 | 30,502.22 | -344.86 | -1.12% |
+| SPOT | 534.90 | 18,143.81 | 1,257.37 | 7.45% |
+| WMT | 104.71 | 19,534.70 | -1,422.50 | -6.79% |
+
+**Totales:** Costo 372,899.21 · Valor actual 404,961.73 · **Plus/Minus +32,062.52 MXN (+8.60%)**. Verde 6 / Rojo 3. Notas: AVGO fue el gran perdedor de la semana (precio -15% vs lunes previo, aunque sigue verde); WMT pasó a rojo tras su mal reporte (peor día en 4 años el 20-ago); META la más golpeada (-14%, juicio federal $1.4T por seguridad infantil en marcha); MELI y SPOT repuntaron; TC bajó (peso más fuerte) restando algo de valor en MXN.
+
 ### 2026-08-17 (lunes, apertura) — TC 17.0235
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|
