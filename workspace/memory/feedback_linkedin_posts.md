@@ -6,7 +6,7 @@ type: feedback
 
 JP aprobó sin cambios ("Quedó excelente así!") un post de LinkedIn con este estilo:
 
-- **Idioma:** inglés (su audiencia profesional es Bay Area / búsqueda laboral en US).
+- **Idioma:** SIEMPRE inglés (su audiencia profesional es Bay Area / búsqueda laboral en US). ⚠️ Redactar el borrador directo en inglés DESDE LA PRIMERA ENTREGA, sin esperar recordatorio. (2026-08-27: entregué un primer borrador en español por inercia del chat y Pablo lo tuvo que corregir; la regla nunca se borró, fue fallo de aplicación. El chat con Pablo sigue en español; solo el contenido del post va en inglés.)
 - **Tono:** abierto, cercano, NO muy formal, orientado a abrir conversación.
 - **Estructura ganadora:** gancho/pregunta al inicio → noticia con 2-3 datos clave (cifras concretas) → ángulo/tensión ("¿esto o aquello?") → reflexión personal → pregunta abierta al cierre (👇) → hashtags.
 - **Hashtags:** 5 (ej. #ArtificialIntelligence #OpenAI #TechPolicy #FutureOfWork #Innovation).

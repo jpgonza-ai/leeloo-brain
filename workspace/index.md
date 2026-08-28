@@ -61,6 +61,9 @@
 - `memory/feedback_espanol_natural.md` — cuidar conjugación/acentos; evitar frases telegráficas forzadas (2026-08-04, "cavernícola").
 - `memory/feedback_x_tone.md` — tono de los tweets de Pablo (@jpablo11g): siempre español, suelto/ácido/sarcástico/burlón sobre noticias del día (contraste con LinkedIn).
 - `memory/feedback_delegacion_autonoma.md` — cuando Pablo delega "avanza tú sola", ejecuto de punta a punta (construir+enviar con él en CC+reportar); dudas al cliente, no a Pablo (validado 2026-08-20).
+- `memory/feedback_info_privada_grupos.md` — nunca pegar info privada de JP (scripts, disparadores, portafolio, credenciales) en chats de grupo; handoffs técnicos sensibles se coordinan directo/en privado (Mario, 2026-08-28).
+- `memory/ref_tareas_programadas.md` — lista canónica de las 6 tareas recurrentes (horarios PT + cron) y estado del agendador durable de Patti (brief/brew/dreaming/radar/barridos ya durables; WAMT/Tavo pendiente).
+- `memory/project_barrido_vacantes.md` — barrido de vacantes 2x/día (~11am/~7pm PT): filtrar correos de job boards, dejar los relevantes, archivar el resto; SILENCIOSO; perfil de CV de Pablo y roles objetivo.
 - `memory/reference_cron_timezone.md` — **el scheduler de crons corre en hora de México (America/Mexico_City, UTC-6, sin DST), NO en PT**; regla robusta para convertir la hora-objetivo PT→sistema antes de programar (verano PT+1, invierno PT+2); verificar con `date` vs `TZ=America/Los_Angeles date`.
 - `memory/user_perfil_financiero.md` — perfil financiero de Pablo: inversionista personal conservador (parquear cash, eligió SGOV), estudia el SIE, reside en California (exención estatal de Treasuries); explicarle finanzas a nivel SIE + pasos de brokerage.
 - `memory/project_division_merlin_leeloo.md` — reparto Merlín (vacantes en su Chrome vía Claude for Chrome) vs Leeloo (estratégico/fuera del navegador); extensión ya instalada y probada (2026-08-21).
