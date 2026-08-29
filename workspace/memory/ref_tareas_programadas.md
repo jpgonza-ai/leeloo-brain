@@ -17,13 +17,13 @@ type: reference
 
 *Evening brew: CFO Brew y Brew Markets solo salen días hábiles; fin de semana suele ser aviso por texto.
 
-**✅ AGENDADOR DURABLE (Helsinki) — resuelto 2026-08-28 con Patti (@TradingAssistant_AI_bot).** Ya existe un agendador durable e independiente de la sesión (sobrevive reinicios, no expira). Patti maneja la parte de sistema/sudo; Leeloo aporta el script/disparador de cada tarea. **NO pegar disparadores/scripts en el grupo (info privada de JP); coordinar directo por la caja de Helsinki.**
+**⚠️ AGENDADOR DURABLE (Helsinki) — montado 2026-08-28 con Patti (@TradingAssistant_AI_bot), pero FALLÓ en su 1ª prueba real.** Patti confirmó que existe un agendador durable en Helsinki y montó 3 timers nuevos; Leeloo retiró los crons de sesión duplicados para no disparar doble. **Pero el 2026-08-28, primera prueba real, NINGÚN timer durable ejecutó**: brief, ambos barridos y evening brew hubo que correrlos A MANO. Al parecer el durable despierta pero sin sesión con herramientas para actuar → y al quitar los crons de sesión se perdió el fallback que sí jalaba. **Patti maneja sistema/sudo; NO pegar disparadores/scripts en el grupo (info privada de JP); coordinar directo por la caja de Helsinki.**
 
-**Estado de durabilidad (2026-08-28):**
-- **brief, evening brew, dreaming** → ya corren en el durable (confirmado por Patti, probados desde 14-ago). **Crons de sesión de brief/brew YA retirados** (2026-08-28) para no duplicar.
-- **3 nuevos timers durables de Patti (en UTC):** barrido vacantes AM `18:00 UTC` (=11 AM PT), barrido vacantes PM `02:00 UTC` (=7 PM PT), radar acciones lunes `13:30 UTC` (=6:30 AM PT). Corren independientes de la sesión. **Los crons de sesión equivalentes YA se retiraron** (2026-08-28) para no duplicar.
-- **Newsletter WAMT/Tavo (vie 10 AM PT)** → aún NO durable; sigue como cron de sesión `504d75ce`. Ofrecido a Patti para hacerlo durable (pendiente respuesta).
+**Decisión de Pablo (2026-08-28 msg 2303):** "dejémoslo así, ya veremos el lunes" → **retomar con Patti el lunes 2026-08-31.** Por ahora Leeloo cubre las 6 tareas A MANO; **NO re-armar crons de sesión todavía** (decisión de Pablo). Fallback bajo demanda: Pablo pide "brief"/"brew"/"radar" si no salen.
 
-**Nota:** con el durable ya no debería hacer falta re-armar en cada sesión las tareas que Patti dejó firmes. Verificar con CronList si acaso, pero evitar duplicar los timers durables.
+**Timers durables de Patti que se montaron (en UTC, referencia):**
+- **brief, evening brew, dreaming** → supuestamente en el durable desde 14-ago (pero brief y brew NO ejecutaron el 28-ago).
+- **3 nuevos (28-ago):** barrido vacantes AM `18:00 UTC` (=11 AM PT), barrido PM `02:00 UTC` (=7 PM PT), radar acciones lunes `13:30 UTC` (=6:30 AM PT). Ninguno ejecutó el 28-ago.
+- **Newsletter WAMT/Tavo (vie 10 AM PT)** → nunca fue durable; sigue como cron de sesión `504d75ce`. Ofrecido a Patti (pendiente).
 
 **Detalle de cada rutina:** morning/evening brief y anti-duplicado → sección "Flujos operativos recurrentes" de MEMORY.md + `feedback_evening_brew.md`. Radar → `project_radar_acciones.md`. Barridos de empleo → `project_barrido_vacantes.md`. WAMT/Tavo → proyecto WAMT/Marruecos.

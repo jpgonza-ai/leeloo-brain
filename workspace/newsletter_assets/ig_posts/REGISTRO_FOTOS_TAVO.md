@@ -18,15 +18,15 @@ Objetivo: no repetir imágenes de referencia. **Antes de elegir fotos cada viern
 | 2026-08-21 | 1 | Cena en el desierto / campamento Sahara (REPETIDA de 07-31) | camp1.jpg | cfd7e251 |
 | 2026-08-21 | 2 | Koutoubia de Marrakech (atardecer) | morocco_real/marrakesh.jpg | 82618b25 |
 | 2026-08-21 | 3 | Azotea sobre la medina de Fes | morocco_real/fes.jpg | 7c70f0f4 |
+| 2026-08-28 | 1 | El ritual del hammam (salón de riad) | morocco_real/riad_interior_salon.jpg | 2f67fd76 |
+| 2026-08-28 | 2 | El riad como refugio (corredor de faroles) | morocco_real/riad_corredor_faroles.jpg | 820a8444 |
+| 2026-08-28 | 3 | La geometría de la calma (Madrasa Ben Youssef) | morocco_real/benyoussef_madrasa.jpg | ab25d2c4 |
 
 ## Huellas ya QUEMADAS (no volver a usar)
-4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4
+4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4
 
 ## Banco real disponible SIN usar todavía
-- `morocco_real/merzouga.jpg` (13f84dff) — dunas de Erg Chebbi.
-- `morocco_real/benyoussef_madrasa.jpg` (ab25d2c4) — patio Madrasa Ben Youssef, Marrakech (zellige + alberca). Stock Pexels, aprobada 2026-08-21. Fuente: pexels.com/photo/6441048
-- `morocco_real/riad_corredor_faroles.jpg` (820a8444) — corredor de riad con faroles y azulejos. Stock Pexels, aprobada 2026-08-21. Fuente: pexels.com/photo/31422755
-- `morocco_real/riad_interior_salon.jpg` (2f67fd76) — salón interior de riad con farol. Stock Pexels, aprobada 2026-08-21. Fuente: pexels.com/photo/4906453
+- `morocco_real/merzouga.jpg` (13f84dff) — dunas de Erg Chebbi. **(ÚLTIMA sin usar)**
 
 ## Pendiente de conseguir
 - Un **hammam marroquí real** de lujo para el tema de bienestar (semana 2026-08-28). El stock genérico de "spa moderno" no sirve (no se ve marroquí).
