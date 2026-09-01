@@ -29,6 +29,21 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-08-31 (lunes, apertura) — TC 17.0353
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET | 194.43 | 36,433.91 | 10,095.84 | 38.33% |
+| AVGO | 368.10 | 56,436.25 | 5,256.22 | 10.27% |
+| BABA | 115.04 | 23,516.89 | -110.87 | -0.47% |
+| MELI | 1,944.44 | 66,248.24 | 7,123.04 | 12.05% |
+| META | 570.96 | 48,631.95 | -6,228.05 | -11.35% |
+| MSFT | 509.39 | 112,809.39 | 23,731.96 | 26.64% |
+| MU | 941.35 | 32,072.36 | 1,225.28 | 3.97% |
+| SPOT | 544.81 | 18,562.00 | 1,675.56 | 9.92% |
+| WMT | 104.58 | 19,597.07 | -1,360.13 | -6.49% |
+
+**Totales:** Costo 372,899.21 · Valor actual 414,308.05 · **Plus/Minus +41,408.84 MXN (+11.10%)**. Verde 6 / Rojo 3. Notas vs 24-ago: la cartera subió de +8.60% a +11.10%. MSFT el motor (+26.64%, máximo de las últimas semanas); ANET recuperó (+38%); AVGO rebotó (+10.27% tras la caída previa; reporta este miércoles). MU volvió a verde (+3.97%). BABA se metió a rojo por poco (-0.47%); META sigue roja pero mejora (-11.35%); WMT sigue roja (-6.49%). TC casi plano (17.04).
+
 ### 2026-08-24 (lunes, apertura) — TC 16.96
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|
