@@ -1,8 +1,10 @@
 ---
-name: Barrido de vacantes en Gmail (2x/día)
-description: Rutina recurrente para revisar Gmail 2 veces al día y filtrar correos de sitios de empleo según el perfil de Pablo
+name: Barrido de vacantes en Gmail (2x/día) — ❌ DESCONTINUADO
+description: (HISTÓRICO) Rutina descontinuada el 2026-09-02 por petición de Pablo. Se conserva solo como referencia del perfil de CV/roles objetivo.
 type: project
 ---
+
+> ❌ **DESCONTINUADA (Pablo, 2026-09-02 msg 2355):** "quiero que borres (olvides) lo de los correos de búsqueda de trabajo en mi bandeja". El barrido ya NO se corre (ni a mano ni por cron). Este archivo queda solo como histórico; la parte útil que sobrevive es el **perfil de CV y roles objetivo de Pablo** (abajo), que sigue sirviendo para Merlín y otras tareas de búsqueda laboral. No reactivar salvo que Pablo lo pida de nuevo.
 
 **Rutina nueva (Pablo, 2026-08-27):** revisar la bandeja de Gmail de Pablo (jpablogov@gmail.com) **dos veces al día, ~11:00 y ~19:00 hora de California** (= 12:00 y 20:00 CST del sistema, que corre en America/Mexico_City), todos los días.
 
