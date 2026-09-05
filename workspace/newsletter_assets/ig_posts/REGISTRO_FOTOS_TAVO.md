@@ -21,9 +21,12 @@ Objetivo: no repetir imágenes de referencia. **Antes de elegir fotos cada viern
 | 2026-08-28 | 1 | El ritual del hammam (salón de riad) | morocco_real/riad_interior_salon.jpg | 2f67fd76 |
 | 2026-08-28 | 2 | El riad como refugio (corredor de faroles) | morocco_real/riad_corredor_faroles.jpg | 820a8444 |
 | 2026-08-28 | 3 | La geometría de la calma (Madrasa Ben Youssef) | morocco_real/benyoussef_madrasa.jpg | ab25d2c4 |
+| 2026-09-04 | 1 | Los textiles del zoco (alfombras/telas, Marrakech) | morocco_real/souk_textiles.jpg | 3dd18fe3 |
+| 2026-09-04 | 2 | El oficio del metal (cobre/latón labrado, Fez) | morocco_real/souk_metal_cobre.jpg | a1101083 |
+| 2026-09-04 | 3 | El color del cuero (curtidurías de Chouara, Fez) | morocco_real/curtiduria_fez.jpg | 35dd6079 |
 
 ## Huellas ya QUEMADAS (no volver a usar)
-4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4
+4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4, 3dd18fe3, a1101083, 35dd6079
 
 ## Banco real disponible SIN usar todavía
 - `morocco_real/merzouga.jpg` (13f84dff) — dunas de Erg Chebbi. **(ÚLTIMA sin usar)**
