@@ -29,6 +29,21 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-09-07 (lunes — mercado EE.UU. CERRADO por Labor Day; precios = cierre del vie 4-sep) — TC 16.8783
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET | 193.78 | 35,977.45 | 9,639.38 | 36.60% |
+| AVGO | 357.90 | 54,366.69 | 3,186.66 | 6.23% |
+| BABA | 113.24 | 22,935.58 | -692.18 | -2.93% |
+| MELI | 1,978.36 | 66,782.71 | 7,657.51 | 12.95% |
+| META | 616.77 | 52,050.15 | -2,809.85 | -5.12% |
+| MSFT | 499.70 | 109,643.12 | 20,565.69 | 23.09% |
+| MU | 1,016.59 | 34,316.62 | 3,469.54 | 11.25% |
+| SPOT | 542.43 | 18,310.59 | 1,424.15 | 8.43% |
+| WMT | 107.14 | 19,891.75 | -1,065.45 | -5.08% |
+
+**Totales:** Costo 372,899.21 · Valor actual 414,274.67 · **Plus/Minus +41,375.46 MXN (+11.10%)**. Verde 6 / Rojo 3. Notas vs 31-ago: la cartera se mantuvo plana en +11.10% (mismo nivel), pero con TC más fuerte (16.88 vs 17.04, peso apreciado ~1% que resta valor en MXN). Precios del viernes porque el mercado de EE.UU. estuvo cerrado hoy por Labor Day. **MU el gran ganador** (+6.10% el viernes, saltó a +11.25%); ANET sigue líder en % (+36.60% aunque cedió algo); MSFT el motor absoluto en pesos (+23.09%, +20.6k MXN); AVGO se enfrió (+6.23% tras el reporte "priced for perfection"). Rojos: META mejora (-5.12% desde -11.35%), BABA volvió a rojo leve (-2.93%), WMT sigue roja (-5.08%).
+
 ### 2026-08-31 (lunes, apertura) — TC 17.0353
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|
