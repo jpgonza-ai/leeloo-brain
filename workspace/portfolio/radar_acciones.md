@@ -29,6 +29,21 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-09-15 (martes — corrida a mano; Pablo pidió el radar al no dispararse el lunes 14; precios en vivo ~9:40 AM PT, mercado abierto) — TC 17.1420
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET | 193.28 | 36,445.26 | 10,107.19 | 38.38% |
+| AVGO | 342.38 | 52,821.70 | 1,641.67 | 3.21% |
+| BABA | 109.98 | 22,623.33 | -1,004.43 | -4.25% |
+| MELI | 1,846.01 | 63,288.61 | 4,163.41 | 7.04% |
+| META | 666.45 | 57,121.43 | 2,261.43 | 4.12% |
+| MSFT | 498.94 | 111,186.78 | 22,109.35 | 24.82% |
+| MU | 941.24 | 32,269.47 | 1,422.39 | 4.61% |
+| SPOT | 554.64 | 19,015.28 | 2,128.84 | 12.61% |
+| WMT | 108.98 | 20,549.49 | -407.71 | -1.95% |
+
+**Totales:** Costo 372,899.21 · Valor actual 415,321.35 · **Plus/Minus +42,422.14 MXN (+11.38%)**. Verde 7 / Rojo 2. Notas vs 07-sep: la cartera subió levemente de +11.10% a +11.38% pese a TC más débil (17.14 vs 16.88, peso depreciado ~1.5% que SUMA valor en MXN). **META volvió a verde** (+4.12% desde -5.12%; rebotó fuerte a $666). ANET sigue líder (+38.38%); MSFT el motor absoluto en pesos (+24.82%, +22.1k MXN); SPOT fuerte (+12.61%). AVGO se enfrió más (+3.21%, precio $342 tras el pico de agosto). Rojos: **BABA cayó a rojo** (-4.25%, $110), WMT sigue roja pero mejora (-1.95%). MELI bajó fuerte en el día (-2.85% intradía) pero sigue verde (+7.04%). Nota: es martes porque el disparador del lunes no ejecutó y Pablo pidió el radar a mano.
+
 ### 2026-09-07 (lunes — mercado EE.UU. CERRADO por Labor Day; precios = cierre del vie 4-sep) — TC 16.8783
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|
