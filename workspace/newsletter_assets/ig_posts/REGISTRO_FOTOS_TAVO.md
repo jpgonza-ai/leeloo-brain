@@ -27,9 +27,12 @@ Objetivo: no repetir imágenes de referencia. **Antes de elegir fotos cada viern
 | 2026-09-11 | 1 | El tiempo del tagine (tagines de barro humeando, gastronomía de autor) | morocco_real/tagine_autor.jpg | 0d9aec6c |
 | 2026-09-11 | 2 | La ceremonia del té (tetera de plata sirviendo té a la menta) | morocco_real/ceremonia_te.jpg | 3aacfc06 |
 | 2026-09-11 | 3 | La mesa como experiencia (mesa vista desde arriba, tagine/pan/limón) | morocco_real/mesa_experiencia.jpg | 5d6ab2a4 |
+| 2026-09-18 | 1 | La carretera del Atlas (ruta serpenteando entre montañas del Alto Atlas) | morocco_real/atlas_ruta.jpg | 347bd133 |
+| 2026-09-18 | 2 | Las kasbahs del camino (kasbah de tierra roja, Ouarzazate) | morocco_real/kasbah_camino.jpg | 39f4518a |
+| 2026-09-18 | 3 | El cielo del Sahara de noche (tienda iluminada bajo cielo estrellado, Merzouga) | morocco_real/sahara_noche.jpg | 92ca57c8 |
 
 ## Huellas ya QUEMADAS (no volver a usar)
-4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4, 3dd18fe3, a1101083, 35dd6079, 0d9aec6c, 3aacfc06, 5d6ab2a4
+4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4, 3dd18fe3, a1101083, 35dd6079, 0d9aec6c, 3aacfc06, 5d6ab2a4, 347bd133, 39f4518a, 92ca57c8
 
 ## Banco real disponible SIN usar todavía
 - `morocco_real/merzouga.jpg` (13f84dff) — dunas de Erg Chebbi. **(ÚLTIMA sin usar)**
