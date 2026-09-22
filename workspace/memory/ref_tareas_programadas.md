@@ -21,6 +21,8 @@ type: reference
 
 **Decisión de Pablo (2026-08-28 msg 2303):** "dejémoslo así, ya veremos el lunes" → por ahora Leeloo cubre las tareas A MANO; **NO re-armar crons de sesión todavía** (decisión de Pablo). Fallback bajo demanda: Pablo pide "brief"/"brew"/"radar" si no salen. El agendador durable siguió sin ejecutar los lunes 24-ago y 31-ago; la revisión con Patti por la caja de Helsinki sigue pendiente.
 
+**Fallo crónico confirmado (sep-2026):** el durable siguió sin disparar — el **lunes 09-21 NO salieron ni el radar ni el evening brew** (ambos corridos a mano; el brew se entregó con retraso el 09-22 cuando Pablo lo pidió). **Protocolo estable: correr radar/brief/brew A MANO y proactivamente a su hora**, sin esperar al durable. La revisión con Patti sigue pendiente.
+
 **Timers durables de Patti que se montaron (en UTC, referencia):**
 - **brief, evening brew, dreaming** → supuestamente en el durable desde 14-ago (pero brief y brew NO ejecutaron el 28-ago).
 - **radar acciones lunes** `13:30 UTC` (=6:30 AM PT) → montado 28-ago; no ejecutó.
