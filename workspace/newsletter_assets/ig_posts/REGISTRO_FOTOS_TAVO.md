@@ -30,9 +30,12 @@ Objetivo: no repetir imágenes de referencia. **Antes de elegir fotos cada viern
 | 2026-09-18 | 1 | La carretera del Atlas (ruta serpenteando entre montañas del Alto Atlas) | morocco_real/atlas_ruta.jpg | 347bd133 |
 | 2026-09-18 | 2 | Las kasbahs del camino (kasbah de tierra roja, Ouarzazate) | morocco_real/kasbah_camino.jpg | 39f4518a |
 | 2026-09-18 | 3 | El cielo del Sahara de noche (tienda iluminada bajo cielo estrellado, Merzouga) | morocco_real/sahara_noche.jpg | 92ca57c8 |
+| 2026-09-25 | 1 | El azul que tiene nombre propio (villa Majorelle entre cactus, Marrakech) | morocco_real/majorelle_villa.jpg (Pexels 36966417) | 2beca109 |
+| 2026-09-25 | 2 | El espejo de la Menara (pabellón reflejado en el estanque) | morocco_real/menara_pabellon.jpg (Pexels 8571073) | f05e4a18 |
+| 2026-09-25 | 3 | El agua como arte (fuente bajo arco de zellige) | morocco_real/fuente_zellige.jpg (Pexels 34157928) | 914936da |
 
 ## Huellas ya QUEMADAS (no volver a usar)
-4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4, 3dd18fe3, a1101083, 35dd6079, 0d9aec6c, 3aacfc06, 5d6ab2a4, 347bd133, 39f4518a, 92ca57c8
+4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4, 3dd18fe3, a1101083, 35dd6079, 0d9aec6c, 3aacfc06, 5d6ab2a4, 347bd133, 39f4518a, 92ca57c8, 2beca109, f05e4a18, 914936da
 
 ## Banco real disponible SIN usar todavía
 - `morocco_real/merzouga.jpg` (13f84dff) — dunas de Erg Chebbi. **(ÚLTIMA sin usar)**
@@ -43,3 +46,10 @@ Objetivo: no repetir imágenes de referencia. **Antes de elegir fotos cada viern
 
 ## Nota de agotamiento
 El banco real distinto es de ~11 fotos y ya usamos 10. Para seguir a 3 posts/semana hay que ampliar el banco (ver conversación 2026-08-21 con Pablo). Cuando lleguen fotos nuevas, agregarlas aquí y actualizar las huellas quemadas al enviarlas.
+
+## Candidatas descargadas NO usadas (2026-09-25, Pexels) — disponibles
+- morocco_real/majorelle_pasillo.jpg = Pexels 6441178 (c7cd1070): pasillo azul Majorelle con macetas amarillas.
+- morocco_real/majorelle_fuente.jpg = Pexels 37818897 (373f0d15): fuente cuadrada azul entre palmeras, Majorelle.
+- morocco_real/fuente_rabat.jpg = Pexels 30411811 (31b11cda): fuente de mármol en patio, Rabat.
+- morocco_real/fuente_octagonal.jpg = Pexels 13811715 (1a76ee49): fuente octagonal de zellige entre plantas (vista cenital).
+- Técnica de sourcing que funcionó: listar IDs con Playwright en Helsinki (pexels.com/search/<tema>/) y bajar images.pexels.com/photos/<ID>/pexels-photo-<ID>.jpeg?w=1400 desde nbg1 (la búsqueda directa por curl da bloqueo).
