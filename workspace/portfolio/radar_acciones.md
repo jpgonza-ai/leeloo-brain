@@ -29,6 +29,21 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-09-28 (lunes, apertura — corrida a mano, precios en vivo ~6:35 AM PT / mercado abierto; Yahoo) — TC 17.8540
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET | 206.00 | 40,457.16 | 14,119.09 | 53.61% |
+| AVGO | 353.03 | 56,726.98 | 5,546.95 | 10.84% |
+| BABA | 109.70 | 23,503.01 | -124.75 | -0.53% |
+| MELI | 1,696.27 | 60,570.41 | 1,445.21 | 2.44% |
+| META | 726.11 | 64,819.84 | 9,959.84 | 18.16% |
+| MSFT | 504.69 | 117,139.56 | 28,062.13 | 31.50% |
+| MU | 1,065.77 | 38,056.52 | 7,209.44 | 23.37% |
+| SPOT | 500.25 | 17,862.93 | 976.49 | 5.78% |
+| WMT | 107.85 | 21,181.09 | 223.89 | 1.07% |
+
+**Totales:** Costo 372,899.21 · Valor actual 440,317.49 · **Plus/Minus +67,418.28 MXN (+18.08%)**. Verde 8 / Rojo 1. Notas vs 21-sep: la cartera saltó de +12.60% a +18.08% (+5.5 pp), pero **~4.1 pp vienen del PESO** (TC 17.85 vs 17.23, depreciación ~3.6%; TC verificado con Yahoo — serie 17.54→17.74→17.86 — y er-api 17.74 al cierre del domingo). Con el TC de la semana pasada la cartera estaría en ~+13.9%. En USD: MU fuerte ($1,066, +23.37%), META subió en la semana ($726, +18.16%) aunque hoy abre −3.4%; ANET nuevo máximo de ganancia (+53.61%, $206); MSFT +31.50% (motor en pesos, +28k MXN). **BABA casi en equilibrio** (−0.53%), **WMT regresó a verde** (+1.07%). MELI la única que se enfrió (+2.44%, $1,696, abre −3.2%). MU reporta mié 30-sep. Timer durable de Patti NO ejecutó → corrido a mano.
+
 ### 2026-09-21 (lunes, apertura — corrida a mano, precios en vivo ~6:48 AM PT / mercado abierto) — TC 17.2300
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|
