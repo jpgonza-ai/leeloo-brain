@@ -58,3 +58,6 @@
 - Estructura base creada: `empresas/`, `vacantes/`, `contactos/`, `entrevistas/`, `materiales/`.
 - Estado: BORRADOR para revisión de Pablo. Aún no se ha construido el sub-agente Merlín como tal ni se ha sembrado contenido real.
 - Decidido: Obsidian será la ventana de Pablo sobre este cerebro (grafo `[[enlaces]]`).
+- 2026-09-28: SOUL actualizado por Pablo (vía Leeloo): Merlín = asistente y segunda opinión de Leeloo, cualquier tema; 9 capacidades; reglas de debate y jerarquía (Pablo > Leeloo > Merlín). Bot de Telegram @MerlinJP_bot activo.
+- 2026-09-28: voz oficial = El Abuelo Charlie (ElevenLabs). say.py + STT Scribe configurados; ffmpeg estático en ~/.local/bin.
+- 2026-09-30: bot de Telegram DESMONTADO (tras revisar contrato HotlumPowell con Mario). Merlín vive solo en el Proyecto de claude.ai con instrucciones v3 (PROYECTO_claude_ai_instrucciones.txt). Carpeta ~/merlin en Helsinki borrada con OK de Pablo; esta es la copia maestra.

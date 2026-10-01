@@ -41,3 +41,5 @@ Concepto: **"Chief of Staff" de proyecto inmobiliario** — un agente que coordi
 | 7 | Consolidación de facturas | Juntar facturas (CFDI/XML y PDF) por proyecto, proveedor y concepto; conciliar vs presupuesto; reporte mensual (también sirve para los socios del esquema fraccional) | Control de costos y transparencia con socios |
 Propuesta de fases: MVP (1, 2, 3, 4, 7) → Fase 2 prospección (5) → Fase 3 proveedores y reportes a socios. Reglas: nada sale sin OK de Virgilio; humano revisa.
 Nota: pitch interno para Mario y Patti ("preview"); confirmar con Pablo el canal (no poner datos de Virgilio en el grupo sin su OK).
+
+- 2026-09-30: correo resumen enviado a Mario y Patti (CC Pablo). Esperando su día/horario para la llamada con Virgilio la próxima semana (Meet, hora CDMX).
