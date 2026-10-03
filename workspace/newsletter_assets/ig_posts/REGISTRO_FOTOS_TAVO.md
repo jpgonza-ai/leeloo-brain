@@ -34,8 +34,12 @@ Objetivo: no repetir imágenes de referencia. **Antes de elegir fotos cada viern
 | 2026-09-25 | 2 | El espejo de la Menara (pabellón reflejado en el estanque) | morocco_real/menara_pabellon.jpg (Pexels 8571073) | f05e4a18 |
 | 2026-09-25 | 3 | El agua como arte (fuente bajo arco de zellige) | morocco_real/fuente_zellige.jpg (Pexels 34157928) | 914936da |
 
+| 2026-10-02 | 1 | Tánger, la ciudad entre dos mares (tejados de la medina con torre del reloj) | morocco_real/tanger_tejados_reloj.jpg (Pexels 39536307) | 48e5ba3f |
+| 2026-10-02 | 2 | Asilah, el pueblo blanco frente al Atlántico (casas blancas/azules sobre murallas) | morocco_real/asilah_murallas_blanco.jpg (Pexels 25254990) | 1d577a68 |
+| 2026-10-02 | 3 | Donde el Mediterráneo abraza al Atlántico (faro de Cap Spartel) | morocco_real/cap_spartel_faro.jpg (Pexels 32057457) | 26bd4a39 |
+
 ## Huellas ya QUEMADAS (no volver a usar)
-4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4, 3dd18fe3, a1101083, 35dd6079, 0d9aec6c, 3aacfc06, 5d6ab2a4, 347bd133, 39f4518a, 92ca57c8, 2beca109, f05e4a18, 914936da
+4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4, 3dd18fe3, a1101083, 35dd6079, 0d9aec6c, 3aacfc06, 5d6ab2a4, 347bd133, 39f4518a, 92ca57c8, 2beca109, f05e4a18, 914936da, 48e5ba3f, 1d577a68, 26bd4a39
 
 ## Banco real disponible SIN usar todavía
 - `morocco_real/merzouga.jpg` (13f84dff) — dunas de Erg Chebbi. **(ÚLTIMA sin usar)**
@@ -53,3 +57,8 @@ El banco real distinto es de ~11 fotos y ya usamos 10. Para seguir a 3 posts/sem
 - morocco_real/fuente_rabat.jpg = Pexels 30411811 (31b11cda): fuente de mármol en patio, Rabat.
 - morocco_real/fuente_octagonal.jpg = Pexels 13811715 (1a76ee49): fuente octagonal de zellige entre plantas (vista cenital).
 - Técnica de sourcing que funcionó: listar IDs con Playwright en Helsinki (pexels.com/search/<tema>/) y bajar images.pexels.com/photos/<ID>/pexels-photo-<ID>.jpeg?w=1400 desde nbg1 (la búsqueda directa por curl da bloqueo).
+
+## Candidatas descargadas NO usadas (2026-10-02, Pexels) — disponibles
+- morocco_real/tanger_tejados_color.jpg = Pexels 38874734 (eff1a614): tejados de colores, medina de Tánger.
+- morocco_real/asilah_murales.jpg = Pexels 30699171 (f4608d93): calle de Asilah con murales.
+- morocco_real/cap_spartel_faro2.jpg = Pexels 33825956 (1772cab7): faro de Cap Spartel (otra toma).
