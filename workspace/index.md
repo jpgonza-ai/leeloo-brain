@@ -10,6 +10,8 @@
 - `log.md` — bitácora de infra y pases nocturnos (DREAMING).
 - `pendientes_regreso.md` — lista viva de pendientes que Pablo dicta durante su viaje (sep-2026) para retomar al volver (sáb 2026-09-26): #1 bot de Merlín, #2 VW Credit.
 - `agentes_clientes/` — lluvias de ideas de agentes para clientes de Pablo. `tebos_OMA.md` = Ojesto Martínez y Asociados (agentes internos/para clientes, vías de datos de redes, borrador WhatsApp).
+  - `agentes_clientes/Minuta_Tebos_2026-10-05.docx` — minuta de la llamada Pablo↔Tebos (05-oct); resumen en tebos_OMA.md.
+  - `cv_ghyc/GHYC_Pablo_Resume_Draft1_2026-10-05.docx` — copia del CV draft (05-oct) revisado.
   - `agentes_clientes/virgilio.md` — Virgilio (inversionista inmobiliario Querétaro): prep, datos de mercado, orden de llamada, demo, pain points → pitch enviado a Mario/Patti 30-sep. CONFIDENCIAL.
   - `agentes_clientes/brito_neems.md` — Caso Brito (NUEVO 30-sep): negocio textil/jeans; Brito maquila en CDMX para NEEMS Jeans (a la medida, @neemsjeans); tecnología, adquisición de Choozr, fuentes verificadas.
 - `stt.py` — transcripción de notas de voz (ElevenLabs Scribe, timeout 45 s + 3 reintentos).

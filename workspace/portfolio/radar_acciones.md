@@ -29,6 +29,21 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-10-05 (lunes, apertura — corrida a mano TARDE ~7:05 AM PT tras recordatorio de Pablo; precios en vivo Yahoo 14:05 UTC) — TC 18.1101
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET | 206.50 | 41,137.09 | 14,799.02 | 56.19% |
+| AVGO | 357.70 | 58,301.84 | 7,121.81 | 13.92% |
+| BABA | 108.53 | 23,586.96 | -40.80 | -0.17% |
+| MELI | 1,822.98 | 66,028.70 | 6,903.50 | 11.68% |
+| META | 739.67 | 66,977.49 | 12,117.49 | 22.09% |
+| MSFT | 526.35 | 123,919.26 | 34,841.83 | 39.11% |
+| MU | 1,061.88 | 38,461.51 | 7,614.43 | 24.68% |
+| SPOT | 474.10 | 17,171.82 | 285.38 | 1.69% |
+| WMT | 103.50 | 20,618.35 | -338.85 | -1.62% |
+
+**Totales:** Costo 372,899.21 · Valor actual 456,203.02 · **Plus/Minus +83,303.81 MXN (+22.34%)**. Verde 7 / ~0 1 (BABA) / Rojo 1 (WMT). Notas vs 28-sep: +18.08% → +22.34% (+4.3 pp); ~1.7 pp por el PESO (TC 18.11 vs 17.85; er-api cierre dom 18.19) — con TC anterior estaría en +20.61%. MELI +7.5% intradía (1,697 → 1,823). MSFT nuevo motor (+39.11%, +34.8k MXN). WMT pasó a rojo (−1.62%). Entrega: solo audio. ⚠️ Pablo tuvo que recordármelo (llegó 35 min tarde).
+
 ### 2026-09-28 (lunes, apertura — corrida a mano, precios en vivo ~6:35 AM PT / mercado abierto; Yahoo) — TC 17.8540
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|

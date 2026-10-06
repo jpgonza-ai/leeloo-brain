@@ -77,3 +77,11 @@ Cómo presentarlo: demo de 20 min con posts públicos reales de políticos de NL
 
 ## Borrador WhatsApp a Tebos (2026-09-28) — ✅ ENVIADO por Pablo 2026-09-28 ~3:40 PM PT
 Enviado a Pablo para copiar: oportunidades internas (vigilancia + anexo de pruebas, borradores con jurisprudencia verificada, control de plazos 4 días, resumen diario de resoluciones) y para clientes (verificador de propaganda, fiscalización + blindaje del cargo); invitación a demo de 20 min.
+
+## Llamada Pablo ↔ Tebos (2026-10-05, 12:00 PT) — minuta en Minuta_Tebos_2026-10-05.docx
+(Ojo: la minuta auto-generada confunde roles; los dolores los describió TEBOS, la propuesta fue de Pablo.)
+Dolores de OMA: (1) monitoreo manual de redes de oponentes (FB/IG/X) por conductas contrarias a la norma; (2) preparar el "cascarón" de quejas: transcribir videos, describir hechos, fechas/horas exactas; (3) seguimiento de precedentes TEPJF/INE (actos anticipados, fiscalización); (4) expedientes desorganizados en carpetas iCloud + bitácoras.
+Propuesta de Pablo: "pasante virtual" con monitoreos programados 9/15/21 h (INE, TEPJF, DOF), control de plazos (4 días naturales), canal del equipo con recordatorios.
+Modelo económico: trasladar costo al cliente final como parte del catálogo (camino B).
+Próximo paso: sesión técnica/comercial antes de propuesta formal a sus clientes. Dudas: confidencialidad absoluta; presupuesto; niveles de permisos del agente.
+⚠️ Contrato: construir/cotizar = orden de cambio de Mario (HotlumPowell). Sugerí involucrar a Mario/Patti en la siguiente sesión y ofrecí resumen tipo Virgilio.

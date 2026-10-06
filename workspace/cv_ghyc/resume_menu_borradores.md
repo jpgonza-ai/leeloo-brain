@@ -80,3 +80,13 @@ Datos confirmados: meta trimestral MXN 10M; deal MXN 15M = 150%. CONFIRMADO por 
 Amex aclaración (2026-09-30): acuerdo = Plan N (meses sin intereses) para Prime Day + tasa de descuento preferencial condicionada a volumen (1%→0.75% solo ejemplo, NO usar). Versión enriquecida opcional: "...to launch an interest-free installment plan for Amex cardholders ahead of Prime Day. The deal included a preferential merchant discount rate tied to sales-volume thresholds..."
 CORRECCIÓN 2026-09-30: los colores del Resume Analysis = leyenda de Charisse por tipo de verbo (🟦 Built / 🟨 Lead / 🟧 Managed / 🟪 Collaborated / 🟩 Improved), no marcas de repetición. Charisse tachó años de estudios/certificaciones → confirmar con ella (viernes) si van con o sin año; hoy Merlín dice 'con año'.
 DECISIÓN 2026-09-30: estudios y certificaciones SIN años (Charisse; Pablo de acuerdo). Anula la regla legacy de Merlín "con año".
+
+## Revisión del CV Draft1 (2026-10-05) — decisiones de Pablo
+- AMEX Highlight empieza con "Closed"; bullet final: "Restored Amazon's YoY volume growth from 70% back above 100% through a six-month negotiation for an interest-free installment plan, aligning Marketing, Credit, Pricing, and Legal teams." (6 meses = negociación, NO plazo del plan).
+- CSI: corregido a 6 equipos.
+- GE Capital: se queda en Early Career sin bullets (lo cuenta en entrevista).
+- "Languages: Native English & Spanish": Pablo lo deja así (asume el riesgo).
+- Título "Account Executive" (en rojo): se ajusta por cada vacante.
+- DLL "Managed 2 direct reports": CONFIRMADO (Sales Support/Operaciones: contratos, cobranza, documentación, atención a cuentas).
+- DLL Zeiss/Elekta: propuesto fusionar al 1er bullet (límite 700 palabras; draft en 697).
+- Cifra DLL: €47B ≈ 2024; 2025 = €45.7B, 30+ países (resumen de búsqueda del comunicado AR 2025; no abierto directo).

@@ -21,3 +21,5 @@ Pablo lleva un portafolio de acciones (compras en pesos MXN) y me pidió (2026-0
 - Costo Unitario (MXN), Títulos y Costo Total son FIJOS salvo que Pablo reporte nuevas compras (entonces actualizar los datos fijos).
 - El día que lo armamos (2026-08-05, miércoles) Pablo ya había hecho la corrida con TC $17.2354 (baseline).
 - El cron de los lunes es session-only (misma limitación que los briefs): re-armar cada sesión; fix durable = caja dedicada.
+
+**⚠️ 2026-10-05:** el disparador externo llegó a las 3:19 PM PT (tarde) y Pablo ya me lo había recordado a las 7:05 AM. Regla: el lunes a las 6:30 AM PT lo corro PROACTIVO sin esperar disparador; si después llega el disparador y ya está entregado ese día, NO se duplica.
