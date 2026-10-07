@@ -46,7 +46,7 @@ FINAL (2026-09-29 17:30): Pablo puso 'Partnership Architect'.
 2. Opened the relationship with Dätwyler, a global leader in printing solutions, sourced through a client I developed myself.
 3. Owned 20 top-tier merchant accounts, including Amazon, Apple and Best Buy, within the team covering the 20% of accounts that generated 80% of network volume.
 4. Ran quarterly business reviews in Tableau and negotiated special rates with internal Pricing by building the volume case behind each request.
-5. Built a national partner network of 30 distributors from zero (GE Capital).
+5. Built a national partner network of 20+ distributors from zero (GE Capital). [CORREGIDO por Pablo 2026-10-06: GE = 20+; CSI = 30+]
 6. Trained partner sales teams, managed two direct reports, and contributed the commercial research behind "DLL on Demand," the client-facing digital platform.
 7. Built a client book from zero to $3M in the first year and ranked among the top 50 financial advisors nationally for portfolio growth (Actinver) — duplica fun fact.
 Pendiente: bullet de Applied AI (Charisse lo pidió) → Pablo define proyecto; cuidar tema contrato con Mario.
@@ -90,3 +90,5 @@ DECISIÓN 2026-09-30: estudios y certificaciones SIN años (Charisse; Pablo de a
 - DLL "Managed 2 direct reports": CONFIRMADO (Sales Support/Operaciones: contratos, cobranza, documentación, atención a cuentas).
 - DLL Zeiss/Elekta: propuesto fusionar al 1er bullet (límite 700 palabras; draft en 697).
 - Cifra DLL: €47B ≈ 2024; 2025 = €45.7B, 30+ países (resumen de búsqueda del comunicado AR 2025; no abierto directo).
+
+- DATO VERIFICADO (Pablo, 2026-10-06): distribuidores → CSI Leasing = 30+ (Cisco/Lenovo/NTT Data); GE Capital = 20+ (red nacional desde cero); DLL/Philips = 20+ distribuidores. Pablo corrigió cada documento.
