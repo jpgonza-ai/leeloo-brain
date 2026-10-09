@@ -92,3 +92,4 @@ DECISIÓN 2026-09-30: estudios y certificaciones SIN años (Charisse; Pablo de a
 - Cifra DLL: €47B ≈ 2024; 2025 = €45.7B, 30+ países (resumen de búsqueda del comunicado AR 2025; no abierto directo).
 
 - DATO VERIFICADO (Pablo, 2026-10-06): distribuidores → CSI Leasing = 30+ (Cisco/Lenovo/NTT Data); GE Capital = 20+ (red nacional desde cero); DLL/Philips = 20+ distribuidores. Pablo corrigió cada documento.
+- DATO VERIFICADO (Pablo, 2026-10-08): renovaciones CSI = 77% de 25 contratos por vencer.
