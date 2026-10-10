@@ -38,8 +38,12 @@ Objetivo: no repetir imágenes de referencia. **Antes de elegir fotos cada viern
 | 2026-10-02 | 2 | Asilah, el pueblo blanco frente al Atlántico (casas blancas/azules sobre murallas) | morocco_real/asilah_murallas_blanco.jpg (Pexels 25254990) | 1d577a68 |
 | 2026-10-02 | 3 | Donde el Mediterráneo abraza al Atlántico (faro de Cap Spartel) | morocco_real/cap_spartel_faro.jpg (Pexels 32057457) | 26bd4a39 |
 
+| 2026-10-09 | 1 | Las murallas que miran al Atlántico (torre de la Skala, Essaouira) | morocco_real/essaouira_skala_torre.jpg (Pexels 30326411) | 10060a27 |
+| 2026-10-09 | 2 | El azul que sale al mar cada mañana (barcas azules + fortaleza) | morocco_real/essaouira_puerto_barcas.jpg (Pexels 12494695) | ef5494f8 |
+| 2026-10-09 | 3 | Una medina hecha de luz y calma (callejón encalado) | morocco_real/essaouira_callejon.jpg (Pexels 37852956) | 30553e2e |
+
 ## Huellas ya QUEMADAS (no volver a usar)
-4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4, 3dd18fe3, a1101083, 35dd6079, 0d9aec6c, 3aacfc06, 5d6ab2a4, 347bd133, 39f4518a, 92ca57c8, 2beca109, f05e4a18, 914936da, 48e5ba3f, 1d577a68, 26bd4a39
+4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4, 3dd18fe3, a1101083, 35dd6079, 0d9aec6c, 3aacfc06, 5d6ab2a4, 347bd133, 39f4518a, 92ca57c8, 2beca109, f05e4a18, 914936da, 48e5ba3f, 1d577a68, 26bd4a39, 10060a27, ef5494f8, 30553e2e
 
 ## Banco real disponible SIN usar todavía
 - `morocco_real/merzouga.jpg` (13f84dff) — dunas de Erg Chebbi. **(ÚLTIMA sin usar)**
@@ -62,3 +66,8 @@ El banco real distinto es de ~11 fotos y ya usamos 10. Para seguir a 3 posts/sem
 - morocco_real/tanger_tejados_color.jpg = Pexels 38874734 (eff1a614): tejados de colores, medina de Tánger.
 - morocco_real/asilah_murales.jpg = Pexels 30699171 (f4608d93): calle de Asilah con murales.
 - morocco_real/cap_spartel_faro2.jpg = Pexels 33825956 (1772cab7): faro de Cap Spartel (otra toma).
+
+## Candidatas descargadas NO usadas (2026-10-09, Pexels)
+- morocco_real/essaouira_bastion.jpg = Pexels 36590970 (f44096dc)
+- morocco_real/essaouira_puerto2.jpg = Pexels 31930613 (1daf11cb)
+- morocco_real/essaouira_casa_azul.jpg = Pexels 30588290 (1335e9ab)
