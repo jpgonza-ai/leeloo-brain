@@ -29,6 +29,21 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-10-12 (lunes festivo, bolsa abierta — corrida PROACTIVA a la apertura 6:31 AM PT; precios en vivo Yahoo 13:31 UTC) — TC 18.2954
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET | 215.10 | 43,288.75 | 16,950.68 | 64.36% |
+| AVGO | 359.23 | 59,150.31 | 7,970.28 | 15.57% |
+| BABA | 110.00 | 24,149.93 | 522.17 | 2.21% |
+| MELI | 1,914.65 | 70,058.76 | 10,933.56 | 18.49% |
+| META | 737.45 | 67,459.71 | 12,599.71 | 22.97% |
+| MSFT | 539.11 | 128,220.84 | 39,143.41 | 43.94% |
+| MU | 989.17 | 36,194.52 | 5,347.44 | 17.34% |
+| SPOT | 533.45 | 19,519.18 | 2,632.74 | 15.59% |
+| WMT | 111.59 | 22,457.42 | 1,500.22 | 7.16% |
+
+**Totales:** Costo 372,899.21 · Valor actual 470,499.42 · **Plus/Minus +97,600.21 MXN (+26.17%)**. TC 18.2954 (er-api 18.41). Notas vs 05-oct (+22.34%): peso más débil (18.30 vs 18.11). MU abre −3.9% en el día (989 vs 1,029). Entrega: solo audio.
+
 ### 2026-10-05 (lunes, apertura — corrida a mano TARDE ~7:05 AM PT tras recordatorio de Pablo; precios en vivo Yahoo 14:05 UTC) — TC 18.1101
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|
