@@ -17,7 +17,7 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 ## Datos FIJOS (costo de compra)
 | Emisora | Costo Unitario (MXN) | Títulos | Costo Total (MXN) |
 |---|---|---|---|
-| ANET | 2,394.37 | 11 | 26,338.07 |
+| ANET | 2,394.37 | 7 | 16,760.59 |
 | AVGO | 5,686.67 | 9 | 51,180.03 |
 | BABA | 1,968.98 | 12 | 23,627.76 |
 | MELI | 29,562.60 | 2 | 59,125.20 |
@@ -26,6 +26,15 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 | MU | 15,423.54 | 2 | 30,847.08 |
 | SPOT | 8,443.22 | 2 | 16,886.44 |
 | WMT | 1,905.20 | 11 | 20,957.20 |
+
+**Costo total vigente: 363,321.73 MXN** (antes 372,899.21 con 11 ANET).
+
+## Ventas / utilidad realizada
+| Fecha | Emisora | Títulos vendidos | Monto venta (MXN) | Costo de lo vendido (MXN) | Utilidad realizada (MXN) |
+|---|---|---|---|---|---|
+| jue ~2026-10-08 (según Pablo) | ANET | 4 | 14,864.00 | 9,577.48 | **+5,286.52 (+55.2%)** |
+
+Notas: confirmado por Pablo el 2026-10-12 (msg 3684: "4 acciones"; $14,864 = monto de la venta). Equivale a ~3,716 MXN/acción ≈ $204 USD con TC 18.19, por debajo del rango del 8-oct ($209.5–$217.3) pero dentro del rango del jue 1-oct ($200.8–$206.4, TC 18.31) → posible que haya sido el 1-oct o que el monto sea neto de comisiones/impuestos (no cambia el cálculo). En el radar, sumar esta utilidad realizada aparte de la plusvalía no realizada.
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
@@ -42,7 +51,8 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 | SPOT | 533.45 | 19,519.18 | 2,632.74 | 15.59% |
 | WMT | 111.59 | 22,457.42 | 1,500.22 | 7.16% |
 
-**Totales:** Costo 372,899.21 · Valor actual 470,499.42 · **Plus/Minus +97,600.21 MXN (+26.17%)**. TC 18.2954 (er-api 18.41). Notas vs 05-oct (+22.34%): peso más débil (18.30 vs 18.11). MU abre −3.9% en el día (989 vs 1,029). Entrega: solo audio.
+**Totales (como se entregó):** Costo 372,899.21 · Valor actual 470,499.42 · **Plus/Minus +97,600.21 MXN (+26.17%)**.
+**🔧 CORRECCIÓN (2026-10-12, Pablo vendió 4 ANET antes de esta corrida):** ANET con 7 títulos = Total 27,547.38 · P/M +10,786.79 (+64.36%). Cartera: Costo 363,321.73 · Valor 454,758.05 · **No realizada +91,436.32 (+25.17%)** + utilidad realizada ANET +5,286.52 → **total +96,722.84 MXN (+25.94% sobre el costo original de 372,899.21)**. TC 18.2954 (er-api 18.41). Notas vs 05-oct (+22.34%): peso más débil (18.30 vs 18.11). MU abre −3.9% en el día (989 vs 1,029). Entrega: solo audio.
 
 ### 2026-10-05 (lunes, apertura — corrida a mano TARDE ~7:05 AM PT tras recordatorio de Pablo; precios en vivo Yahoo 14:05 UTC) — TC 18.1101
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |

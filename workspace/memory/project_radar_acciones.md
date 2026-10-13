@@ -6,7 +6,7 @@ type: project
 
 Pablo lleva un portafolio de acciones (compras en pesos MXN) y me pidió (2026-08-05) mantener un **radar de seguimiento** en mi cerebro.
 
-**Datos y tabla completa:** `workspace/portfolio/radar_acciones.md` (9 emisoras al inicio: ANET, AVGO, BABA, MELI, META, MSFT, MU, SPOT, WMT).
+**Datos y tabla completa:** `workspace/portfolio/radar_acciones.md` (9 emisoras al inicio: ANET, AVGO, BABA, MELI, META, MSFT, MU, SPOT, WMT). **Cambio 2026-10-12:** Pablo vendió 4 ANET (11 → 7 acciones; utilidad realizada +5,286.52 MXN) → desde entonces reportar por separado la ganancia no realizada y la ya cobrada (sección 'Ventas / utilidad realizada'). Ante cualquier compra o venta, pedir número de acciones + precio, no solo el monto.
 
 **Why:** quiere vigilar la plusvalía/minusvalía de sus posiciones sin llevarlo a mano cada semana.
 
