@@ -109,3 +109,45 @@ Proyecto '🩺 Agente Consultorio · Dr. Osvaldo González' (gid 121947620498515
 - Respondí que NO: el contrato (13A(c)) prohíbe usarme para desarrollar o ayudar a desarrollar un agente similar, sin importar los servidores; el Anexo A limita mi uso a temas personales de Pablo (no al negocio de un tercero, aunque sea su papá); riesgo de revocación inmediata. No soy abogada.
 - Alternativas ofrecidas: (1) orden de cambio con Mario (mañana, 'Solución IA'); (2) COMPRAR software existente para consultorios en México (agenda + WhatsApp + expediente) → me ofrecí a investigar y comparar contra nuestro mapa; (3) seguir con el diseño; (4) si Pablo aprende por su cuenta, fuera de mí y confirmándolo antes con Mario (la cláusula podría tocarlo a él también).
 - Ofrecí: comparativo de software + resumen de 1 página para Mario.
+
+### Nota 12 (14-oct, Asana 'Confirmar datos pendientes' 1219476204830015, notas de Pablo)
+- Excel: nombre + FECHA DE NACIMIENTO + fecha de PRIMERA consulta + diagnóstico (antes dijo 'última'). Word: la misma información + notas de cada consulta con fecha → separable por paciente; ID = nombre + fecha de nacimiento. La fecha de la ÚLTIMA consulta sale de la nota más reciente del Word (hay que extraerla).
+- CDMX ✔. Martes por Zoom: mismo horario. Precio: mantener el supuesto de $1,000. Subsecuentes de 30-40 min: NO (se quedan en 60).
+- Contesta mensajes en noches y fines de semana: SÍ, él Y la secretaria → EL dolor principal.
+- Tope ideal: 7/día los 3 días presenciales + 4 los martes por Zoom = 25/semana; con ~20 hoy = 80% → ~5 huecos/semana ≈ $21.7k MXN/mes. El valor principal = TIEMPO/calidad de vida, no ingresos (corrige el ~62% y los $52k de antes).
+- Le mandé preparación para la llamada con su papá (14-oct ~17:00 PT): abrir con lo de noches y fines de semana; preguntas sobre el volumen y tipo de mensajes, qué le molesta más, resumen de noche o de mañana.
+
+### Nota 13 (14-oct, msg 3773): ¿cuánto cuesta WhatsApp Business?
+- App: gratis. API: cobro por mensaje desde el 1-jul-2025 (modelo por mensaje). Según Meta (página oficial): los mensajes de servicio, sin plantilla, son gratis; las plantillas de utilidad son gratis dentro de la ventana de servicio de 24 h; las de marketing siempre se cobran. Según blogs (engagelab, aurorainbox, goeva), en MX: marketing US$0.0397, utilidad US$0.0085; supuestos cambios del 1-oct-2026 (servicio cobrado arriba de 1,000/mes) que NO aparecen en la página de Meta → NO CONFIRMADO.
+- Estimado para el consultorio: ~200 utilidad + ~50 marketing al mes ≈ US$4/mes (<$100 MXN).
+- Costos reales a cotizar con Mario: proveedor/BSP (mensualidad), Claude API + servidor, construcción y mantenimiento.
+
+### Nota 14 (14-oct, msg 3777): usar a Merlín (claude.ai) para entender el "puente"
+- Recomendé un Proyecto NUEVO en claude.ai, separado del de Merlín (las instrucciones de búsqueda de empleo se mezclarían): "Agente Consultorio Dr. González · Técnico", con instrucciones de explicar en lenguaje no técnico, + un resumen del DISEÑO como conocimiento (sin datos de pacientes).
+- Cuidados: nada de expedientes en ese proyecto; confirmar con Mario la cláusula de agentes similares antes de construir por su cuenta.
+- Ofrecí preparar el documento de diseño (sirve también para Mario).
+- 14-oct PM: Pablo lo pensará; no preparar el documento de diseño hasta que lo pida.
+- Ligas oficiales enviadas a Pablo (14-oct): NOM-024-SSA3-2012 (DOF 30-nov-2012, vigente 29-ene-2013) https://dof.gob.mx/nota_detalle.php?codigo=5280847&fecha=30%2F11%2F2012 · PDF DGIS http://www.dgis.salud.gob.mx/descargas/normatividad/normas/DOF-30NOV12-NOM-024-SSA3-2012.pdf · certificación DGIS http://www.dgis.salud.gob.mx/contenidos/intercambio/certificacion-nom-024-ssa3-2012.html · NOM-004 https://sidof.segob.gob.mx/notas/docFuente/5272787
+
+### Nota 15 (14-oct, msg 3791): CORRECCIÓN IMPORTANTE de los expedientes
+- NO es un Word gigante: es UN Word POR PACIENTE; ~6,000 pacientes en total. (Retiré lo del riesgo de un solo archivo.)
+- Idea de Pablo: una carpeta en Google Drive por paciente con el Word + el Excel adentro.
+- Mi respuesta: capacidad OK (6,000 x ~200 KB ≈ 1.2 GB; peor caso ~6 GB; Drive gratis 15 GB; Google One 100 GB/2 TB); cuestioné (1) NO copiar el Excel en cada carpeta: UN índice en la raíz; (2) nombre de carpeta APELLIDO_Nombre_AAAAMMDD (fecha de nacimiento) por los homónimos. Hacerlo con Google Drive para escritorio + un script local que lea el Excel y mueva cada Word. Privacidad: cuenta del consultorio + verificación en dos pasos, sin compartir de más.
+- Propuse renombrar la tarjeta 3 de Asana a "Organizar los 6,000 expedientes en Drive (carpeta por paciente + Excel índice)"; esperando su OK.
+- Nota: antes se había propuesto OneDrive para el respaldo; Pablo prefiere Drive → el respaldo 3-2-1 puede usar Drive en vez de OneDrive (ajustar la guía de respaldo cuando se haga).
+- Pablo confirmó (14-oct, msg 3795): un solo Excel índice en la raíz (no en cada carpeta).
+
+### Nota 16 (14-oct, msg 3799): línea base, respuestas del doctor
+- Mensajes/llamadas y minutos de la secretaria: N/A (no se saben) → proponer 2 semanas de palomitas.
+- ⭐ El doctor dedica a veces HASTA 2 HORAS después de la última consulta (después de las 20:00) → hasta ~8 h/semana = MÉTRICA ESTRELLA.
+- Citas 20-25/semana (tope 25) → agenda casi llena; huecos solo por faltas o ERRORES de agenda de la secretaria → valor = tiempo + evitar errores/faltas (no llenar huecos).
+- No-shows: por confirmar.
+- Pregunta clave abierta: ¿qué hace en esas 2 horas? (notas, mensajes, preparar el día siguiente, recetas/labs/facturas) → si son notas, subir el dictado de la Fase 3 a la 1.
+- Tarjeta de Asana 'Medir la línea base' (1219476342135959) actualizada.
+
+### Nota 17 (14-oct, msg 3801): ¿qué hace el doctor en esas 2 horas?
+- (1) Contesta los WhatsApps pendientes del día; (2) actualiza expedientes a partir de esas respuestas; (3) revisa la agenda del día siguiente (la secretaria se la manda la noche anterior).
+- Solución por punto: (1) el agente resuelve agenda/admin/FAQ 24/7; lo clínico lo contesta el doctor pero le llega en UNA "bandeja clínica" ordenada por urgencia y con resumen + contexto del paciente; migrar a los pacientes de su WA personal al del consultorio. (2) Nota automática para el expediente (borrador → el doctor aprueba → se agrega). (3) Agenda de las 20:00 enriquecida + ficha de 1 minuto → revisión de ~10 min.
+- Propuesta de cambio de prioridades: bandeja clínica → Fase 1; nota automática para el expediente → Fase 2 (antes en la 3); ficha de 1 minuto → Fase 2. Esperando OK para cambiar Asana.
+- Pregunta abierta: ¿qué proporción de los WA nocturnos es administrativa vs. clínica?
+- (14-oct, msg 3803) Pablo cree que la mayoría de los WA nocturnos son CLÍNICOS (padecimientos, medicamentos), no de agenda. Asana: nuevas tarjetas en Fase 1 'Bandeja clínica del doctor' (1219526944882539) y 'Respuestas rápidas del doctor + horario para mensajes clínicos' (1219526885367201); en Fase 2 'Nota automática para el expediente a partir de WhatsApp' (1219526884963140); 'Ficha de 1 minuto' movida de la Fase 3 a la 2. Le dije con honestidad: el ahorro viene de la bandeja + las notas + las respuestas rápidas/horario (decisión del doctor), no de que el agente conteste lo clínico.
