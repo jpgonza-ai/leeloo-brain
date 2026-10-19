@@ -38,6 +38,21 @@ Notas: confirmado por Pablo el 2026-10-12 (msg 3684: "4 acciones"; $14,864 = mon
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-10-19 (lunes, apertura — corrida PROACTIVA 6:31 AM PT; precios en vivo Yahoo 13:31 UTC) — TC 18.4768
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET (7) | 182.08 | 23,549.79 | 6,789.20 | 40.51% |
+| AVGO | 337.10 | 56,056.76 | 4,876.73 | 9.53% |
+| BABA | 109.94 | 24,376.52 | 748.76 | 3.17% |
+| MELI | 1,825.50 | 67,458.80 | 8,333.60 | 14.09% |
+| META | 705.59 | 65,185.23 | 10,325.23 | 18.82% |
+| MSFT | 531.60 | 127,689.47 | 38,612.04 | 43.35% |
+| MU | 916.45 | 33,866.13 | 3,019.05 | 9.79% |
+| SPOT | 525.22 | 19,408.59 | 2,522.15 | 14.94% |
+| WMT | 118.44 | 24,072.31 | 3,115.11 | 14.86% |
+
+**Totales:** Costo vigente 363,321.73 · Valor actual 441,663.59 · **No realizada +78,341.86 MXN (+21.56%)** + utilidad realizada ANET +5,286.52 → **total +83,628.38 MXN (+22.43% sobre el costo original de 372,899.21)**. TC 18.4768 (er-api 18.457). Vs 12-oct (corregido +25.94% total): baja por la caída de chips/IA de la semana (ANET 215→182, −15%; MU 989→916; AVGO 359→337); WMT sube (111.6→118.4). Esta semana: META mié 21, SPOT jue 22, AXP vie 23. Entrega: solo audio.
+
 ### 2026-10-12 (lunes festivo, bolsa abierta — corrida PROACTIVA a la apertura 6:31 AM PT; precios en vivo Yahoo 13:31 UTC) — TC 18.2954
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|
