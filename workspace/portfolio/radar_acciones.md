@@ -15,6 +15,8 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 - **Plus/Minus %** = Plus/Minus ÷ Costo Total.
 
 ## Datos FIJOS (costo de compra)
+> ⚠️ **META (ene-2027):** Meta aprobó (21-oct-2026) un dividendo de 1 acción Clase C (sin voto) por cada acción en circulación, efectivo en enero de 2027 (efecto split 2x1). Cuando ocurra: 5 META → 5 Clase A + 5 Clase C; el costo total no cambia (dividir el costo unitario entre las 10 acciones o llevar las dos clases por separado).
+
 | Emisora | Costo Unitario (MXN) | Títulos | Costo Total (MXN) |
 |---|---|---|---|
 | ANET | 2,394.37 | 7 | 16,760.59 |
