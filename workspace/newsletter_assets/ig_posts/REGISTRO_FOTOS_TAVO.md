@@ -44,12 +44,15 @@ Objetivo: no repetir imágenes de referencia. **Antes de elegir fotos cada viern
 | 2026-10-16 | 1 | Bab Bou Jeloud, Fez (Pexels 30279399) | morocco_real/fez_bab_bou_jeloud.jpg | a7018eec |
 | 2026-10-16 | 2 | Patio de la madrasa Al-Attarine, Fez (Pexels 19190380) | morocco_real/fez_attarine_patio.jpg | adf37774 |
 | 2026-10-16 | 3 | Fuente de zellige, medina de Fez (Pexels 38111638) | morocco_real/fez_fuente_mosaico.jpg | 460269ce |
+| 2026-10-23 | 1 | Dunas de Erg Chebbi (banco real) | morocco_real/merzouga.jpg | 13f84dff |
+| 2026-10-23 | 2 | Garganta del Todra (Pexels 33530297) | morocco_real/todra_garganta.jpg | dda3391a |
+| 2026-10-23 | 3 | Noche estrellada con camello, Sahara (Pexels 8570089) | morocco_real/sahara_estrellas_camello.jpg | cdba0ff9 |
 
 ## Huellas ya QUEMADAS (no volver a usar)
-4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4, 3dd18fe3, a1101083, 35dd6079, 0d9aec6c, 3aacfc06, 5d6ab2a4, 347bd133, 39f4518a, 92ca57c8, 2beca109, f05e4a18, 914936da, 48e5ba3f, 1d577a68, 26bd4a39, 10060a27, ef5494f8, 30553e2e, a7018eec, adf37774, 460269ce
+4b93ec08, cfd7e251, 03977fe6, 7365bf6c, f2d6dfbb, cb5fb839, 42b571ea, 3cab9ce8, 82618b25, 7c70f0f4, 2f67fd76, 820a8444, ab25d2c4, 3dd18fe3, a1101083, 35dd6079, 0d9aec6c, 3aacfc06, 5d6ab2a4, 347bd133, 39f4518a, 92ca57c8, 2beca109, f05e4a18, 914936da, 48e5ba3f, 1d577a68, 26bd4a39, 10060a27, ef5494f8, 30553e2e, a7018eec, adf37774, 460269ce, 13f84dff, dda3391a, cdba0ff9
 
 ## Banco real disponible SIN usar todavía
-- `morocco_real/merzouga.jpg` (13f84dff) — dunas de Erg Chebbi. **(ÚLTIMA sin usar)**
+- (merzouga.jpg ya usada el 2026-10-23; banco real AGOTADO, seguir con Pexels)
 
 ## Pendiente de conseguir
 - Un **hammam marroquí real** de lujo para el tema de bienestar (semana 2026-08-28). El stock genérico de "spa moderno" no sirve (no se ve marroquí).
@@ -78,3 +81,6 @@ El banco real distinto es de ~11 fotos y ya usamos 10. Para seguir a 3 posts/sem
 
 ## Candidatas descargadas NO usadas (2026-10-16, Pexels)
 - morocco_real/fez_artesano.jpg = Pexels 38111880 (ff4096e7): artesano del metal en su taller, medina de Fez.
+
+## Candidatas descargadas NO usadas (2026-10-23, Pexels)
+- morocco_real/merzouga_caravana_atardecer.jpg = Pexels 35752246 (911808f1): camello en las dunas de Merzouga al atardecer.
