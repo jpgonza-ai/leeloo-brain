@@ -40,6 +40,21 @@ Notas: confirmado por Pablo el 2026-10-12 (msg 3684: "4 acciones"; $14,864 = mon
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-10-26 (lunes, apertura — corrida PROACTIVA vía cron 6:31 AM PT; precios en vivo Yahoo 13:31 UTC) — TC 18.6007
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET (7) | 174.20 | 22,681.69 | 5,921.10 | 35.33% |
+| AVGO | 325.29 | 54,455.60 | 3,275.57 | 6.40% |
+| BABA | 99.83 | 22,284.01 | -1,343.75 | -5.69% |
+| MELI | 1,611.00 | 59,931.46 | 806.26 | 1.36% |
+| META | 636.33 | 59,181.01 | 4,321.01 | 7.88% |
+| MSFT | 527.10 | 127,457.58 | 38,380.15 | 43.09% |
+| MU | 891.25 | 33,155.56 | 2,308.48 | 7.48% |
+| SPOT | 577.37 | 21,478.79 | 4,592.35 | 27.20% |
+| WMT | 119.59 | 24,469.03 | 3,511.83 | 16.76% |
+
+**Totales:** Costo vigente 363,321.73 · Valor actual 425,094.72 · **No realizada +61,772.99 MXN (+17.00%)** + utilidad realizada ANET +5,286.52 → **total +67,059.51 MXN (+17.98% sobre el costo original de 372,899.21)**. Verde 8 / Rojo 1. TC 18.6007 (Yahoo en vivo; er-api 18.72, dato de las 00:02 UTC). Vs 19-oct (+22.43% total): **MELI −11% a la apertura (1,810 → 1,611)** porque Lula ganó la segunda vuelta en Brasil (≈53% de los ingresos de MELI; el mercado esperaba a Bolsonaro); META cayó tras su reporte (706 → 636); BABA pasó a rojo (−5.69%); SPOT subió tras su reporte (525 → 577, +27%). Esta semana: MSFT reporta el mié 28; Fed el mié. Entrega: solo audio.
+
 ### 2026-10-19 (lunes, apertura — corrida PROACTIVA 6:31 AM PT; precios en vivo Yahoo 13:31 UTC) — TC 18.4768
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|
