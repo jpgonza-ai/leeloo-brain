@@ -23,3 +23,5 @@ Pablo lleva un portafolio de acciones (compras en pesos MXN) y me pidió (2026-0
 - El cron de los lunes es session-only (misma limitación que los briefs): re-armar cada sesión; fix durable = caja dedicada.
 
 **⚠️ 2026-10-05:** el disparador externo llegó a las 3:19 PM PT (tarde) y Pablo ya me lo había recordado a las 7:05 AM. Regla: el lunes a las 6:30 AM PT lo corro PROACTIVO sin esperar disparador; si después llega el disparador y ya está entregado ese día, NO se duplica.
+
+**2026-10-28:** Pablo tiene una cuenta aparte en Robinhood (USD, cuenta de efectivo). Instrucción explícita: sus movimientos en Robinhood NO se agregan al radar; el radar es solo el portafolio en MXN de esta tabla.
