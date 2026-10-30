@@ -84,3 +84,10 @@ El banco real distinto es de ~11 fotos y ya usamos 10. Para seguir a 3 posts/sem
 
 ## Candidatas descargadas NO usadas (2026-10-23, Pexels)
 - morocco_real/merzouga_caravana_atardecer.jpg = Pexels 35752246 (911808f1): camello en las dunas de Merzouga al atardecer.
+
+## Preparadas para el 2026-10-30 y NO enviadas (Pablo pausó el envío; esperar su confirmación)
+- morocco_real/volubilis_arco_caracalla.jpg = Pexels 19629322 (868fba43) → post1_volubilis_arco_20261030.jpg
+- morocco_real/volubilis_mosaico.jpg = Pexels 29595720 (563ac764) → post2_volubilis_mosaico_20261030.jpg
+- morocco_real/meknes_arco_zellige.jpg = Pexels 31004588 (1d23937e) → post3_meknes_20261030.jpg
+- Extras: volubilis_basilica 18767562 (0619794c), volubilis_arco2 37441415 (3789e5e8)
+- Cuerpo: tavo_email_20261030.txt (anuncia Rabat como próximo tema). Si se envía, mover a la tabla y quemar los md5.
