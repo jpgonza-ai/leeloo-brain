@@ -10,7 +10,7 @@ Pablo lleva un portafolio de acciones (compras en pesos MXN) y me pidió (2026-0
 
 **Why:** quiere vigilar la plusvalía/minusvalía de sus posiciones sin llevarlo a mano cada semana.
 
-**How to apply — rutina semanal (LUNES a apertura de mercado, 9:30 AM ET = ~6:30 AM PT = 7:30 server-CST):**
+**How to apply — rutina semanal (LUNES a apertura de mercado, 9:30 AM ET = ~6:30 AM PT = 7:30 server en PDT / 8:30 server en PST (el servidor es UTC-6 fijo)):**
 1. Obtener el **precio de mercado actual por acción (USD)** de cada emisora (web).
 2. Obtener el **tipo de cambio USD→MXN del día** (web).
 3. Recalcular por emisora: Total (MXN) = precio USD × TC × títulos; Plus/Minus (MXN) = Total − Costo Total; Plus/Minus % = Plus/Minus ÷ Costo Total.
