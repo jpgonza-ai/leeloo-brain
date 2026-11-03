@@ -40,6 +40,21 @@ Notas: confirmado por Pablo el 2026-10-12 (msg 3684: "4 acciones"; $14,864 = mon
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-11-02 (lunes, apertura — corrida PROACTIVA vía cron 6:31 AM PT, ya en PST; precios en vivo Yahoo 14:31 UTC) — TC 18.6437
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET (7) | 168.55 | 21,996.77 | 5,236.18 | 31.24% |
+| AVGO | 325.54 | 54,623.43 | 3,443.40 | 6.73% |
+| BABA | 102.28 | 22,882.53 | -745.23 | -3.15% |
+| MELI | 1,633.13 | 60,895.36 | 1,770.16 | 2.99% |
+| META | 611.99 | 57,048.32 | 2,188.32 | 3.99% |
+| MSFT | 523.50 | 126,878.49 | 37,801.06 | 42.44% |
+| MU | 879.44 | 32,792.03 | 1,944.95 | 6.31% |
+| SPOT | 581.78 | 21,693.06 | 4,806.62 | 28.46% |
+| WMT | 124.86 | 25,607.22 | 4,650.02 | 22.19% |
+
+**Totales:** Costo vigente 363,321.73 · Valor actual 424,417.22 · **No realizada +61,095.49 MXN (+16.82%)** + utilidad realizada ANET +5,286.52 → **total +66,382.01 MXN (+17.80% sobre el costo original de 372,899.21)**. Verde 8 / Rojo 1. TC 18.6437 (Yahoo en vivo; er-api 18.81, dato de las 00:02 UTC). Vs 26-oct (+17.98% total): casi plano pese a la semana de venta en tecnología (Alphabet/Amazon/Intel): ANET 174→169, AVGO 325→326, MU 891→879, MSFT 527→523; compensaron WMT (120→125), MELI (1,611→1,633) y SPOT (577→582); META 636→612. BABA abre +4.4% en el día (98→102). Esta semana: elecciones intermedias el mar 3. Entrega: solo audio.
+
 ### 2026-10-26 (lunes, apertura — corrida PROACTIVA vía cron 6:31 AM PT; precios en vivo Yahoo 13:31 UTC) — TC 18.6007
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|

@@ -48,3 +48,5 @@ Specific Question: to be drafted in task (e).
 - Hologic in tracker: HM Brian Knop (Strategic Sales), HM Dan Curry (Commercial Finance), Peer Wendy Parsons (Financing Solutions; likely Hologic Capital team).
 
 ## Progress: 10/11, 32 contacts. Only Philips missing.
+
+## Ash feedback received (2026-10-28, noticed 2026-11-02): open-to-work post approved with her edits (see linkedin_open_to_work_FINAL_ash_2026-10-28.txt); "Great!" on the 10 companies.
