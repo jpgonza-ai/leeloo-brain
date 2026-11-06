@@ -43,3 +43,43 @@ Alcance de Leeloo: negocio, operación, producto y cumplimiento. Secciones técn
 - Bloque 3 (página nueva): 8 FAQ identificadas (de hasta 20) con respuestas inferidas. POR CONFIRMAR: 3.1 cómo se explica el costo para aseguradora; 3.3 datos para factura; 3.8 estudios en la primera vez.
 - Precio de primera vez corregido: 1,500 → 1,000 ("$1,000 para todas").
 - Bloque 4 (Pablo, 3-nov, captura con resaltado): BOT = 4.1-4.4, 4.6, 4.7, 4.8 · SEC = 4.5, 4.9, 4.11 · DOC = 4.10, 4.12-4.15. Resaltado amarillo + X en el PDF v2 (pág. 13). Marqué "[X] SE AJUSTA EN LA TABLA" en la propuesta por defecto (difiere de ella); quitarlo si Pablo no lo quiere.
+
+## BLOQUE 5 (Pablo, 5-nov) — aprobado, PENDIENTE de meter al PDF (Pablo: generar el documento AL FINAL, con todos los bloques)
+- 5.1 USTED con todos · 5.2 tono CÁLIDO (con usted) · 5.3 CAMBIAR por: "Soy el asistente virtual del consultorio del Dr. Osvaldo González, en Clínica CIME."
+- Secretaria: ESPERANZA.
+- 5.4 c) recordatorio a las 48 h (alineado con la cancelación de 48 h) + mantener clara la LISTA DE ESPERA para cubrir cancelaciones; d) con estacionamiento ✅; f) el agente atiende 24/7 → f) replanteada como "pase a Esperanza fuera de su horario".
+- Plantillas propuestas (texto enviado a Pablo, msg del 5-nov; esperando OK final):
+ a) Hola, buen día. Soy el asistente virtual del consultorio del Dr. Osvaldo González, en Clínica CIME. Con gusto le ayudo con horarios, costos o para agendar una cita. ¿En qué le puedo ayudar?
+ b) Listo, su cita quedó agendada para el [día] [fecha] a las [hora] con el Dr. Osvaldo González, en Clínica CIME (Av. Magdalena 430, consultorio 304, Col. del Valle). Hay estacionamiento junto a la clínica, con costo aparte. [Requisitos si aplican]. Si necesita cambiarla, avíseme por aquí con al menos 48 horas de anticipación. (Variante martes Zoom: Su consulta será en línea por Zoom; le compartimos la liga antes de su cita.)
+ c) Hola, [nombre]. Le recuerdo su cita del [día] [fecha] a las [hora] con el Dr. Osvaldo González. ¿Me confirma su asistencia? Si necesita reprogramar, avíseme hoy por aquí, por favor.
+ d) [Nombre], su cita con el Dr. Osvaldo González es hoy a las [hora] en Clínica CIME (Av. Magdalena 430-304, Col. del Valle). Hay estacionamiento junto a la clínica, con costo aparte. ¡Le esperamos!
+ e) Entendido, cancelé su cita del [fecha] a las [hora]. Cuando guste reagendar, escríbame por aquí. Los espacios más próximos son: [opciones].
+ f) Gracias por su mensaje. Este tema lo atiende directamente Esperanza, la secretaria del consultorio. Ya le dejé su mensaje y ella le responderá a partir de las 9:00 a.m. (lunes a viernes). Si se trata de una urgencia médica, acuda a urgencias o llame al 911.
+ g) Con gusto. Le paso su mensaje a Esperanza, la secretaria del consultorio, y le respondemos lo antes posible.
+ h) Ese dato no lo tengo a la mano. Se lo dejo a Esperanza para que le responda directamente. Mientras tanto, ¿le ayudo con algo más, como su cita?
+ i) Esa es una pregunta médica y solo el Dr. González puede responderle con seguridad. Ya se la hago llegar para que la revise. Si lo prefiere, también puedo agendarle una cita.
+ j) NUEVA (lista de espera): Hola, [nombre]. Se liberó un espacio con el Dr. Osvaldo González el [día] [fecha] a las [hora]. ¿Le gustaría tomarlo? Le aparto el lugar por [X] horas.
+
+## BLOQUE 6 (Pablo, 5-nov) — pendiente de meter al PDF
+- 6.1 L/Mi/V presencial 11:00-19:00 (última cita 19:00) · Martes Zoom 11:00-19:00.
+- 6.2 60 min (POR CONFIRMAR si la primera vez dura igual).
+- 6.3 0 min entre citas + el agente deja un resumen del paciente antes de cada cita.
+- 6.4 Bloque protegido: L-V 9:00-11:00.
+- 6.5 Solo con aprobación del doctor (Esperanza canaliza; ver 2.17).
+- 6.6 ✅ 3 opciones de horario (si ninguna sirve, ofrece otras 3; variar días y mañana/tarde).
+- 6.7 Terceros sí: la cita y la validación con los datos del PACIENTE; nunca compartir info; menores de 15 → pediatra.
+- 6.8 ✅ Días inhábiles: JUEVES (descanso del doctor), sábados, domingos y festivos oficiales de la CDMX.
+- 6.2 ✅ 60 min para TODAS (primera vez, subsecuente y Zoom). BLOQUE 6 CERRADO.
+
+## BLOQUE 7 (Pablo, 5-nov) — pendiente de meter al PDF
+- 7.1 Número: 55-5543-1558 (fijo del consultorio, WA Business en coexistencia); lo activa Pablo (tentativamente).
+- 7.2 🔴 POR CONFIRMAR (celular de Esperanza) → marcar en ROJO.
+- 7.3 Celular actual del doctor ✅.
+- 7.4 Hoy: agenda/cuaderno → sugerencia: empezar a usar Google Calendar.
+- 7.5 Cuenta de Google NUEVA del consultorio; la administran Esperanza y el agente (sugerí a Pablo como contacto de recuperación; pendiente su OK).
+- 7.6 QR = vincular el WA Business del fijo con la plataforma del agente (coexistencia; registro por llamada al ser fijo). Propuesta: lo hace Pablo (en persona o guiando a Esperanza por videollamada); pendiente su OK.
+- 7.7 20:00 ✅ · 7.8 el doctor revisa los escalados en su bloque de 9:00-11:00 ✅ · 7.9 doctor + Esperanza (hermana solo respaldo) ✅ · 7.10 programa gratuito del SAT ✅ · 7.11 USB, lo guarda el doctor (papá de Pablo) ✅ · 7.12 sí, con la hermana de Pablo (médico) ✅.
+- Bloque 7 ✅ CERRADO: Pablo hace el QR; Pablo = contacto de recuperación de la cuenta de Google.
+
+## v3 (2026-11-05), enviada a Pablo
+PDF de 16 páginas con los bloques 2-8. La página 13 original se reemplazó por dos páginas nuevas (5.4 plantillas a-j aprobadas, Bloque 6). Pendientes en rojo: 7.2, 4.16, 8.1/8.2, 8.3.
