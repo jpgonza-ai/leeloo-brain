@@ -40,6 +40,21 @@ Notas: confirmado por Pablo el 2026-10-12 (msg 3684: "4 acciones"; $14,864 = mon
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-11-09 (lunes, apertura — corrida PROACTIVA vía cron 6:31 AM PT; precios en vivo Yahoo 14:30 UTC) — TC 18.6150
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET (7) | 177.01 | 23,065.29 | 6,304.70 | 37.62% |
+| AVGO | 307.10 | 51,450.00 | 269.97 | 0.53% |
+| BABA | 106.49 | 23,787.74 | 159.98 | 0.68% |
+| MELI | 1,525.98 | 56,812.24 | -2,312.96 | -3.91% |
+| META | 635.88 | 59,184.53 | 4,324.53 | 7.88% |
+| MSFT | 546.86 | 132,337.39 | 43,259.96 | 48.56% |
+| MU | 702.81 | 26,165.62 | -4,681.46 | -15.18% |
+| SPOT | 598.03 | 22,264.66 | 5,378.22 | 31.85% |
+| WMT | 124.50 | 25,493.24 | 4,536.04 | 21.64% |
+
+**Totales:** Costo vigente 363,321.73 · Valor actual 420,560.69 · **No realizada +57,238.96 MXN (+15.75%)** + utilidad realizada ANET +5,286.52 → **total +62,525.48 MXN (+16.77% sobre el costo original de 372,899.21)**. Verde 7 / Rojo 2 (MELI, MU). TC 18.6150 (Yahoo en vivo; er-api 18.6309, dato de las 00:02 UTC). Vs 2-nov (+17.80% total): semana del desplome de la IA tras las elecciones (Nasdaq -5.5% el jue 5; chips -29% en 5 semanas; Nvidia/Jensen Huang el dom 8). **MU 879→703 (-20%)** = lo que más pesó; AVGO 326→307; MELI 1,633→1,526. Compensaron MSFT 524→547, ANET 169→177, META 612→636, BABA 102→106, SPOT 582→598. Precios del primer minuto de la sesión (volátiles). Pablo en LA (regresa hoy). Entrega: solo audio.
+
 ### 2026-11-02 (lunes, apertura — corrida PROACTIVA vía cron 6:31 AM PT, ya en PST; precios en vivo Yahoo 14:31 UTC) — TC 18.6437
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|
