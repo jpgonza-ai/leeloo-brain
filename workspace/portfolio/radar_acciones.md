@@ -40,6 +40,21 @@ Notas: confirmado por Pablo el 2026-10-12 (msg 3684: "4 acciones"; $14,864 = mon
 
 ## Historial de actualizaciones (columna amarilla + TC)
 
+### 2026-11-16 (lunes, apertura — corrida PROACTIVA vía cron 6:31 AM PT; precios en vivo Yahoo 14:30 UTC; Pablo en NY) — TC 18.6369
+| Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
+|---|---|---|---|---|
+| ANET (7) | 184.73 | 24,099.56 | 7,338.97 | 43.79% |
+| AVGO | 333.00 | 55,854.79 | 4,674.76 | 9.13% |
+| BABA | 92.30 | 20,642.23 | -2,985.53 | -12.64% |
+| MELI | 1,491.76 | 55,603.56 | -3,521.64 | -5.96% |
+| META | 632.82 | 58,969.02 | 4,109.02 | 7.49% |
+| MSFT | 523.19 | 126,758.32 | 37,680.89 | 42.30% |
+| MU | 729.75 | 27,200.56 | -3,646.52 | -11.82% |
+| SPOT | 614.22 | 22,894.31 | 6,007.87 | 35.58% |
+| WMT | 129.40 | 26,527.76 | 5,570.56 | 26.58% |
+
+**Totales:** Costo vigente 363,321.73 · Valor actual 418,550.11 · **No realizada +55,228.38 MXN (+15.20%)** + utilidad realizada ANET +5,286.52 → **total +60,514.90 MXN (+16.23% sobre el costo original de 372,899.21)**. Verde 6 / Rojo 3. TC 18.6369 (Yahoo en vivo; er-api 18.5449, dato de las 00:02 UTC). Vs 9-nov (+16.77% total). Semana de la renuncia de Jensen Huang (rivales arriba: AVGO 307→333), Cisco, CPI/PPI calientes; BABA 106→92 (restricciones de chips de IA); MSFT 547→523 (Anthropic/caída de 365). Esta semana: NVDA reporta; WMT y BABA el jue 19; IPO de Anthropic. Precios del primer minuto. Entrega: solo audio.
+
 ### 2026-11-09 (lunes, apertura — corrida PROACTIVA vía cron 6:31 AM PT; precios en vivo Yahoo 14:30 UTC) — TC 18.6150
 | Emisora | Precio Mercado USD | Total (MXN) | Plus/Minus (MXN) | Plus/Minus % |
 |---|---|---|---|---|
