@@ -28,8 +28,11 @@ Seguimiento del portafolio que Pablo va comprando. Pablo pidió (2026-08-05) que
 | MU | 15,423.54 | 2 | 30,847.08 |
 | SPOT | 8,443.22 | 2 | 16,886.44 |
 | WMT | 1,905.20 | 11 | 20,957.20 |
+| GOOGL | 5,311.41 | 7 | 37,179.86 |
 
-**Costo total vigente: 363,321.73 MXN** (antes 372,899.21 con 11 ANET).
+**Costo total vigente: 400,501.59 MXN** (desde 2026-11-18, con la compra de 7 GOOGL; antes 363,321.73 con 9 emisoras; y 372,899.21 con 11 ANET).
+
+> **Compra 2026-11-18 (Pablo, msg 4509/4511):** 7 acciones de **GOOGL** (Alphabet Clase A; Pablo escribió 'GOOG' pero confirmó GOOGL) a US$283.39, TC 18.7424 → **monto total 37,179.8611 MXN** (confirmado por Pablo) = 5,311.41 MXN/acción. Pablo había anotado 'precio MXN 5,269.56', pero no cuadraba con el total; se usa el total. A partir del radar del lun 23-nov el portafolio tiene **10 emisoras**; el costo original de referencia para el % total pasa a ser 372,899.21 + 37,179.86 = **410,079.07 MXN**.
 
 ## Ventas / utilidad realizada
 | Fecha | Emisora | Títulos vendidos | Monto venta (MXN) | Costo de lo vendido (MXN) | Utilidad realizada (MXN) |
